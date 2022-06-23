@@ -1,5 +1,5 @@
 ---
-title: "1. Коротко ООП PHP - Класс (class) и его объект (object)"
+title: "1. Коротко ООП PHP - Класс и его объект"
 categories: 
   - "php"
 ---
