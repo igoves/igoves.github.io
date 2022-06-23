@@ -1,1 +1,26 @@
-theme: jekyll-theme-cayman
+title: XFOR.TOP
+author: Igor Veselov
+email: dev@xfor.top
+url: https://igoves.github.io
+baseurl: "/"
+description: > 
+  Software and services for e-commerce
+
+permalink: /:slug
+
+favicon: "logo.svg"
+
+remote_theme: riggraz/no-style-please 
+
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" 
+  show_description: true 
+
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
