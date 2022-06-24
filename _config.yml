@@ -11,6 +11,7 @@ permalink: /:slug
 favicon: "logo.svg"
 
 remote_theme: riggraz/no-style-please 
+highlighter: rouge
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
