@@ -1,268 +1,136 @@
-.highlight
-  .hll
-    background-color: rgb(255, 255, 204)
+$background: #272822;
 
-  // Comment
-  .c
-    color: rgb(153, 153, 136)
-    font-style: italic
+.highlight {
+  background-color: $background;
 
-  // Error
-  .err
-    background-color: rgb(227, 210, 210)
-    color: rgb(166, 23, 23)
+  .hll {
+    background-color: #49483e;
+  }
+  .c {
+    color: #a8a38d;
+  }
+  .err {
+    color: #960050;
+    background-color: #1e0010;
+  }
+  .k {
+    color: #66d9ef;
+  }
+  .l {
+    color: #ae81ff;
+  }
+  .n {
+    color: #f8f8f2;
+  }
+  .o {
+    color: #f92672;
+  }
+  .p {
+    color: #f8f8f2;
+  }
+  .cm, .cp, .c1, .cs {
+    color: #a8a38d;
+  }
+  .ge {
+    font-style: italic;
+  }
+  .gs {
+    font-weight: bold;
+  }
+  .kc, .kd {
+    color: #66d9ef;
+  }
+  .kn {
+    color: #f92672;
+  }
+  .kp, .kr, .kt {
+    color: #66d9ef;
+  }
+  .ld {
+    color: #e6db74;
+  }
+  .m {
+    color: #ae81ff;
+  }
+  .s {
+    color: #e6db74;
+  }
+  .na {
+    color: #a6e22e;
+  }
+  .nb {
+    color: #f8f8f2;
+  }
+  .nc {
+    color: #a6e22e;
+  }
+  .no {
+    color: #66d9ef;
+  }
+  .nd {
+    color: #a6e22e;
+  }
+  .ni {
+    color: #f8f8f2;
+  }
+  .ne, .nf {
+    color: #a6e22e;
+  }
+  .nl, .nn {
+    color: #f8f8f2;
+  }
+  .nx {
+    color: #a6e22e;
+  }
+  .py {
+    color: #f8f8f2;
+  }
+  .nt {
+    color: #f92672;
+  }
+  .nv {
+    color: #f8f8f2;
+  }
+  .ow {
+    color: #f92672;
+  }
+  .w {
+    color: #f8f8f2;
+  }
+  .mf, .mh, .mi, .mo {
+    color: #ae81ff;
+  }
+  .sb, .sc, .sd, .s2 {
+    color: #e6db74;
+  }
+  .se {
+    color: #ae81ff;
+  }
+  .sh, .si, .sx, .sr, .s1, .ss {
+    color: #e6db74;
+  }
+  .bp, .vc, .vg, .vi {
+    color: #f8f8f2;
+  }
+  .il {
+    color: #ae81ff;
+  }
+  .gh {}
+  .gu {
+    color: #75715e;
+  }
+  .gd {
+    color: #f92672;
+  }
+  .gi {
+    color: #a6e22e;
+  }
+}
 
-  // Keyword
-  .k
-    color: rgb(0, 0, 0)
-    font-weight: bold
-
-  // Operator
-  .o
-    color: rgb(0, 0, 0)
-    font-weight: bold
-
-  // Comment.Multiline
-  .cm
-    color: rgb(153, 153, 136)
-    font-style: italic
-
-  // Comment.Preproc
-  .cp
-    color: rgb(153, 153, 153)
-    font-style: italic
-    font-weight: bold
-
-  // Comment.Single
-  .c1
-    color: rgb(153, 153, 136)
-    font-style: italic
-
-  // Comment.Special
-  .cs
-    color: rgb(153, 153, 153)
-    font-style: italic
-    font-weight: bold
-
-  // Generic.Deleted
-  .gd
-    background-color: rgb(255, 221, 221)
-    color: rgb(0, 0, 0)
-
-  // Generic.Emph
-  .ge
-    color: rgb(0, 0, 0)
-    font-style: italic
-
-  // Generic.Error
-  .gr
-    color: rgb(170, 0, 0)
-
-  // Generic.Heading
-  .gh
-    color: rgb(153, 153, 153)
-
-  // Generic.Inserted
-  .gi
-    background-color: rgb(221, 255, 221)
-    color: rgb(0, 0, 0)
-
-  // Generic.Output
-  .go
-    color: rgb(136, 136, 136)
-
-  // Generic.Prompt
-  .gp
-    color: rgb(85, 85, 85)
-
-  // Generic.Strong
-  .gs
-    font-weight: bold
-
-  // Generic.Subheading
-  .gu
-    color: rgb(170, 170, 170)
-
-  // Generic.Traceback
-  .gt
-    color: rgb(170, 0, 0)
-
-  // Keyword.Constant
-  .kc
-    color: rgb(0, 0, 0)
-    font-weight: bold
-
-  // Keyword.Declaration
-  .kd
-    color: rgb(0, 0, 0)
-    font-weight: bold
-
-  // Keyword.Namespace
-  .kn
-    color: rgb(0, 0, 0)
-    font-weight: bold
-
-  // Keyword.Pseudo
-  .kp
-    color: rgb(0, 0, 0)
-    font-weight: bold
-
-  // Keyword.Reserved
-  .kr
-    color: rgb(0, 0, 0)
-    font-weight: bold
-
-  // Keyword.Type
-  .kt
-    color: rgb(68, 85, 136)
-    font-weight: bold
-
-  // Literal.Number
-  .m
-    color: rgb(0, 153, 153)
-
-  // Literal.String
-  .s
-    color: rgb(208, 16, 64)
-
-  // Name.Attribute
-  .na
-    color: rgb(0, 128, 128)
-
-  // Name.Builtin
-  .nb
-    color: rgb(0, 134, 179)
-
-  // Name.Class
-  .nc
-    color: rgb(68, 85, 136)
-    font-weight: bold
-
-  // Name.Constant
-  .no
-    color: rgb(0, 128, 128)
-
-  // Name.Decorator
-  .nd
-    color: rgb(60, 93, 93)
-    font-weight: bold
-
-  // Name.Entity
-  .ni
-    color: rgb(128, 0, 127)
-
-  // Name.Exception
-  .ne
-    color: rgb(153, 0, 0)
-    font-weight: bold
-
-  // Name.Function
-  .nf
-    color: rgb(153, 0, 0)
-    font-weight: bold
-
-  // Name.Label
-  .nl
-    color: rgb(153, 0, 0)
-    font-weight: bold
-
-  // Name.Namespace
-  .nn
-    color: rgb(85, 85, 85)
-
-  // Name.Tag
-  .nt
-    color: rgb(0, 0, 128)
-
-  // Name.Variable
-  .nv
-    color: rgb(0, 128, 128)
-
-  // Operator.Word
-  .ow
-    color: rgb(0, 0, 0)
-    font-weight: bold
-
-  // Text.Whitespace
-  .w
-    color: rgb(187, 187, 187)
-
-  // Literal.Number.Float
-  .mf
-    color: rgb(0, 153, 153)
-
-  // Literal.Number.Hex
-  .mh
-    color: rgb(0, 153, 153)
-
-  // Literal.Number.Integer
-  .mi
-    color: rgb(0, 153, 153)
-
-  // Literal.Number.Oct
-  .mo
-    color: rgb(0, 153, 153)
-
-  // Literal.String.Backtick
-  .sb
-    color: rgb(208, 16, 64)
-
-  // Literal.String.Char
-  .sc
-    color: rgb(208, 16, 64)
-
-  // Literal.String.Doc
-  .sd
-    color: rgb(208, 16, 64)
-
-  // Literal.String.Double
-  .s2
-    color: rgb(208, 16, 64)
-
-  // Literal.String.Escape
-  .se
-    color: rgb(208, 16, 64)
-
-  // Literal.String.Heredoc
-  .sh
-    color: rgb(208, 16, 64)
-
-  // Literal.String.Interpol
-  .si
-    color: rgb(208, 16, 64)
-
-  // Literal.String.Other
-  .sx
-    color: rgb(208, 16, 64)
-
-  // Literal.String.Regex
-  .sr
-    color: rgb(0, 153, 38)
-
-  // Literal.String.Single
-  .s1
-    color: rgb(208, 16, 64)
-
-  // Literal.String.Symbol
-  .ss
-    color: rgb(153, 0, 115)
-
-  // Name.Builtin.Pseudo
-  .bp
-    color: rgb(153, 153, 153)
-
-  // Name.Variable.Class
-  .vc
-    color: rgb(0, 128, 128)
-
-  // Name.Variable.Global
-  .vg
-    color: rgb(0, 128, 128)
-
-  // Name.Variable.Instance
-  .vi
-    color: rgb(0, 128, 128)
-
-  // Literal.Number.Integer.Long
-  .il
-    color: rgb(0, 153, 153)
+code{
+  background-color: "#282C34";
+  color: whitesmoke;}
+pre {
+  background-color: "#282C34";
+  color: whitesmoke;
+}
