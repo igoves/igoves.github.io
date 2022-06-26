@@ -1,5 +1,5 @@
 ---
-title: "Подмена старндартного type=\\"file\\""
+title: "Подмена старндартного type=file"
 categories: 
   - "js"
 tags: 
