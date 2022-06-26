@@ -87,7 +87,7 @@ img {
 
 .pagination {
   /* @include clearfix(); */
-  float: left;
+  display: flex;
   margin-top: 1em;
   padding-top: 1em;
   width: 100%;
@@ -99,11 +99,13 @@ img {
     float: left;
     width: 50%;
     /* font-family: $sans-serif; */
-    font-weight: bold;
+    /* font-weight: bold; */
     text-align: center;
     text-decoration: none;
     /* border: 1px solid mix(#000, $border-color, 25%); */
     /* border-radius: $border-radius; */
+	border: 1px solid #fff;
+	background: rgba(255,255,255, 0.5);
 
     &:hover {
       /* @include yiq-contrasted($muted-text-color); */
@@ -124,6 +126,7 @@ img {
       /* color: rgba($muted-text-color, 0.5); */
       pointer-events: none;
       cursor: not-allowed;
+	  visibility: hidden;
     }
   }
 }
