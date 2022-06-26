@@ -8,12 +8,11 @@ description: >
 
 permalink: /:slug
 
-favicon: "logo.svg"
+favicon: "favicon.ico"
 
 remote_theme: riggraz/no-style-please 
 
 theme_config:
-  appearance: "auto" 
   back_home_text: "< back"
   date_format: "%Y-%m-%d" 
   show_description: true 
