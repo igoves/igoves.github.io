@@ -4,5 +4,6 @@ source "https://rubygems.org"
 
 gem "kramdown-parser-gfm"
 gem "jekyll-target-blank"
+gem "jekyll-tagging-related_posts"
 
 gemspec
