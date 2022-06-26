@@ -1,0 +1,42 @@
+---
+title: "danog/MadelineProto - асинхронный PHP клиент/сервер API для телеграм MTProto протокол"
+date: ""
+categories: 
+  - "php"
+---
+
+```
+<?php
+
+if (!file_exists('madeline.php')) {
+    copy('https://phar.madelineproto.xyz/madeline.php', 'madeline.php');
+}
+include 'madeline.php';
+
+$MadelineProto = new \\danog\\MadelineProto\\API('session.madeline');
+$MadelineProto->async(true);
+$MadelineProto->loop(function () use ($MadelineProto) {
+    yield $MadelineProto->start();
+
+    $me = yield $MadelineProto->getSelf();
+
+    $MadelineProto->logger($me);
+
+    if (!$me['bot']) {
+        yield $MadelineProto->messages->sendMessage(['peer' => '@danogentili', 'message' => "Hi!\\nThanks for creating MadelineProto! <3"]);
+        yield $MadelineProto->channels->joinChannel(['channel' => '@MadelineProto']);
+
+        try {
+            yield $MadelineProto->messages->importChatInvite(['hash' => 'https://t.me/joinchat/Bgrajz6K-aJKu0IpGsLpBg']);
+        } catch (\\danog\\MadelineProto\\RPCErrorException $e) {
+            $MadelineProto->logger($e);
+        }
+
+        yield $MadelineProto->messages->sendMessage(['peer' => 'https://t.me/joinchat/Bgrajz6K-aJKu0IpGsLpBg', 'message' => 'Testing MadelineProto!']);
+    }
+    yield $MadelineProto->echo('OK, done!');
+});
+```
+
+  
+[https://github.com/danog/MadelineProto](https://dev.xfor.top/go/aHR0cHM6Ly9naXRodWIuY29tL2Rhbm9nL01hZGVsaW5lUHJvdG8%3D)

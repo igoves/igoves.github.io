@@ -1,6 +1,6 @@
-title: XFOR.TOP
+title: IGOVES.GITHUB.IO
 author: Igor Veselov
-email: dev@xfor.top
+email: igoves.dev@gmail.com
 url: https://igoves.github.io
 baseurl: "/"
 description: > 
@@ -11,6 +11,9 @@ permalink: /:slug
 favicon: "logo.svg"
 
 remote_theme: riggraz/no-style-please 
+
+target-blank:
+    rel: nofollow
 
 theme_config:
   appearance: "auto" 
@@ -23,3 +26,4 @@ sass:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-target-blank

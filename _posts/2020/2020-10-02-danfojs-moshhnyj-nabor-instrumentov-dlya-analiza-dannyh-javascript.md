@@ -1,0 +1,53 @@
+---
+title: "danfojs - мощный набор инструментов для анализа данных javascript"
+date: "2020-10-02"
+categories: 
+  - "php"
+tags: 
+  - "analitika"
+  - "grafiki"
+  - "data"
+---
+
+![](images/browser-out.gif)
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/danfojs@0.1.1/dist/index.min.js"></script>
+    <title>Document</title>
+</head>
+
+<body>
+
+    <div id="div1"></div>
+    <div id="div2"></div>
+    <div id="div3"></div>
+
+    <script>
+
+        dfd.read_csv("https://raw.githubusercontent.com/plotly/datasets/master/finance-charts-apple.csv")
+            .then(df => {
+
+                df['AAPL.Open'].plot("div1").box() //makes a box plot
+
+                df.plot("div2").table() //display csv as table
+
+                new_df = df.set_index({ key: "Date" }) //resets the index to Date column
+                new_df.plot("div3").line({ columns: ["AAPL.Open", "AAPL.High"] })  //makes a timeseries plot
+
+            }).catch(err => {
+                console.log(err);
+            })
+
+    </script>
+    
+</body>
+
+</html>
+```
+
+[https://github.com/opensource9ja/danfojs](https://github.com/opensource9ja/danfojs)

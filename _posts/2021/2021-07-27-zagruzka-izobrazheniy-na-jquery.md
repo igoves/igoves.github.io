@@ -1,0 +1,14 @@
+---
+title: "Загрузка изображений на jQuery"
+date: ""
+categories: 
+  - "js"
+---
+
+![Загрузка изображений на jQuery](images/1309602346_jqueryimageload.png "Загрузка изображений на jQuery")
+
+  
+
+```
+$(function () {    //@ my flicker link    var flickr_set = 'http://www.flickr.com/photos/87187920@N00/';    //@ id of div where the loading informations visible    var _loadDivId = 'loadnote';    //@ id of the ul container    var _imgContainerId = 'container';    //@ style of li loading (spinner image)    var _imageLoadClassName = 'loading';    //@ grab the images    var images = $('ul#'+_imgContainerId+' li img');    //@ image length    var max = images.length;    //@ remove them from DOM to prevent normal load    $('ul#'+_imgContainerId+' li').remove();    //@ loading div object    var loadDiv = null;    //@ start loading    if(max>0){        loadDiv = $('<div id="'+_loadDivId+'" style="display:none"></div>').appendTo($('body'));        LoadImage(0,max);    }    //@ Loading Function Handler    function LoadImage(index,max)    {        if(index<max)        {            // loading div update            $('#'+_loadDivId).html("Loading "+(index+1)+" of "+max).fadeIn("fast");            // add list to ul            var list = $('<li id="_img'+index+'"></li>').attr('class',_imageLoadClassName).appendTo('ul#'+_imgContainerId);            // new image object            var img = new Image();            // current image            var curr = $("li#_img"+index);            // load current image            $(img).load(function ()            {                //@ hide it first + .hide() failed in safari                $(this).css('display','none');                //@ remove loading class from li and insert the image into it                $(curr).removeClass(_imageLoadClassName).append(this);                //@ optional wrap with link                $(this).wrap('<a href="'+flickr_set+'"></a>');                //@ fade it in                $(this).fadeIn('slow',function()                {                    if(index == (max-1))                        {                            //@ remove loading div after all images loaded                            $(loadDiv).remove();                        }                    else                        {                          //@ we are inform loading next item                          $(loadDiv).html('Wait Loading Next Item ...');                          //@ delay 2 secons and load next item *uses jquery timer plugin*                          $(this).oneTime("2s", function() { LoadImage(index+1,max); });                        }                });            }).error(function () {                //@ if loading error remove li                $(curr).remove();                //@ try to load next item                LoadImage(index+1,max);            }).attr('src', $(images[index]).attr('src'));        }    }});
+```
