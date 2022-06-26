@@ -1,10 +1,10 @@
 ---
-title: "superplaceholder.js - скрипт создания анимированых placeholder\'ов"
+title: "superplaceholder.js - скрипт создания анимированых placeholder"
 categories: 
   - "js"
 ---
 
-![superplaceholder.js - скрипт создания анимированых placeholder'ов](images/1457687329_untitled-1.jpg "superplaceholder.js - скрипт создания анимированых placeholder'ов")
+![superplaceholder.js - скрипт создания анимированых placeholder](images/1457687329_untitled-1.jpg "superplaceholder.js - скрипт создания анимированых placeholder")
 
   
-[http://kushagragour.in/lab/superplaceholderjs/](https://dev.xfor.top/go/aHR0cDovL2t1c2hhZ3JhZ291ci5pbi9sYWIvc3VwZXJwbGFjZWhvbGRlcmpzLw%3D%3D)
+[http://kushagragour.in/lab/superplaceholderjs/](http://kushagragour.in/lab/superplaceholderjs/)
