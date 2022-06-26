@@ -1,7 +1,7 @@
 entries:
-  - title: info
+  - title: Navigation
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/igoves
-      - title: test
+      - title: Blog
+        url: /archive
+      - title: "github: <a href='https://github.com/igoves'>igoves</a>"
+      - title: "email: <a href='mailto:igoves.dev@gmail.com'>igoves.dev@gmail.com</a>"
