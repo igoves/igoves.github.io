@@ -12,9 +12,6 @@ favicon: "logo.svg"
 
 remote_theme: riggraz/no-style-please 
 
-target-blank:
-    rel: nofollow
-
 theme_config:
   appearance: "auto" 
   back_home_text: ".."
@@ -27,3 +24,6 @@ sass:
 plugins:
   - jekyll-seo-tag
   - jekyll-target-blank
+
+target-blank:
+    rel: nofollow
