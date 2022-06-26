@@ -1,7 +1,4 @@
 entries:
-  - title: github
-    url: https://github.com/igoves
-
   - title: latest posts
     post_list:
       limit: 10
