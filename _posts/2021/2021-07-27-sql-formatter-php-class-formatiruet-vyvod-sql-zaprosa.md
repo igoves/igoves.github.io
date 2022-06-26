@@ -1,6 +1,5 @@
 ---
 title: "sql-formatter - php class форматирует вывод sql запроса"
-date: ""
 categories: 
   - "php"
 ---

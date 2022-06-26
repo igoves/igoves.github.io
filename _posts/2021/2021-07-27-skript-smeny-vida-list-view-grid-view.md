@@ -1,6 +1,5 @@
 ---
 title: "Скрипт смены вида (List view / Grid view)"
-date: ""
 categories: 
   - "js"
 tags: 

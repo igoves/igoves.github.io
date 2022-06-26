@@ -1,6 +1,5 @@
 ---
 title: "jQuery Flight Board"
-date: ""
 categories: 
   - "js"
 ---

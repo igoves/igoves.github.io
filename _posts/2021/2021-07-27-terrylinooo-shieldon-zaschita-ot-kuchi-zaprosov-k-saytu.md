@@ -1,6 +1,5 @@
 ---
 title: "terrylinooo/shieldon - защита от кучи запросов к сайту"
-date: ""
 categories: 
   - "php"
 ---

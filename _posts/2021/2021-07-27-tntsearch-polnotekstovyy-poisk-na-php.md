@@ -1,6 +1,5 @@
 ---
 title: "TNTSearch - полнотекстовый поиск на PHP"
-date: ""
 categories: 
   - "php"
 ---

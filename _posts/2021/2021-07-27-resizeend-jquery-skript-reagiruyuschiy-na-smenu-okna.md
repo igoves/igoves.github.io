@@ -1,6 +1,5 @@
 ---
 title: "Resizeend - jQuery скрипт реагирующий на смену окна"
-date: ""
 categories: 
   - "js"
 ---

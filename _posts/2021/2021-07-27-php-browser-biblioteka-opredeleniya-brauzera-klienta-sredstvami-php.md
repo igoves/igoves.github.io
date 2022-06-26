@@ -1,6 +1,5 @@
 ---
 title: "PHP Browser - библиотека определения браузера клиента средствами PHP"
-date: ""
 categories: 
   - "php"
 ---

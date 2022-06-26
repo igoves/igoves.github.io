@@ -1,6 +1,5 @@
 ---
 title: "Пропорциональное масштабируемое видео и валидный youtube"
-date: ""
 categories: 
   - "css"
 tags: 

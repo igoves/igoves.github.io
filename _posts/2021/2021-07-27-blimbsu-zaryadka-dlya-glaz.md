@@ -1,6 +1,5 @@
 ---
 title: "blimb.su - зарядка для глаз"
-date: ""
 categories: 
   - "note"
 ---

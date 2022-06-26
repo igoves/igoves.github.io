@@ -1,6 +1,5 @@
 ---
 title: "tablesorter - гибкая сортировка таблиц на стороне клиента"
-date: ""
 categories: 
   - "js"
 ---

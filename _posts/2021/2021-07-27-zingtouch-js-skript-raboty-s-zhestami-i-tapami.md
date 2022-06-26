@@ -1,6 +1,5 @@
 ---
 title: "zingtouch - js скрипт работы с жестами и тапами"
-date: ""
 categories: 
   - "js"
 ---

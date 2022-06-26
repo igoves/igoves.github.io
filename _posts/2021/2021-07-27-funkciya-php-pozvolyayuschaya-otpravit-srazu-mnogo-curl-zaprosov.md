@@ -1,6 +1,5 @@
 ---
 title: "Функция PHP позволяющая отправить сразу много CURL запросов"
-date: ""
 categories: 
   - "php"
 tags: 

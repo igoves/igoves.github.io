@@ -1,6 +1,5 @@
 ---
 title: "Downloadify - создание файла на стороне клиента"
-date: ""
 categories: 
   - "js"
 tags: 

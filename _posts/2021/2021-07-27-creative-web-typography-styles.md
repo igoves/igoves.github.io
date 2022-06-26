@@ -1,6 +1,5 @@
 ---
 title: "Creative Web Typography Styles"
-date: ""
 categories: 
   - "js"
 tags: 

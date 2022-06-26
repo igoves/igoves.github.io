@@ -1,6 +1,5 @@
 ---
 title: "Меню на CSS3 с анимацией"
-date: ""
 categories: 
   - "css"
 ---

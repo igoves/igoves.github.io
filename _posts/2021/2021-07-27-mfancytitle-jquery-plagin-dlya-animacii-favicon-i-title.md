@@ -1,6 +1,5 @@
 ---
 title: "mFancyTitle - jquery плагин для анимации favicon и title"
-date: ""
 categories: 
   - "js"
 ---

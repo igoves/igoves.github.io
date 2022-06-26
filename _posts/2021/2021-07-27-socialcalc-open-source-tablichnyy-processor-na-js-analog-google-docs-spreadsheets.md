@@ -1,6 +1,5 @@
 ---
 title: "SocialCalc - Open Source табличный процессор на JS (аналог Google Docs Spreadsheets)"
-date: ""
 categories: 
   - "js"
 tags: 

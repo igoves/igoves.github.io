@@ -1,6 +1,5 @@
 ---
 title: "О хорошем"
-date: ""
 categories: 
   - "note"
 ---

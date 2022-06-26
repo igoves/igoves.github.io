@@ -1,6 +1,5 @@
 ---
 title: "Twitter Bootstrap Extensions: Notifications"
-date: ""
 categories: 
   - "js"
 tags: 

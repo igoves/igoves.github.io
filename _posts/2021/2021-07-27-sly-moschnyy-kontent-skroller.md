@@ -1,6 +1,5 @@
 ---
 title: "Sly - мощный контент скроллер"
-date: ""
 categories: 
   - "js"
 tags: 

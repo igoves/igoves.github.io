@@ -1,6 +1,5 @@
 ---
 title: "Popper.js - скрипт продвинутых подсказок для блока"
-date: ""
 categories: 
   - "js"
 ---

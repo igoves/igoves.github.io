@@ -1,6 +1,5 @@
 ---
 title: "jQuery AJAX Alert Бокс"
-date: ""
 categories: 
   - "js"
 ---

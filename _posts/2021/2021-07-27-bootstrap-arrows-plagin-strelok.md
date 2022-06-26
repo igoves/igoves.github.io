@@ -1,6 +1,5 @@
 ---
 title: "Bootstrap Arrows - плагин стрелок"
-date: ""
 categories: 
   - "js"
 tags: 

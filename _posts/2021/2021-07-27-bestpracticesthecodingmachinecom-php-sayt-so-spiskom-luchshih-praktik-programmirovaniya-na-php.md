@@ -1,6 +1,5 @@
 ---
 title: "bestpractices.thecodingmachine.com/php - сайт со списком лучших практик программирования на php"
-date: ""
 categories: 
   - "note"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Черновик по основным запросам Mongodb через PHP"
-date: ""
 categories: 
   - "php"
 tags: 

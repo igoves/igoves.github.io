@@ -1,6 +1,5 @@
 ---
 title: "jQuery Stars cursor animation"
-date: ""
 categories: 
   - "js"
 tags: 

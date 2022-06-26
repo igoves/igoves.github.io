@@ -1,6 +1,5 @@
 ---
 title: "xtype.js - data валидатор на js, около 40 проверок на тип"
-date: ""
 categories: 
   - "js"
 ---

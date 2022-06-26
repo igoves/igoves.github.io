@@ -1,6 +1,5 @@
 ---
 title: "php-zip - работа с zip архивами на чистом php"
-date: ""
 categories: 
   - "php"
 ---

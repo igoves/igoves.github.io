@@ -1,6 +1,5 @@
 ---
 title: "Опыт бесценен"
-date: ""
 categories: 
   - "note"
 tags: 

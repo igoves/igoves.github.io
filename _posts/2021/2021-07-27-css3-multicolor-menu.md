@@ -1,6 +1,5 @@
 ---
 title: "CSS3 multicolor menu"
-date: ""
 categories: 
   - "css"
 tags: 

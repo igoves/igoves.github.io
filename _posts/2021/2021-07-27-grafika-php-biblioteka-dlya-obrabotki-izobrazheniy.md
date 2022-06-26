@@ -1,6 +1,5 @@
 ---
 title: "grafika - php библиотека для обработки изображений"
-date: ""
 categories: 
   - "php"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Рейтинг звездочек на jQuery"
-date: ""
 categories: 
   - "js"
 ---

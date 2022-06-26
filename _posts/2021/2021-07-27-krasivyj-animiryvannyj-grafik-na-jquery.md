@@ -1,6 +1,5 @@
 ---
 title: "Красивый анимированный график   на jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

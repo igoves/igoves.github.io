@@ -1,6 +1,5 @@
 ---
 title: "drift - бесплатная замена cloudzoom, скрипт лупы"
-date: ""
 categories: 
   - "js"
 ---

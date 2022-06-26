@@ -1,6 +1,5 @@
 ---
 title: "phan - статический анализатор для PHP"
-date: ""
 categories: 
   - "php"
 ---

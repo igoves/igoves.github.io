@@ -1,6 +1,5 @@
 ---
 title: "Swiper - современный тач слайдер"
-date: ""
 categories: 
   - "js"
 ---

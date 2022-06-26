@@ -1,6 +1,5 @@
 ---
 title: "turn.js - скрипт развертывания"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Awesome Vue список"
-date: ""
 categories: 
   - "js"
 ---

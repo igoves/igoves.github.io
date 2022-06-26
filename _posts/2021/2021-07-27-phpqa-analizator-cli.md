@@ -1,6 +1,5 @@
 ---
 title: "phpqa - анализатор CLI"
-date: ""
 categories: 
   - "php"
 ---

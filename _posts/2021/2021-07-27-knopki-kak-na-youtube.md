@@ -1,6 +1,5 @@
 ---
 title: "Кнопки как на youtube"
-date: ""
 categories: 
   - "css"
 tags: 

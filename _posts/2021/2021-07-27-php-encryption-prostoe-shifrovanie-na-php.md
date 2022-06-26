@@ -1,6 +1,5 @@
 ---
 title: "php-encryption - простое шифрование на php"
-date: ""
 categories: 
   - "php"
 ---

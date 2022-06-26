@@ -1,6 +1,5 @@
 ---
 title: "pretty-dropdowns - простой jQuery плагин для стилизации выпадающего меню"
-date: ""
 categories: 
   - "js"
 ---

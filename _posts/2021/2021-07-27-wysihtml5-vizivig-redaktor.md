@@ -1,6 +1,5 @@
 ---
 title: "WYSIHTML5 - визивиг редактор"
-date: ""
 categories: 
   - "js"
 tags: 

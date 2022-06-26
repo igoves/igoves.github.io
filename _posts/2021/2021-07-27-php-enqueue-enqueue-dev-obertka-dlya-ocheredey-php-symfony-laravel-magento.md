@@ -1,6 +1,5 @@
 ---
 title: "php-enqueue/enqueue-dev - обертка для очередей PHP, Symfony, Laravel, Magento"
-date: ""
 categories: 
   - "php"
 ---

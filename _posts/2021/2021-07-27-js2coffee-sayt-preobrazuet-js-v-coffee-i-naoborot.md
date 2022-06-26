@@ -1,6 +1,5 @@
 ---
 title: "js2.coffee - сайт преобразует js в coffee и наоборот"
-date: ""
 categories: 
   - "js"
 ---

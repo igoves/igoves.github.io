@@ -1,6 +1,5 @@
 ---
 title: "Меню выпадающее на jQuery"
-date: ""
 categories: 
   - "css"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Allofthelights.js - скрипт затемняет страницу для просмотра видео на сайте"
-date: ""
 categories: 
   - "js"
 tags: 

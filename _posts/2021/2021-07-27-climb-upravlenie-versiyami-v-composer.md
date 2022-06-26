@@ -1,6 +1,5 @@
 ---
 title: "climb - управление версиями в composer"
-date: ""
 categories: 
   - "js"
 ---

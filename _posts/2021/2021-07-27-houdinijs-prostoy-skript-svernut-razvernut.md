@@ -1,6 +1,5 @@
 ---
 title: "houdini.js - простой скрипт свернуть-развернуть"
-date: ""
 categories: 
   - "js"
 tags: 

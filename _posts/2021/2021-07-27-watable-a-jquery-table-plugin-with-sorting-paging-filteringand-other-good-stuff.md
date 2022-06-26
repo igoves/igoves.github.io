@@ -1,6 +1,5 @@
 ---
 title: "WATable  a jQuery table plugin with sorting, paging, filtering...and other good stuff."
-date: ""
 categories: 
   - "js"
 tags: 

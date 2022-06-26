@@ -1,6 +1,5 @@
 ---
 title: "Колонки одинаковой высоты на jQuery"
-date: ""
 categories: 
   - "js"
 ---

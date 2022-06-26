@@ -1,6 +1,5 @@
 ---
 title: "Countable is a JavaScript function to add live paragraph-, word- and character-counting to an HTML element"
-date: ""
 categories: 
   - "js"
 ---

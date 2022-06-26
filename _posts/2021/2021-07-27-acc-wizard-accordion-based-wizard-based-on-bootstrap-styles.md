@@ -1,6 +1,5 @@
 ---
 title: "acc-wizard - accordion-based wizard based on Bootstrap styles"
-date: ""
 categories: 
   - "js"
 tags: 

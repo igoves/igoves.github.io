@@ -1,6 +1,5 @@
 ---
 title: "laravel-debugbar - панель отладки для laravel"
-date: ""
 categories: 
   - "php"
 ---

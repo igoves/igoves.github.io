@@ -1,6 +1,5 @@
 ---
 title: "jQuery Steps - плагин wizard"
-date: ""
 categories: 
   - "js"
 ---

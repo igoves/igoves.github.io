@@ -1,6 +1,5 @@
 ---
 title: "Laravel 5 шпаргалка"
-date: ""
 categories: 
   - "php"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "logerr - js скрипт для отладки"
-date: ""
 categories: 
   - "js"
 ---

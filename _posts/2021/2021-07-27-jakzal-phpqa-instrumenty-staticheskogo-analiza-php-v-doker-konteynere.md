@@ -1,6 +1,5 @@
 ---
 title: "jakzal/phpqa - инструменты статического анализа PHP  в докер контейнере"
-date: ""
 categories: 
   - "php"
 ---

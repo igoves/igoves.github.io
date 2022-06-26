@@ -1,6 +1,5 @@
 ---
 title: "InstantClick - js скрипт подгружает страницу перед кликом по ссылке"
-date: ""
 categories: 
   - "js"
 ---

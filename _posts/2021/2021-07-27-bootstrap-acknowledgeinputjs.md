@@ -1,6 +1,5 @@
 ---
 title: "Bootstrap-AcknowledgeInput.js"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Социальные кнопки для Twitter Bootstrap"
-date: ""
 categories: 
   - "css"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "xobotyi/beansclient - пхп клиент сервера очереди beanstalkd без зависимостей"
-date: ""
 categories: 
   - "php"
 ---

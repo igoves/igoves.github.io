@@ -1,6 +1,5 @@
 ---
 title: "beyondcode/laravel-mailbox - скрипт получения входящего письма в вашем приложении Laravel"
-date: ""
 categories: 
   - "php"
 tags: 

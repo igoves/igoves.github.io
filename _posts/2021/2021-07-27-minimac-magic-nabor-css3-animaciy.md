@@ -1,6 +1,5 @@
 ---
 title: "miniMAC/magic - набор CSS3 анимаций"
-date: ""
 categories: 
   - "css"
 ---

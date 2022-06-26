@@ -1,6 +1,5 @@
 ---
 title: "jquery.selectMe.js - скрипт замены стандартного select"
-date: ""
 categories: 
   - "js"
 ---

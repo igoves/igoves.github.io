@@ -1,6 +1,5 @@
 ---
 title: "Тень для блока кроссбраузерно с помощью CSS"
-date: ""
 categories: 
   - "css"
 tags: 

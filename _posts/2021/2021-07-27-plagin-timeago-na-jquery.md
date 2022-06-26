@@ -1,6 +1,5 @@
 ---
 title: "Плагин timeago на jQuery"
-date: ""
 categories: 
   - "js"
 ---

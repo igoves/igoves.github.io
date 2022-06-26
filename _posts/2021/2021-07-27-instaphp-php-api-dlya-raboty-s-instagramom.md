@@ -1,6 +1,5 @@
 ---
 title: "Instaphp - php api для работы с инстаграмом"
-date: ""
 categories: 
   - "php"
 ---

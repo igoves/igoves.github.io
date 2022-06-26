@@ -1,6 +1,5 @@
 ---
 title: "flexdatalist - js скрипт автокомплита"
-date: ""
 categories: 
   - "js"
 ---

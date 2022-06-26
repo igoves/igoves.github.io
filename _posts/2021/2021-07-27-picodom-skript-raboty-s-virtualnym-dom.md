@@ -1,6 +1,5 @@
 ---
 title: "picodom - скрипт работы с виртуальным DOM"
-date: ""
 categories: 
   - "js"
 ---

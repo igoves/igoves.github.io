@@ -1,6 +1,5 @@
 ---
 title: "Dashing - dashboard framework"
-date: ""
 tags: 
   - "dashing"
 ---

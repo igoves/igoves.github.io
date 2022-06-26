@@ -1,6 +1,5 @@
 ---
 title: "Slideshow with jmpress.js"
-date: ""
 categories: 
   - "js"
 tags: 

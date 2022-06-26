@@ -1,6 +1,5 @@
 ---
 title: "jQuery throttle / debounce"
-date: ""
 categories: 
   - "js"
 ---

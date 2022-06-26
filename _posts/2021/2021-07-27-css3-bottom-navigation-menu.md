@@ -1,6 +1,5 @@
 ---
 title: "CSS3 Bottom navigation menu"
-date: ""
 categories: 
   - "js"
 ---

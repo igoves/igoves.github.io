@@ -1,6 +1,5 @@
 ---
 title: "Функция CROP изображения на JS"
-date: ""
 categories: 
   - "js"
 ---

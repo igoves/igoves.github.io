@@ -1,6 +1,5 @@
 ---
 title: "4lejandrito/creepyface - библиотека Javascript, которая заставляет лицо следовать за указателем"
-date: ""
 categories: 
   - "js"
 ---

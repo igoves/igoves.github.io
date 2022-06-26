@@ -1,6 +1,5 @@
 ---
 title: "Простой ajax editor и jquery"
-date: ""
 categories: 
   - "css"
 tags: 

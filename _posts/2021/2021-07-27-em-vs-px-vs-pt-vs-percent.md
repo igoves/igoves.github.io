@@ -1,6 +1,5 @@
 ---
 title: "em vs. px vs. pt vs. percent"
-date: ""
 categories: 
   - "note"
 tags: 

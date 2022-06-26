@@ -1,6 +1,5 @@
 ---
 title: "Навигация картинками на jQuery"
-date: ""
 categories: 
   - "js"
 ---

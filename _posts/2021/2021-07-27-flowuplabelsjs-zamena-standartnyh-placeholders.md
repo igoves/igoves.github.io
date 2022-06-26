@@ -1,6 +1,5 @@
 ---
 title: "FlowupLabels.js - замена стандартных placeholders"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Функция минимизации (сжатия) html с учетом pre и code"
-date: ""
 categories: 
   - "php"
 ---

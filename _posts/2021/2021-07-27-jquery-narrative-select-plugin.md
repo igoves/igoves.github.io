@@ -1,6 +1,5 @@
 ---
 title: "JQuery Narrative Select Plugin"
-date: ""
 categories: 
   - "css"
 tags: 

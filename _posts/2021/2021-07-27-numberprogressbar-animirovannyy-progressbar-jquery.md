@@ -1,6 +1,5 @@
 ---
 title: "NumberProgressBar - анимированный прогрессбар jQuery"
-date: ""
 categories: 
   - "js"
 ---

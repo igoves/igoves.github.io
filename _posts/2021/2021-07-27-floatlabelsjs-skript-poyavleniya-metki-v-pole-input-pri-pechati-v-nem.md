@@ -1,6 +1,5 @@
 ---
 title: "floatlabels.js - скрипт появления метки в поле input при печати в нем"
-date: ""
 categories: 
   - "js"
 ---

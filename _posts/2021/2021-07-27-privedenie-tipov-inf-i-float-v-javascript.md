@@ -1,6 +1,5 @@
 ---
 title: "Приведение типов inf и float в Javascript"
-date: ""
 categories: 
   - "js"
 tags: 

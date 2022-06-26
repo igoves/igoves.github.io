@@ -1,6 +1,5 @@
 ---
 title: "Программулька jpeg2css"
-date: ""
 categories: 
   - "css"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "jquery.lemongrab.js - простой и минималистичный jQuery-плагин для валидации форм"
-date: ""
 categories: 
   - "js"
 ---

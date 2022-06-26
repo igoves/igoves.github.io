@@ -1,6 +1,5 @@
 ---
 title: "jquery bootstrap simple lightbox"
-date: ""
 categories: 
   - "js"
 ---

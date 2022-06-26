@@ -1,6 +1,5 @@
 ---
 title: "cookies.js - простой скрипт для управления куками"
-date: ""
 categories: 
   - "js"
 ---

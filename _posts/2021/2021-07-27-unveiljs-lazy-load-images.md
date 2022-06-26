@@ -1,6 +1,5 @@
 ---
 title: "Unveil.js - lazy load images"
-date: ""
 categories: 
   - "js"
 tags: 

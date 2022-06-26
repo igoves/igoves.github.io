@@ -1,6 +1,5 @@
 ---
 title: "Введите ПИН на jQuery"
-date: ""
 categories: 
   - "js"
 ---

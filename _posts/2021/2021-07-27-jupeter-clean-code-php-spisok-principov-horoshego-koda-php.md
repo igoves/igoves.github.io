@@ -1,6 +1,5 @@
 ---
 title: "jupeter/clean-code-php - список принципов хорошего кода php"
-date: ""
 categories: 
   - "php"
 ---

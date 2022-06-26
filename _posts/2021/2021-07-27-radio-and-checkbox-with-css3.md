@@ -1,6 +1,5 @@
 ---
 title: "Radio and Checkbox with CSS3"
-date: ""
 categories: 
   - "css"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Any List Scroller aka ALS"
-date: ""
 categories: 
   - "js"
 tags: 

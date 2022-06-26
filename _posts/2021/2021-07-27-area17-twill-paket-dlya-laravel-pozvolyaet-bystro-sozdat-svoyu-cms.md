@@ -1,6 +1,5 @@
 ---
 title: "area17/twill - пакет для Laravel позволяет быстро создать свою CMS"
-date: ""
 categories: 
   - "php"
 ---

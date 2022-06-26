@@ -1,6 +1,5 @@
 ---
 title: "Перемес символов на jQuery"
-date: ""
 categories: 
   - "js"
 ---

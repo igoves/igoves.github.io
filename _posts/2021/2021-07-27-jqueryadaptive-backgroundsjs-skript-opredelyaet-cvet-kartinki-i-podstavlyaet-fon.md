@@ -1,6 +1,5 @@
 ---
 title: "jquery.adaptive-backgrounds.js - скрипт определяет цвет картинки и подставляет фон"
-date: ""
 categories: 
   - "js"
 ---

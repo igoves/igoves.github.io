@@ -1,6 +1,5 @@
 ---
 title: "7. Коротко ООП PHP - Автозагрузка (autoload). Что такое PSR"
-date: ""
 categories: 
   - "php"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Responsive Product Grid Layout"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "jquery.email-autocomplete.js - автокомплит для почтовых адресов"
-date: ""
 categories: 
   - "js"
 ---

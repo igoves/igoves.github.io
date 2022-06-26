@@ -1,6 +1,5 @@
 ---
 title: "Backstretch - a simple jQuery plugin that allows you to add a dynamically-resized"
-date: ""
 categories: 
   - "js"
 tags: 

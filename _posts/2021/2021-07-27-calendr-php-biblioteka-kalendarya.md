@@ -1,6 +1,5 @@
 ---
 title: "CalendR - php библиотека календаря"
-date: ""
 categories: 
   - "php"
 ---

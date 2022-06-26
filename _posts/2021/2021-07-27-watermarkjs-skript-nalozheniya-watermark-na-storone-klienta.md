@@ -1,6 +1,5 @@
 ---
 title: "watermark.js - скрипт наложения watermark на стороне клиента"
-date: ""
 categories: 
   - "js"
 ---

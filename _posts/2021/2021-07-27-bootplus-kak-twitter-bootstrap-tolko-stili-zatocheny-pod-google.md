@@ -1,6 +1,5 @@
 ---
 title: "Bootplus - как twitter bootstrap только стили заточены под google+"
-date: ""
 categories: 
   - "css"
 ---

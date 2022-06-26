@@ -1,6 +1,5 @@
 ---
 title: "Куча всяких анимаций на CSS3"
-date: ""
 categories: 
   - "css"
 ---

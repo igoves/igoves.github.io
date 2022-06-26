@@ -1,6 +1,5 @@
 ---
 title: "tooltipster - jquery плагин всплывающих подсказок"
-date: ""
 categories: 
   - "js"
 tags: 

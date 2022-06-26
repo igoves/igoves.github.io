@@ -1,6 +1,5 @@
 ---
 title: "Скрипт \\"читать дальше\\" с wildberries на jquery"
-date: ""
 categories: 
   - "js"
 tags: 

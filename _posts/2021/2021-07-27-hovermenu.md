@@ -1,6 +1,5 @@
 ---
 title: "HoverMenu"
-date: ""
 categories: 
   - "js"
 tags: 

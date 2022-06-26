@@ -1,6 +1,5 @@
 ---
 title: "marcuswestin/store.js - js скрипт работы с локальным хранилищем"
-date: ""
 categories: 
   - "js"
 ---

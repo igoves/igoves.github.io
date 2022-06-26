@@ -1,6 +1,5 @@
 ---
 title: "jQuery.spritely"
-date: ""
 categories: 
   - "js"
 ---

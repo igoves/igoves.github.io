@@ -1,6 +1,5 @@
 ---
 title: "Tags Manager (a jQuery plugin)"
-date: ""
 categories: 
   - "js"
 tags: 

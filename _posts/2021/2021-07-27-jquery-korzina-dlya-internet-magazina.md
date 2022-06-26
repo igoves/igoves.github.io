@@ -1,6 +1,5 @@
 ---
 title: "jQuery корзина для интернет-магазина"
-date: ""
 categories: 
   - "js"
 tags: 

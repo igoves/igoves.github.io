@@ -1,6 +1,5 @@
 ---
 title: "bootpag - динамическая пагинация ( стороне клиента ) на jQuery"
-date: ""
 categories: 
   - "js"
 ---

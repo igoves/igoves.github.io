@@ -1,6 +1,5 @@
 ---
 title: "JCF (js-custom-forms) - скрипт стилизации стандартных элементов форм"
-date: ""
 categories: 
   - "js"
 ---

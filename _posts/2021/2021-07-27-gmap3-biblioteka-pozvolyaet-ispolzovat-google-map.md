@@ -1,6 +1,5 @@
 ---
 title: "gmap3 - библиотека позволяет использовать Google Map"
-date: ""
 categories: 
   - "js"
 ---

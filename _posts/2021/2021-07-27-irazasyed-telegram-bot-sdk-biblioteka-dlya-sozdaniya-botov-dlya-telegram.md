@@ -1,6 +1,5 @@
 ---
 title: "irazasyed/telegram-bot-sdk - библиотека для создания ботов для Telegram"
-date: ""
 categories: 
   - "php"
 tags: 

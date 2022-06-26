@@ -1,6 +1,5 @@
 ---
 title: "PHLAK/Twine - php скрипт для манипуляций с строкой"
-date: ""
 categories: 
   - "php"
 ---

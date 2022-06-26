@@ -1,6 +1,5 @@
 ---
 title: "Установка программ на CentOS 6.6 ( nginx 1.8.0 + php-fpm 5.6 + mysql 5.6 + mongo 3.0 + sendmail )"
-date: ""
 categories: 
   - "php"
 ---

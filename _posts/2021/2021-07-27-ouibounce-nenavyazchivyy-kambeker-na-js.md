@@ -1,6 +1,5 @@
 ---
 title: "ouibounce - ненавязчивый камбекер на js"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "LookForward.js - js скрипт добавления анимации при переходе на другую страницу"
-date: ""
 categories: 
   - "js"
 ---

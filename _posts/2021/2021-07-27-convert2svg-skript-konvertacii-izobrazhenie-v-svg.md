@@ -1,6 +1,5 @@
 ---
 title: "convert2svg - скрипт конвертации изображение в svg"
-date: ""
 categories: 
   - "note"
 tags: 

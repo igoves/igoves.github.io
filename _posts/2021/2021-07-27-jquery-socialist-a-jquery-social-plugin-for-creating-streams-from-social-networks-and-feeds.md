@@ -1,6 +1,5 @@
 ---
 title: "jquery-socialist - A jQuery social plugin for creating streams from social networks and feeds"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Плагин для jQuery zenInput"
-date: ""
 categories: 
   - "js"
 ---

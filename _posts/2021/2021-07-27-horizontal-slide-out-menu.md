@@ -1,6 +1,5 @@
 ---
 title: "Horizontal Slide Out Menu"
-date: ""
 categories: 
   - "js"
 ---

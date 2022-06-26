@@ -1,6 +1,5 @@
 ---
 title: "Набор эффектов наведения на CSS"
-date: ""
 categories: 
   - "css"
 ---

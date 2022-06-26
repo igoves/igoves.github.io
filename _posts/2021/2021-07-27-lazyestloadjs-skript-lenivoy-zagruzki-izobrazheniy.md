@@ -1,6 +1,5 @@
 ---
 title: "lazyestload.js - скрипт ленивой загрузки изображений"
-date: ""
 categories: 
   - "js"
 ---

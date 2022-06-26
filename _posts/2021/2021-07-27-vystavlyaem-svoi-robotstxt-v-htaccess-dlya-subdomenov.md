@@ -1,6 +1,5 @@
 ---
 title: "Выставляем свои robots.txt в .htaccess для субдоменов"
-date: ""
 categories: 
   - "note"
 ---

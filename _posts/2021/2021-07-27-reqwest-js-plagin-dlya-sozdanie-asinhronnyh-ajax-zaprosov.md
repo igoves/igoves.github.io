@@ -1,6 +1,5 @@
 ---
 title: "reqwest - js плагин для создание асинхронных ajax запросов"
-date: ""
 categories: 
   - "js"
 ---

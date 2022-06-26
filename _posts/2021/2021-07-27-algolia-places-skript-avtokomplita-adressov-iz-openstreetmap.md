@@ -1,6 +1,5 @@
 ---
 title: "algolia/places - скрипт автокомплита адрессов из OpenStreetMap"
-date: ""
 categories: 
   - "js"
 ---

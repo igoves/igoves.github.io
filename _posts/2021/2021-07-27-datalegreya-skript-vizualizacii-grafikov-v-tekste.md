@@ -1,6 +1,5 @@
 ---
 title: "datalegreya - скрипт визуализации графиков в тексте"
-date: ""
 categories: 
   - "js"
 ---

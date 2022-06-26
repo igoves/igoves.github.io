@@ -1,6 +1,5 @@
 ---
 title: "Меню как на почте yandex"
-date: ""
 categories: 
   - "css"
 ---

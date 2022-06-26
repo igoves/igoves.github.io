@@ -1,6 +1,5 @@
 ---
 title: "Multiple Select"
-date: ""
 categories: 
   - "js"
 tags: 

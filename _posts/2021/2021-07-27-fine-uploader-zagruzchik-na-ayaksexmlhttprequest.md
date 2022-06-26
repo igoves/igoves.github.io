@@ -1,6 +1,5 @@
 ---
 title: "Fine Uploader - загрузчик на аяксе(XMLHttpRequest)"
-date: ""
 categories: 
   - "js"
 tags: 

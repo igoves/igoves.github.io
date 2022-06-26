@@ -1,6 +1,5 @@
 ---
 title: "CssToInlineStyles - php класс для встраивания стилей в страницу удобно для создания html писем"
-date: ""
 categories: 
   - "css"
 ---

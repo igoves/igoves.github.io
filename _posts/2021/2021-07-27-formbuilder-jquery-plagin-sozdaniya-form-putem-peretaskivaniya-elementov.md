@@ -1,6 +1,5 @@
 ---
 title: "formBuilder - jquery плагин создания форм, путем перетаскивания элементов"
-date: ""
 categories: 
   - "js"
 ---

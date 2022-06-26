@@ -1,6 +1,5 @@
 ---
 title: "CLNDR.js ~ A jQuery Calendar Plugin"
-date: ""
 categories: 
   - "js"
 ---

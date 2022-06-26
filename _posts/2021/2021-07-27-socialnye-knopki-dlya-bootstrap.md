@@ -1,6 +1,5 @@
 ---
 title: "Социальные кнопки для bootstrap"
-date: ""
 categories: 
   - "css"
 tags: 

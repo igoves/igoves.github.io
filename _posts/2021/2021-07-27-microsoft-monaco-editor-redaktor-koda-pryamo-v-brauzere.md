@@ -1,6 +1,5 @@
 ---
 title: "microsoft/monaco-editor - редактор кода прямо в браузере"
-date: ""
 categories: 
   - "js"
 ---

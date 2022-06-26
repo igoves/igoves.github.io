@@ -1,6 +1,5 @@
 ---
 title: "Набор анимаций на CSS 3"
-date: ""
 categories: 
   - "css"
 ---

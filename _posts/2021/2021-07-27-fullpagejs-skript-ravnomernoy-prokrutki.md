@@ -1,6 +1,5 @@
 ---
 title: "fullPage.js - скрипт равномерной прокрутки"
-date: ""
 categories: 
   - "js"
 ---

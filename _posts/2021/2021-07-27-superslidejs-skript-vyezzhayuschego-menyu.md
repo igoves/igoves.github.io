@@ -1,6 +1,5 @@
 ---
 title: "SuperSlide.js - скрипт выезжающего меню"
-date: ""
 categories: 
   - "js"
 ---

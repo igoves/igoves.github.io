@@ -1,6 +1,5 @@
 ---
 title: "nanoJS - js библиотека для манипулирования DOM всего 0.6 Kb"
-date: ""
 categories: 
   - "js"
 ---

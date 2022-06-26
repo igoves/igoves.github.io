@@ -1,6 +1,5 @@
 ---
 title: "Новый дизайн VESELOV.SUMY.UA"
-date: ""
 categories: 
   - "note"
 ---

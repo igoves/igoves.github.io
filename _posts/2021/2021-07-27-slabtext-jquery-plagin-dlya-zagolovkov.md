@@ -1,6 +1,5 @@
 ---
 title: "slabText – jquery плагин для заголовков"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Интерактивный график используя CSS3 и jQuery Flot"
-date: ""
 categories: 
   - "js"
 tags: 

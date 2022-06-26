@@ -1,6 +1,5 @@
 ---
 title: "beyondcode/laravel-view-xray - laravel скрипт позволяющий наглядно отображать виды шаблона"
-date: ""
 categories: 
   - "php"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Скроллер круговой"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Scroll Follow JS"
-date: ""
 categories: 
   - "js"
 tags: 

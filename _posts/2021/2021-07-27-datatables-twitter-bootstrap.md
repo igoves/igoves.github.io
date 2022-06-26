@@ -1,6 +1,5 @@
 ---
 title: "DataTables twitter bootstrap"
-date: ""
 categories: 
   - "js"
 tags: 

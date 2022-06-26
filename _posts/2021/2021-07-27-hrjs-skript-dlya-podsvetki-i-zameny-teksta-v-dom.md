@@ -1,6 +1,5 @@
 ---
 title: "HR.js - скрипт для подсветки и замены текста в DOM"
-date: ""
 categories: 
   - "js"
 ---

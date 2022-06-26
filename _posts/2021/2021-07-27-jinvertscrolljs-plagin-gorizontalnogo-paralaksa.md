@@ -1,6 +1,5 @@
 ---
 title: "jInvertScroll.js - плагин горизонтального паралакса"
-date: ""
 categories: 
   - "js"
 ---

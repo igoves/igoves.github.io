@@ -1,6 +1,5 @@
 ---
 title: "nice-artisan - веб-интерфейс для artisan laravel 5"
-date: ""
 categories: 
   - "php"
 ---

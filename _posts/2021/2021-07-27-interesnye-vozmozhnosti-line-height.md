@@ -1,6 +1,5 @@
 ---
 title: "Интересные возможности line-height"
-date: ""
 categories: 
   - "css"
 ---

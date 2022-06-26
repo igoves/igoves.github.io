@@ -1,6 +1,5 @@
 ---
 title: "js-url - простой, легкий парсер url на js"
-date: ""
 categories: 
   - "js"
 tags: 

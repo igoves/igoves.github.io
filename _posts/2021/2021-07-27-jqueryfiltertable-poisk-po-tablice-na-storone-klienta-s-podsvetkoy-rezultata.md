@@ -1,6 +1,5 @@
 ---
 title: "jQuery.FilterTable - поиск по таблице на стороне клиента с подсветкой результата"
-date: ""
 categories: 
   - "js"
 ---

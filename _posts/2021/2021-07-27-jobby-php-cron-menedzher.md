@@ -1,6 +1,5 @@
 ---
 title: "jobby - PHP cron менеджер"
-date: ""
 categories: 
   - "php"
 ---

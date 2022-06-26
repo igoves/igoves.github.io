@@ -1,6 +1,5 @@
 ---
 title: "Опять про манипуляцию, она по всюду"
-date: ""
 categories: 
   - "note"
 tags: 

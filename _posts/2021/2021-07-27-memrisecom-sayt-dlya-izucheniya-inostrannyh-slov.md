@@ -1,6 +1,5 @@
 ---
 title: "memrise.com - сайт для изучения иностранных слов"
-date: ""
 categories: 
   - "note"
 tags: 

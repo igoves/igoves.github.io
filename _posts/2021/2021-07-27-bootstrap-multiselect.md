@@ -1,6 +1,5 @@
 ---
 title: "Bootstrap Multiselect"
-date: ""
 categories: 
   - "js"
 tags: 

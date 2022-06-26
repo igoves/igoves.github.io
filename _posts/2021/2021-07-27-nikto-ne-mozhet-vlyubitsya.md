@@ -1,6 +1,5 @@
 ---
 title: "Влюбленность"
-date: ""
 categories: 
   - "note"
 tags: 

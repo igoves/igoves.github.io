@@ -1,6 +1,5 @@
 ---
 title: "PJAX vs jQuery Adress"
-date: ""
 categories: 
   - "js"
 ---

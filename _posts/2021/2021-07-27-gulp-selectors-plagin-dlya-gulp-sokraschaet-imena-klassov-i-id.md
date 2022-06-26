@@ -1,6 +1,5 @@
 ---
 title: "gulp-selectors - плагин для gulp сокращает имена классов и id"
-date: ""
 categories: 
   - "note"
 ---

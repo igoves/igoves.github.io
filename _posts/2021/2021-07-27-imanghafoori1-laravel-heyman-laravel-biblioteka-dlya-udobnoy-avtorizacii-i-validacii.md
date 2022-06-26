@@ -1,6 +1,5 @@
 ---
 title: "imanghafoori1/laravel-heyman - laravel библиотека для удобной авторизации и валидации"
-date: ""
 categories: 
   - "php"
 ---

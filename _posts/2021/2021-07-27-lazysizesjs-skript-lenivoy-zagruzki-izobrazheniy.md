@@ -1,6 +1,5 @@
 ---
 title: "lazysizes.js - скрипт ленивой загрузки изображений"
-date: ""
 categories: 
   - "js"
 ---

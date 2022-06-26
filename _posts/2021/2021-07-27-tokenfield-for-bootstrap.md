@@ -1,6 +1,5 @@
 ---
 title: "Tokenfield for Bootstrap"
-date: ""
 categories: 
   - "js"
 ---

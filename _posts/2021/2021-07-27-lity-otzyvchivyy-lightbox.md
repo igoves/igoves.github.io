@@ -1,6 +1,5 @@
 ---
 title: "lity - отзывчивый lightbox"
-date: ""
 categories: 
   - "js"
 ---

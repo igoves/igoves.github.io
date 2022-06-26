@@ -1,6 +1,5 @@
 ---
 title: "Добавление новостей с картинакми гостями DLE 9.7"
-date: ""
 categories: 
   - "php"
 tags: 

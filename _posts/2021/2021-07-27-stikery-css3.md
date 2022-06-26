@@ -1,6 +1,5 @@
 ---
 title: "Стикеры CSS3"
-date: ""
 categories: 
   - "css"
 ---

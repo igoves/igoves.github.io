@@ -1,6 +1,5 @@
 ---
 title: "Justified.js - скрипт выранивания изображений по ширине"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "niieani/hashids.js - создание id как у ютуба по числам"
-date: ""
 categories: 
   - "js"
 ---

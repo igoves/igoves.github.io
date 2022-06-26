@@ -1,6 +1,5 @@
 ---
 title: "glitch.com - сообщество, где каждый может открыть и создать"
-date: ""
 categories: 
   - "note"
 ---

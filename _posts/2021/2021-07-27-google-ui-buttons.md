@@ -1,6 +1,5 @@
 ---
 title: "Google+ UI Buttons"
-date: ""
 categories: 
   - "note"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Коллекция html элемментов которые можно вставить в HEAD"
-date: ""
 categories: 
   - "note"
 ---

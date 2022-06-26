@@ -1,6 +1,5 @@
 ---
 title: "stickUp плагин залипающего элемента на jquery"
-date: ""
 categories: 
   - "js"
 tags: 

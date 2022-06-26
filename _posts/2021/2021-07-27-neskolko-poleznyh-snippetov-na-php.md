@@ -1,6 +1,5 @@
 ---
 title: "Несколько полезных сниппетов на php"
-date: ""
 categories: 
   - "php"
 ---

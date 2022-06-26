@@ -1,6 +1,5 @@
 ---
 title: "PowerTip - A jQuery plugin that creates hover tooltips"
-date: ""
 categories: 
   - "js"
 tags: 

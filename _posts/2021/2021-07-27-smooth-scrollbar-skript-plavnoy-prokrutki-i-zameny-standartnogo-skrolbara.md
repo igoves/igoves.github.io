@@ -1,6 +1,5 @@
 ---
 title: "smooth-scrollbar - скрипт плавной прокрутки и замены стандартного скролбара"
-date: ""
 categories: 
   - "js"
 ---

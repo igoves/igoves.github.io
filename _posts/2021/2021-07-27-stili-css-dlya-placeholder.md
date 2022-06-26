@@ -1,6 +1,5 @@
 ---
 title: "Стили CSS для placeholder"
-date: ""
 categories: 
   - "css"
 tags: 

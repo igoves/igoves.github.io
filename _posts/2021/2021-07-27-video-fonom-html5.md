@@ -1,6 +1,5 @@
 ---
 title: "Видео фоном HTML5"
-date: ""
 categories: 
   - "css"
 ---

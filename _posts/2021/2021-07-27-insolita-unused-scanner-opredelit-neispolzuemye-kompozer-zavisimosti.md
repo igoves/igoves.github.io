@@ -1,6 +1,5 @@
 ---
 title: "Insolita/unused-scanner - определить неиспользуемые композер зависимости"
-date: ""
 categories: 
   - "php"
 ---

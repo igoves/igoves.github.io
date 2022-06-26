@@ -1,6 +1,5 @@
 ---
 title: "viber-bot-php - интерфейс на php для работы с API viber"
-date: ""
 categories: 
   - "php"
 ---

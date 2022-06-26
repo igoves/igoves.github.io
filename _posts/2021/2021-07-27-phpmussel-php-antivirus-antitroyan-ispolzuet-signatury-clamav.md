@@ -1,6 +1,5 @@
 ---
 title: "phpMussel - пхп антивирус антитроян использует сигнатуры ClamAV"
-date: ""
 categories: 
   - "php"
 ---

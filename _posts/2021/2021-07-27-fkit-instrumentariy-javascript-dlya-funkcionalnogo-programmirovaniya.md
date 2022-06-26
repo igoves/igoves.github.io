@@ -1,6 +1,5 @@
 ---
 title: "fkit - инструментарий javascript для функционального программирования"
-date: ""
 categories: 
   - "js"
 ---

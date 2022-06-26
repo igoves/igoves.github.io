@@ -1,6 +1,5 @@
 ---
 title: "tidyTime.js - jQuery плагин который покажет время в приятном для вас виде"
-date: ""
 categories: 
   - "js"
 tags: 

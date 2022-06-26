@@ -1,6 +1,5 @@
 ---
 title: "NickPiscitelli/Glider.js - js быстрая, легкая альтернатива карусели с естественной прокруткой"
-date: ""
 categories: 
   - "js"
 tags: 

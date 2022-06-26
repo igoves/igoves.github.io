@@ -1,6 +1,5 @@
 ---
 title: "danog/MadelineProto - асинхронный PHP клиент/сервер API для телеграм MTProto протокол"
-date: ""
 categories: 
   - "php"
 ---

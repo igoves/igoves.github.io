@@ -1,6 +1,5 @@
 ---
 title: "uRainbow.js - анимированные эффекты пузырков"
-date: ""
 categories: 
   - "css"
 ---

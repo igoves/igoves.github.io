@@ -1,6 +1,5 @@
 ---
 title: "Adaptive &#8800; Responsive"
-date: ""
 categories: 
   - "css"
 ---

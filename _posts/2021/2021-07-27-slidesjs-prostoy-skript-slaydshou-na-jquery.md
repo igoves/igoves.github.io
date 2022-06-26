@@ -1,6 +1,5 @@
 ---
 title: "slidesjs - простой скрипт слайдшоу на jquery"
-date: ""
 categories: 
   - "js"
 tags: 

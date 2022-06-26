@@ -1,6 +1,5 @@
 ---
 title: "web-push-php - php скрипт для работы с web-push протоколом для отправки уведомлений в браузер"
-date: ""
 categories: 
   - "php"
 ---

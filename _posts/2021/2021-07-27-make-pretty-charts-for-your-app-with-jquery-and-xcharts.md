@@ -1,6 +1,5 @@
 ---
 title: "Make Pretty Charts For Your App with jQuery and xCharts"
-date: ""
 categories: 
   - "js"
 tags: 

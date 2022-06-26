@@ -1,6 +1,5 @@
 ---
 title: "milligram - минималистичный css фреймверк"
-date: ""
 categories: 
   - "css"
 ---

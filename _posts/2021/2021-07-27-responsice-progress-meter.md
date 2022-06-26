@@ -1,6 +1,5 @@
 ---
 title: "Responsice progress meter"
-date: ""
 categories: 
   - "js"
 tags: 

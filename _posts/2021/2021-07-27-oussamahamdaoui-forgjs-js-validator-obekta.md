@@ -1,6 +1,5 @@
 ---
 title: "oussamahamdaoui/forgJs - js валидатор объекта"
-date: ""
 categories: 
   - "js"
 ---

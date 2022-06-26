@@ -1,6 +1,5 @@
 ---
 title: "Красивый таймер с обратным отсчетом на jQuery"
-date: ""
 categories: 
   - "css"
 tags: 

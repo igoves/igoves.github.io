@@ -1,6 +1,5 @@
 ---
 title: "LarrockCMS — CMS на основе Laravel"
-date: ""
 categories: 
   - "php"
 ---

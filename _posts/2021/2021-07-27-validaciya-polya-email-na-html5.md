@@ -1,6 +1,5 @@
 ---
 title: "Валидация поля email на HTML5"
-date: ""
 categories: 
   - "note"
 ---

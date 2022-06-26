@@ -1,6 +1,5 @@
 ---
 title: "Fakerino - PHP Fake data генератор"
-date: ""
 categories: 
   - "php"
 ---

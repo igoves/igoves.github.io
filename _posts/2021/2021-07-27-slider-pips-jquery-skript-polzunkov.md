@@ -1,6 +1,5 @@
 ---
 title: "Slider Pips - jQuery скрипт ползунков"
-date: ""
 categories: 
   - "js"
 ---

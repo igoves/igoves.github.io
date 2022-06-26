@@ -1,6 +1,5 @@
 ---
 title: "pixastic - JavaScript Image Processing Library"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Progress.js - скрипт прогресс бар для всего"
-date: ""
 categories: 
   - "js"
 ---

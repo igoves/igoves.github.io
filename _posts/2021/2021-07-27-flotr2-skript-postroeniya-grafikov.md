@@ -1,6 +1,5 @@
 ---
 title: "Flotr2 - Скрипт построения графиков"
-date: ""
 categories: 
   - "js"
 ---

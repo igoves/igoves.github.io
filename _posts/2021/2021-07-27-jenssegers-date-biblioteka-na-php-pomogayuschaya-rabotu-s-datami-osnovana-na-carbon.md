@@ -1,6 +1,5 @@
 ---
 title: "jenssegers/date - библиотека на php помогающая работу с датами основана на Carbon"
-date: ""
 categories: 
   - "php"
 ---

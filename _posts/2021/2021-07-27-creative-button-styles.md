@@ -1,6 +1,5 @@
 ---
 title: "Creative Button Styles"
-date: ""
 categories: 
   - "css"
 tags: 

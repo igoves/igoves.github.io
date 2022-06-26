@@ -1,6 +1,5 @@
 ---
 title: "psecio/secure_dotenv - библиотека для шифрования/дешифрования .env файла"
-date: ""
 categories: 
   - "php"
 ---

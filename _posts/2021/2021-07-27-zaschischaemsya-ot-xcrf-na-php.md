@@ -1,6 +1,5 @@
 ---
 title: "Защищаемся от xcrf на php"
-date: ""
 categories: 
   - "php"
 tags: 

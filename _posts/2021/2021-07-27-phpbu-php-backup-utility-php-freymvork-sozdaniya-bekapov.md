@@ -1,6 +1,5 @@
 ---
 title: "phpbu (PHP Backup Utility) - php фреймворк создания бекапов"
-date: ""
 categories: 
   - "php"
 ---

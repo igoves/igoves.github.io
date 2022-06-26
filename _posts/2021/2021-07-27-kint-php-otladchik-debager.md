@@ -1,6 +1,5 @@
 ---
 title: "Kint - php отладчик (дебагер)"
-date: ""
 categories: 
   - "php"
 ---

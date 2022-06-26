@@ -1,6 +1,5 @@
 ---
 title: "Переключение отображения на jQuery"
-date: ""
 categories: 
   - "js"
 ---

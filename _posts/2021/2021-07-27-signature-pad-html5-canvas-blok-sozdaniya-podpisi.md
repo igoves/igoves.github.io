@@ -1,6 +1,5 @@
 ---
 title: "Signature Pad - html5 canvas блок создания подписи"
-date: ""
 categories: 
   - "js"
 ---

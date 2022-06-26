@@ -1,6 +1,5 @@
 ---
 title: "Табы на Jquery"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "jQuery QuickWizard"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Socialite.js - скрипт предзагрузки социальных кнопок"
-date: ""
 categories: 
   - "js"
 tags: 

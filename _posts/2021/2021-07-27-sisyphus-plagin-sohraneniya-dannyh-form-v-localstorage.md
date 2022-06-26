@@ -1,6 +1,5 @@
 ---
 title: "Sisyphus - плагин сохранения данных форм в LocalStorage"
-date: ""
 categories: 
   - "js"
 ---

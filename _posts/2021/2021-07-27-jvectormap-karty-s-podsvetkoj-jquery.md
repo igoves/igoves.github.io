@@ -1,6 +1,5 @@
 ---
 title: "jVectorMap - карты с подсветкой jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

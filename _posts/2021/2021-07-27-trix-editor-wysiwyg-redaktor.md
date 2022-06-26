@@ -1,6 +1,5 @@
 ---
 title: "trix-editor - WYSIWYG редактор"
-date: ""
 categories: 
   - "css"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "laravel-user-verification - пакет laravel для верификации и валидации email"
-date: ""
 categories: 
   - "php"
 ---

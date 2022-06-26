@@ -1,6 +1,5 @@
 ---
 title: "Два слайдера iView Slider (jQuery) + iPresenter (jQuery)"
-date: ""
 categories: 
   - "js"
 ---

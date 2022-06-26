@@ -1,6 +1,5 @@
 ---
 title: "Mr. Clean - php класс который чистит строки, объекты, массивы"
-date: ""
 categories: 
   - "php"
 ---

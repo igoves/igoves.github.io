@@ -1,6 +1,5 @@
 ---
 title: "Guzzle - PHP HTTP client"
-date: ""
 categories: 
   - "php"
 ---

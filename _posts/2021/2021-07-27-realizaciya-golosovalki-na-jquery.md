@@ -1,6 +1,5 @@
 ---
 title: "Реализация голосовалки на jQuery"
-date: ""
 categories: 
   - "js"
 ---

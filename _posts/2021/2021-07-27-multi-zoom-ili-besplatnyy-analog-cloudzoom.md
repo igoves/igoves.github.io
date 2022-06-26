@@ -1,6 +1,5 @@
 ---
 title: "Multi-Zoom или бесплатный аналог CloudZoom"
-date: ""
 categories: 
   - "js"
 ---

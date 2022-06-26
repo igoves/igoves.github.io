@@ -1,6 +1,5 @@
 ---
 title: "jQuery Cascading Dropdown"
-date: ""
 categories: 
   - "js"
 tags: 

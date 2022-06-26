@@ -1,6 +1,5 @@
 ---
 title: "SortableJS/Sortable - js скрипт создания перетаскиваемых списков без зависимостей"
-date: ""
 categories: 
   - "js"
 tags: 

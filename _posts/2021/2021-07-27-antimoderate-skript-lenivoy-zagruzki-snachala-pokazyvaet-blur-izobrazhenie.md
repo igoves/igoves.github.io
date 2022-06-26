@@ -1,6 +1,5 @@
 ---
 title: "antimoderate - скрипт ленивой загрузки, сначала показывает blur изображение"
-date: ""
 categories: 
   - "js"
 ---

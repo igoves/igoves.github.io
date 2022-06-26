@@ -1,6 +1,5 @@
 ---
 title: "bootstrap-tags - скрипт вставки тегов для twitter bootstrap"
-date: ""
 categories: 
   - "js"
 ---

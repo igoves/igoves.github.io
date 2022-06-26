@@ -1,6 +1,5 @@
 ---
 title: "php-gif - скрипт создания gif-ок"
-date: ""
 categories: 
   - "php"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "phppackagechecklist.com - контрольный список по размещению в packagist.org"
-date: ""
 categories: 
   - "php"
 ---

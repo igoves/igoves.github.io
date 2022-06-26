@@ -1,6 +1,5 @@
 ---
 title: "CImage - php скрипт для манипуляций над изображениями"
-date: ""
 categories: 
   - "php"
 ---

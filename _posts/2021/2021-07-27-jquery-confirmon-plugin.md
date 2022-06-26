@@ -1,6 +1,5 @@
 ---
 title: "jQuery confirmOn plugin"
-date: ""
 categories: 
   - "js"
 ---

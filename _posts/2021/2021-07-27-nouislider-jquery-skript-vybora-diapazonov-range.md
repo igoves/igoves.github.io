@@ -1,6 +1,5 @@
 ---
 title: "noUiSlider - jQuery скрипт выбора диапазонов (range)"
-date: ""
 categories: 
   - "js"
 ---

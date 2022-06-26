@@ -1,6 +1,5 @@
 ---
 title: "jQuery lockfixed - скрипт прилипающих блоков"
-date: ""
 categories: 
   - "js"
 tags: 

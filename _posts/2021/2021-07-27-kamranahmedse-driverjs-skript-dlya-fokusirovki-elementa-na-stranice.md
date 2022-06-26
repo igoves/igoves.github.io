@@ -1,6 +1,5 @@
 ---
 title: "kamranahmedse/driver.js - скрипт для фокусировки элемента на странице"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "qcod/laravel-gamify - пакет laravel для создания бейджев и репутаций"
-date: ""
 categories: 
   - "php"
 ---

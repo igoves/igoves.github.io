@@ -1,6 +1,5 @@
 ---
 title: "JBZoo Image - php библиотека для манипуляции изображениями"
-date: ""
 categories: 
   - "php"
 ---

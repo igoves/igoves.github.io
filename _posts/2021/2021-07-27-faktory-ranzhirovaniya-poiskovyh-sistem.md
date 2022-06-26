@@ -1,6 +1,5 @@
 ---
 title: "Факторы ранжирования поисковых систем"
-date: ""
 categories: 
   - "note"
 tags: 

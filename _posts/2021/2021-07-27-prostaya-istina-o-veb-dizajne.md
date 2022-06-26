@@ -1,6 +1,5 @@
 ---
 title: "Простая истина о веб-дизайне"
-date: ""
 categories: 
   - "note"
 tags: 

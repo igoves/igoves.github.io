@@ -1,6 +1,5 @@
 ---
 title: "Позитивизм или мыслим приятно"
-date: ""
 categories: 
   - "note"
 tags: 

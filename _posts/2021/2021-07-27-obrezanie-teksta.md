@@ -1,6 +1,5 @@
 ---
 title: "Обрезание текста до слова (функция php)"
-date: ""
 categories: 
   - "php"
 tags: 

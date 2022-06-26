@@ -1,6 +1,5 @@
 ---
 title: "Коллекция Vue.js примеров скриптов"
-date: ""
 categories: 
   - "js"
 ---

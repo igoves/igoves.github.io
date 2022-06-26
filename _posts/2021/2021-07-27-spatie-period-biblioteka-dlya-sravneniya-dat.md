@@ -1,6 +1,5 @@
 ---
 title: "spatie/period - библиотека для сравнения дат"
-date: ""
 categories: 
   - "php"
 ---

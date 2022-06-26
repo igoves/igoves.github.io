@@ -1,6 +1,5 @@
 ---
 title: "Reveal - еще один скрипт модальных окон на jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Заработок на файлах"
-date: ""
 categories: 
   - "note"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Deployer - Deployment Tool for PHP"
-date: ""
 categories: 
   - "php"
 ---

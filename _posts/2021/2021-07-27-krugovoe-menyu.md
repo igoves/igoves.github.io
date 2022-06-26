@@ -1,6 +1,5 @@
 ---
 title: "Круговое меню"
-date: ""
 categories: 
   - "js"
 tags: 

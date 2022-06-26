@@ -1,6 +1,5 @@
 ---
 title: "vamsiikrishna/vex - маленький пхп скрипт для создания нагрузочного тестирования"
-date: ""
 categories: 
   - "php"
 ---

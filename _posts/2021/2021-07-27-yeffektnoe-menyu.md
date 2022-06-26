@@ -1,6 +1,5 @@
 ---
 title: "Эффектное меню"
-date: ""
 categories: 
   - "js"
 tags: 

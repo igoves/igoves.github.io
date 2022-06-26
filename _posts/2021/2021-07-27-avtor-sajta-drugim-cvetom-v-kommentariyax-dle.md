@@ -1,6 +1,5 @@
 ---
 title: "Автор сайта другим цветом в комментариях DLE"
-date: ""
 categories: 
   - "css"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Apprise - скрипт модальных окошек на jquery"
-date: ""
 categories: 
   - "js"
 tags: 

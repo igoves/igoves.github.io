@@ -1,6 +1,5 @@
 ---
 title: "Меню с эффектом как на ютубе"
-date: ""
 categories: 
   - "css"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Bootstrap Timepicker"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Загрузка картинок на ImageShack.us"
-date: ""
 categories: 
   - "php"
 ---

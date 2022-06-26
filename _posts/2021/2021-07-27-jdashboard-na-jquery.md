@@ -1,6 +1,5 @@
 ---
 title: "jDashboard на Jquery"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "TailwindCSS - css фреймворк для создания сових UI компонентов"
-date: ""
 categories: 
   - "css"
 ---

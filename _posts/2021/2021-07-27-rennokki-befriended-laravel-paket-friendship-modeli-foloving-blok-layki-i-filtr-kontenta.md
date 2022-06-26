@@ -1,6 +1,5 @@
 ---
 title: "rennokki/befriended - laravel пакет friendship модели (фоловинг блок лайки и фильтр контента)"
-date: ""
 categories: 
   - "php"
 tags: 

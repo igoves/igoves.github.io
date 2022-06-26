@@ -1,6 +1,5 @@
 ---
 title: "media-player - адаптивный кросс-браузерный плеер на чистом JS"
-date: ""
 categories: 
   - "js"
 ---

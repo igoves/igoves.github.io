@@ -1,6 +1,5 @@
 ---
 title: "TTools (Twitter Tools) - библиотека облегчающая работу с twitter разработчикам"
-date: ""
 categories: 
   - "php"
 ---

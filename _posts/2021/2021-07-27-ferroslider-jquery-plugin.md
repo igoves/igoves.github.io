@@ -1,6 +1,5 @@
 ---
 title: "FerroSlider jQuery Plugin"
-date: ""
 categories: 
   - "js"
 tags: 

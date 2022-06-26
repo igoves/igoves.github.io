@@ -1,6 +1,5 @@
 ---
 title: "bootstrap-slider.js - слайдер для bootstrap"
-date: ""
 categories: 
   - "js"
 ---

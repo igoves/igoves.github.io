@@ -1,6 +1,5 @@
 ---
 title: "Turtle - пакет для laravel всего по чуть-чуть"
-date: ""
 categories: 
   - "php"
 ---

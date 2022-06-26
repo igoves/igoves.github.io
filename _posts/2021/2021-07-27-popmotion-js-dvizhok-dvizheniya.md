@@ -1,6 +1,5 @@
 ---
 title: "popmotion - js движок движения"
-date: ""
 categories: 
   - "js"
 ---

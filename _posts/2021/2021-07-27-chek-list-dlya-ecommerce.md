@@ -1,6 +1,5 @@
 ---
 title: "Чек-лист для ecommerce"
-date: ""
 categories: 
   - "note"
 ---

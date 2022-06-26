@@ -1,6 +1,5 @@
 ---
 title: "rubentd/dirrty - jquery плагин определяет были ли изменены поля"
-date: ""
 categories: 
   - "js"
 ---

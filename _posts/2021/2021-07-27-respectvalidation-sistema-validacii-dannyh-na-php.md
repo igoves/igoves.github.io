@@ -1,6 +1,5 @@
 ---
 title: "Respect\\Validation - система валидации данных на PHP"
-date: ""
 categories: 
   - "php"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Список товаров в категории ShopOS"
-date: ""
 categories: 
   - "php"
 tags: 

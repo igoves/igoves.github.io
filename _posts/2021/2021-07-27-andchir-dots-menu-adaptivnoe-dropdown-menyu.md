@@ -1,6 +1,5 @@
 ---
 title: "andchir/dots-menu - адаптивное dropdown меню"
-date: ""
 categories: 
   - "css"
 ---

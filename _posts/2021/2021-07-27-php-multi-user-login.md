@@ -1,6 +1,5 @@
 ---
 title: "PHP Multi-User Login"
-date: ""
 categories: 
   - "php"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Gulp плагины gzip, mtime, rsync, rimraf"
-date: ""
 categories: 
   - "note"
 ---

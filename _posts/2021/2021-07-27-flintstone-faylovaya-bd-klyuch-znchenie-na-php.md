@@ -1,6 +1,5 @@
 ---
 title: "Flintstone - файловая бд (ключь знчение) на php"
-date: ""
 categories: 
   - "php"
 ---

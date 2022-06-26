@@ -1,6 +1,5 @@
 ---
 title: "is.js - библиотека проверок"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "dhtmlxSpreadsheet виджет таблиц"
-date: ""
 categories: 
   - "php"
 tags: 

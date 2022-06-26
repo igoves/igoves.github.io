@@ -1,6 +1,5 @@
 ---
 title: "Loadie.js - скрипт создание прелоадера на jQuery"
-date: ""
 categories: 
   - "js"
 ---

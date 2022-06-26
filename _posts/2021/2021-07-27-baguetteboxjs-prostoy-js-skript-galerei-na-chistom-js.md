@@ -1,6 +1,5 @@
 ---
 title: "baguetteBox.js - простой js скрипт галереи на чистом js"
-date: ""
 categories: 
   - "js"
 ---

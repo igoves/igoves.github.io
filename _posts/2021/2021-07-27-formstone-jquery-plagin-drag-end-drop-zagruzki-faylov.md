@@ -1,6 +1,5 @@
 ---
 title: "formstone - jquery плагин драг энд дроп загрузки файлов"
-date: ""
 categories: 
   - "js"
 ---

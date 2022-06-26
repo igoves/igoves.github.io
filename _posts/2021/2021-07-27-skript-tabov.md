@@ -1,6 +1,5 @@
 ---
 title: "Скрипт табов"
-date: ""
 categories: 
   - "js"
 ---

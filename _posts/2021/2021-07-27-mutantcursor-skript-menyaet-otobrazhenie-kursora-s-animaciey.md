@@ -1,6 +1,5 @@
 ---
 title: "MutantCursor - скрипт меняет отображение курсора с анимацией"
-date: ""
 categories: 
   - "js"
 ---

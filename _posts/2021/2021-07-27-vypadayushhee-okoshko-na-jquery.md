@@ -1,6 +1,5 @@
 ---
 title: "Выпадающее окошко на jquery"
-date: ""
 categories: 
   - "css"
 tags: 

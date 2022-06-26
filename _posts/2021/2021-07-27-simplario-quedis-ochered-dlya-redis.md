@@ -1,6 +1,5 @@
 ---
 title: "simplario/quedis - очередь для redis"
-date: ""
 categories: 
   - "php"
 ---

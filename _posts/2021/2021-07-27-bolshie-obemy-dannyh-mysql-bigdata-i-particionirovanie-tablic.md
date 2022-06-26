@@ -1,6 +1,5 @@
 ---
 title: "Большие обьемы данных MySQL (bigdata) и партиционирование таблиц"
-date: ""
 categories: 
   - "note"
 tags: 

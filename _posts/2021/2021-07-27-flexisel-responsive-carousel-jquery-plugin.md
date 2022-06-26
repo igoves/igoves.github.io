@@ -1,6 +1,5 @@
 ---
 title: "Flexisel - Responsive Carousel jQuery Plugin"
-date: ""
 categories: 
   - "js"
 tags: 

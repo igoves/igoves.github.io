@@ -1,6 +1,5 @@
 ---
 title: "loud-links - скрипт добавляющий звуки на события 1.5кб"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "pageres - npm пакет создания скриншетов на разных экранах"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "mb.extruder - влазящая панель сбоку"
-date: ""
 categories: 
   - "js"
 ---

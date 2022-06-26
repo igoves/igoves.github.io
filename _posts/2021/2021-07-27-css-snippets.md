@@ -1,6 +1,5 @@
 ---
 title: "CSS snippets"
-date: ""
 categories: 
   - "css"
 ---

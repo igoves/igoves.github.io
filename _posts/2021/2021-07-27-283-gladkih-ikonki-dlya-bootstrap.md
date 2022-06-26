@@ -1,6 +1,5 @@
 ---
 title: "283 гладких иконки для bootstrap"
-date: ""
 categories: 
   - "css"
 tags: 

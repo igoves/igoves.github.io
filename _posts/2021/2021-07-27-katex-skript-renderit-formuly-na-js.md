@@ -1,6 +1,5 @@
 ---
 title: "KaTeX - скрипт рендерит формулы на js"
-date: ""
 categories: 
   - "js"
 ---

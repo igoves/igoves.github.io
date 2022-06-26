@@ -1,6 +1,5 @@
 ---
 title: "Vegas - скрипт выставления полноэкранного слайдера jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

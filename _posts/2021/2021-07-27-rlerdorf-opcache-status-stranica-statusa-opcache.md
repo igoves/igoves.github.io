@@ -1,6 +1,5 @@
 ---
 title: "rlerdorf/opcache-status - страница статуса opcache"
-date: ""
 categories: 
   - "php"
 ---

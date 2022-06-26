@@ -1,6 +1,5 @@
 ---
 title: "htmlarrows.com - сайт html символов, сущностей и их кодов"
-date: ""
 categories: 
   - "note"
 ---

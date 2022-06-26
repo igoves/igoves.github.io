@@ -1,6 +1,5 @@
 ---
 title: "cachetool - CLI приложение для раобты с apc & opcache"
-date: ""
 categories: 
   - "php"
 ---

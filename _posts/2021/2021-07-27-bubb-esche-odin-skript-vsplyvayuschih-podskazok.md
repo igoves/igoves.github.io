@@ -1,6 +1,5 @@
 ---
 title: "bubb - еще один скрипт всплывающих подсказок"
-date: ""
 categories: 
   - "js"
 tags: 

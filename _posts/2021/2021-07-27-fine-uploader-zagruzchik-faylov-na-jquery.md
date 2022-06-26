@@ -1,6 +1,5 @@
 ---
 title: "Fine Uploader - загрузчик файлов на jQuery"
-date: ""
 categories: 
   - "js"
 ---

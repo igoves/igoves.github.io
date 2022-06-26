@@ -1,6 +1,5 @@
 ---
 title: "sebastiansulinski/cascading-dropdown - плагин, позволяет заполнять множество форм выпадающего меню на основе предыдущего выбора"
-date: ""
 categories: 
   - "js"
 ---

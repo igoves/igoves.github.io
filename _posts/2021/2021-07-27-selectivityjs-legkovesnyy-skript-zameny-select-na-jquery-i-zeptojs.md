@@ -1,6 +1,5 @@
 ---
 title: "Selectivity.js - легковесный скрипт замены select на jQuery и Zepto.js"
-date: ""
 categories: 
   - "js"
 ---

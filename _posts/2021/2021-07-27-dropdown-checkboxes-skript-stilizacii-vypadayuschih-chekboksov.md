@@ -1,6 +1,5 @@
 ---
 title: "dropdown-checkboxes - скрипт стилизации выпадающих чекбоксов"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Готовимся к выступлению"
-date: ""
 categories: 
   - "note"
 tags: 

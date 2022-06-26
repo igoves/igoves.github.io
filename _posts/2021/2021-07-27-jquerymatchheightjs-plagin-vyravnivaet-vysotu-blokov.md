@@ -1,6 +1,5 @@
 ---
 title: "jquery.matchHeight.js - плагин выравнивает высоту блоков"
-date: ""
 categories: 
   - "js"
 ---

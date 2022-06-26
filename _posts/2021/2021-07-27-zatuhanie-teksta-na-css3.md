@@ -1,6 +1,5 @@
 ---
 title: "Затухание текста на CSS3"
-date: ""
 categories: 
   - "css"
 ---

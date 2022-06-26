@@ -1,6 +1,5 @@
 ---
 title: "francoischalifour/medium-zoom - зумер изображений"
-date: ""
 categories: 
   - "js"
 ---

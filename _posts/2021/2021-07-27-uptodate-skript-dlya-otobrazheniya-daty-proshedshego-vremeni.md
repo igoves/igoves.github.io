@@ -1,6 +1,5 @@
 ---
 title: "uptodate - скрипт для отображения даты прошедшего времени"
-date: ""
 categories: 
   - "js"
 tags: 

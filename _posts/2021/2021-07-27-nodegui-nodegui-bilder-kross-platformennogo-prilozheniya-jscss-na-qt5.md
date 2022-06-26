@@ -1,6 +1,5 @@
 ---
 title: "nodegui/nodegui - билдер кросс-платформенного приложения js+css на Qt5"
-date: ""
 categories: 
   - "note"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Text resizer - скрипт изменения размера input под количество цифр"
-date: ""
 categories: 
   - "js"
 ---

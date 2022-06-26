@@ -1,6 +1,5 @@
 ---
 title: "Определение браузера на JavaScript"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Ограничения во Вконтакте"
-date: ""
 categories: 
   - "note"
 tags: 

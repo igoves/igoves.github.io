@@ -1,6 +1,5 @@
 ---
 title: "Toolbar.Js - jQuery плагин показывает панель инструментов в подсказке"
-date: ""
 categories: 
   - "js"
 ---

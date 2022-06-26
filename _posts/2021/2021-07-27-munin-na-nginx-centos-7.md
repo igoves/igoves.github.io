@@ -1,6 +1,5 @@
 ---
 title: "Munin на nginx CentOS 7"
-date: ""
 categories: 
   - "note"
 ---

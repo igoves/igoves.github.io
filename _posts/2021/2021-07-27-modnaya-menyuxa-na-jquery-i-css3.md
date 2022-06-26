@@ -1,6 +1,5 @@
 ---
 title: "Не стандарнтое меню на Jquery и CSS3"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "bitcoin-php - реализация bitcoin на php"
-date: ""
 categories: 
   - "php"
 ---

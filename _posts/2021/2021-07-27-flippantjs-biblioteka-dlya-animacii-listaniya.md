@@ -1,6 +1,5 @@
 ---
 title: "Flippant.js - библиотека для анимации листания"
-date: ""
 categories: 
   - "js"
 ---

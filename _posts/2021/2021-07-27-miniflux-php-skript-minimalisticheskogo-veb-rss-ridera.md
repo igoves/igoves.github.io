@@ -1,6 +1,5 @@
 ---
 title: "miniflux - php скрипт минималистического веб rss ридера"
-date: ""
 categories: 
   - "php"
 ---

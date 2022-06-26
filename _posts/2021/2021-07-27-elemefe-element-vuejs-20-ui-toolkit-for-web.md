@@ -1,6 +1,5 @@
 ---
 title: "ElemeFE/element - Vue.js 2.0 UI Toolkit for Web"
-date: ""
 categories: 
   - "js"
 ---

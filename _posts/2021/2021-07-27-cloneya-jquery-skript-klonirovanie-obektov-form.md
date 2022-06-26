@@ -1,6 +1,5 @@
 ---
 title: "cloneya - jQuery скрипт клонирование обьектов (форм)"
-date: ""
 categories: 
   - "js"
 ---

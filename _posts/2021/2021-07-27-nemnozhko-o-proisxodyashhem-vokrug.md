@@ -1,6 +1,5 @@
 ---
 title: "Немножко о происходящем вокруг"
-date: ""
 categories: 
   - "note"
 tags: 

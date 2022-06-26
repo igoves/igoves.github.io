@@ -1,6 +1,5 @@
 ---
 title: "MotionCAPTCHA - оригинальная каптча"
-date: ""
 categories: 
   - "js"
 tags: 

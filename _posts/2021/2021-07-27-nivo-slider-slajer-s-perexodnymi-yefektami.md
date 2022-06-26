@@ -1,6 +1,5 @@
 ---
 title: "Nivo Slider - Слайер с переходными эфектами"
-date: ""
 categories: 
   - "js"
 tags: 

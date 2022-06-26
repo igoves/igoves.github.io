@@ -1,6 +1,5 @@
 ---
 title: "encore/laravel-admin - пакет для быстрого развертывания backend на laravel"
-date: ""
 categories: 
   - "php"
 tags: 

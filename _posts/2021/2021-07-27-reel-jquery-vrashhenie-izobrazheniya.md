@@ -1,6 +1,5 @@
 ---
 title: "Reel jQuery (вращение изображения)"
-date: ""
 categories: 
   - "js"
 ---

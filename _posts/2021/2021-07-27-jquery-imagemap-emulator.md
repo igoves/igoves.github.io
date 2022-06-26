@@ -1,6 +1,5 @@
 ---
 title: "jQuery Imagemap Emulator"
-date: ""
 categories: 
   - "js"
 tags: 

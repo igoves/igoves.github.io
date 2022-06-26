@@ -1,6 +1,5 @@
 ---
 title: "Rallax.js - js плагин для создания паралакс эффекта"
-date: ""
 categories: 
   - "js"
 ---

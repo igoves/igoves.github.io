@@ -1,6 +1,5 @@
 ---
 title: "Awesomplete - js скрипт авто завершения"
-date: ""
 categories: 
   - "js"
 ---

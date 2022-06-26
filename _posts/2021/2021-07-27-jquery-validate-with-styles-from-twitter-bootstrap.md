@@ -1,6 +1,5 @@
 ---
 title: "jQuery Validate with styles from Twitter Bootstrap"
-date: ""
 categories: 
   - "js"
 ---

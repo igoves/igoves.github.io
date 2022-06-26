@@ -1,6 +1,5 @@
 ---
 title: "apankrat/js-noisy-gradient - js библиотека для сглаживания линейного градиента"
-date: ""
 categories: 
   - "js"
 ---

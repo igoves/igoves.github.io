@@ -1,6 +1,5 @@
 ---
 title: "Подборка крутых штук на Twitter Bootstrap"
-date: ""
 categories: 
   - "js"
 tags: 

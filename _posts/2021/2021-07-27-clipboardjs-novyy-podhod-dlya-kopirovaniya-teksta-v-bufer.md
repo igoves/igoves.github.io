@@ -1,6 +1,5 @@
 ---
 title: "clipboard.js - новый подход для копирования текста в буфер"
-date: ""
 categories: 
   - "js"
 ---

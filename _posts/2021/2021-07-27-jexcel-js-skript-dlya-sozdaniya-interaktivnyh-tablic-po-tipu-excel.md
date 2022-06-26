@@ -1,6 +1,5 @@
 ---
 title: "jExcel - js скрипт для создания интерактивных таблиц по типу Excel"
-date: ""
 categories: 
   - "js"
 ---

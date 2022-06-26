@@ -1,6 +1,5 @@
 ---
 title: "substance - js скрипт для редактирования контента"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Coin Slider - jquery слайдер с уникальными эфектами"
-date: ""
 categories: 
   - "js"
 tags: 

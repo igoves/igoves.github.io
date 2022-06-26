@@ -1,6 +1,5 @@
 ---
 title: "Decoda - парсер BBCode на PHP"
-date: ""
 categories: 
   - "php"
 ---

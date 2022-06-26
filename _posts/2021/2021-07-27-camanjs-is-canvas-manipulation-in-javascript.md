@@ -1,6 +1,5 @@
 ---
 title: "CamanJS is (ca)nvas (man)ipulation in Javascript"
-date: ""
 categories: 
   - "js"
 ---

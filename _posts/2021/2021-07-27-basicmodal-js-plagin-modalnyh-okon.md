@@ -1,6 +1,5 @@
 ---
 title: "basicModal - js плагин модальных окон"
-date: ""
 categories: 
   - "js"
 ---

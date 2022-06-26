@@ -1,6 +1,5 @@
 ---
 title: "Rsvalidator - javascript библиотека для валидации html форм"
-date: ""
 categories: 
   - "js"
 ---

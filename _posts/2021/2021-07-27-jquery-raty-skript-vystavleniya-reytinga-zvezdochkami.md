@@ -1,6 +1,5 @@
 ---
 title: "jQuery Raty - скрипт выставления рейтинга звездочками"
-date: ""
 categories: 
   - "js"
 ---

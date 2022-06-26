@@ -1,6 +1,5 @@
 ---
 title: "jQuery Всплывающие подсказки"
-date: ""
 categories: 
   - "js"
 tags: 

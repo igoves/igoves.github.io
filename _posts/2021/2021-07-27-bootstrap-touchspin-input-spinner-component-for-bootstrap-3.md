@@ -1,6 +1,5 @@
 ---
 title: "Bootstrap TouchSpin - input spinner component for Bootstrap 3"
-date: ""
 categories: 
   - "js"
 ---

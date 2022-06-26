@@ -1,6 +1,5 @@
 ---
 title: "Удалить дубликаты значений в массиве javascript"
-date: ""
 categories: 
   - "js"
 ---

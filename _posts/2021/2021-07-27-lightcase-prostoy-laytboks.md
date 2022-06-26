@@ -1,6 +1,5 @@
 ---
 title: "lightcase - простой лайтбокс"
-date: ""
 categories: 
   - "js"
 ---

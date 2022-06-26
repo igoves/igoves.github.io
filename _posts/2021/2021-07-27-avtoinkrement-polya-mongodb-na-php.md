@@ -1,6 +1,5 @@
 ---
 title: "Автоинкремент поля Mongodb на PHP"
-date: ""
 categories: 
   - "note"
 tags: 

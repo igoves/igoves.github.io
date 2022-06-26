@@ -1,6 +1,5 @@
 ---
 title: "Галлерея 3Д на JS"
-date: ""
 categories: 
   - "js"
 tags: 

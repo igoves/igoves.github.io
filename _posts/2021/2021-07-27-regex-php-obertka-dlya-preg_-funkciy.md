@@ -1,6 +1,5 @@
 ---
 title: "regex - php обертка для preg_ функций"
-date: ""
 categories: 
   - "php"
 ---

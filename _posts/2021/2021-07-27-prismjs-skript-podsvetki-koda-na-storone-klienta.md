@@ -1,6 +1,5 @@
 ---
 title: "prism.js - скрипт подсветки кода на стороне клиента"
-date: ""
 categories: 
   - "js"
 tags: 

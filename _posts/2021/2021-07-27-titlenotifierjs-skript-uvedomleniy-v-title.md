@@ -1,6 +1,5 @@
 ---
 title: "TitleNotifier.js - скрипт уведомлений в title"
-date: ""
 categories: 
   - "js"
 ---

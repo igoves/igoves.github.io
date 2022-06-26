@@ -1,6 +1,5 @@
 ---
 title: "PDF Parser - php библиотека для парсинга pdf файлов"
-date: ""
 categories: 
   - "php"
 ---

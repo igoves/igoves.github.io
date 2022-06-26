@@ -1,6 +1,5 @@
 ---
 title: "latitude - php конструктор запросов SQL"
-date: ""
 categories: 
   - "php"
 ---

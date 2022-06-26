@@ -1,6 +1,5 @@
 ---
 title: "Интерактивная карта на jQuery"
-date: ""
 categories: 
   - "css"
 tags: 

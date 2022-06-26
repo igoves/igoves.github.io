@@ -1,6 +1,5 @@
 ---
 title: "Запоминание положения интерфейса на jQuery"
-date: ""
 categories: 
   - "js"
 ---

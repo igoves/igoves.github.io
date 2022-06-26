@@ -1,6 +1,5 @@
 ---
 title: "pagemap - создание миникарты страницы сайта"
-date: ""
 categories: 
   - "js"
 tags: 

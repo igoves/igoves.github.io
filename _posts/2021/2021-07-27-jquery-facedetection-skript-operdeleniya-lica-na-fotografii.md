@@ -1,6 +1,5 @@
 ---
 title: "jQuery FaceDetection - скрипт определения лица на фотографии"
-date: ""
 categories: 
   - "js"
 ---

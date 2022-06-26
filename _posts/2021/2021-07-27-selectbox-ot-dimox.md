@@ -1,6 +1,5 @@
 ---
 title: "selectbox от dimox"
-date: ""
 categories: 
   - "js"
 tags: 

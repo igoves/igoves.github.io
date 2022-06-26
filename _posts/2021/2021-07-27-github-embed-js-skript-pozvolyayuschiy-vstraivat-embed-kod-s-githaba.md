@@ -1,6 +1,5 @@
 ---
 title: "github-embed - js скрипт позволяющий встраивать embed код с гитхаба"
-date: ""
 categories: 
   - "js"
 ---

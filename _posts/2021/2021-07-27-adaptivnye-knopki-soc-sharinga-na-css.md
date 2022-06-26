@@ -1,6 +1,5 @@
 ---
 title: "Адаптивные кнопки соц шаринга на css"
-date: ""
 categories: 
   - "css"
 ---

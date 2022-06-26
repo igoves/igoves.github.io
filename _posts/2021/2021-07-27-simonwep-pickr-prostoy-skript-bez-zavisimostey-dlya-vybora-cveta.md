@@ -1,6 +1,5 @@
 ---
 title: "Simonwep/pickr - простой скрипт без зависимостей для выбора цвета"
-date: ""
 categories: 
   - "js"
 ---

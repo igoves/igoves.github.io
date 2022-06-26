@@ -1,6 +1,5 @@
 ---
 title: "Узнать следующую и предыдущую запись MySQL"
-date: ""
 categories: 
   - "note"
 ---

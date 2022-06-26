@@ -1,6 +1,5 @@
 ---
 title: "Adipoli jQuery Image Hover Plugin"
-date: ""
 categories: 
   - "js"
 tags: 

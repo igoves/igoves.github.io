@@ -1,6 +1,5 @@
 ---
 title: "flot - Javascript plotting for jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

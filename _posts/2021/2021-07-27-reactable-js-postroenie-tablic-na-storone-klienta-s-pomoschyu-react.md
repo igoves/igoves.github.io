@@ -1,6 +1,5 @@
 ---
 title: "Reactable - js построение таблиц на стороне клиента с помощью React"
-date: ""
 categories: 
   - "js"
 ---

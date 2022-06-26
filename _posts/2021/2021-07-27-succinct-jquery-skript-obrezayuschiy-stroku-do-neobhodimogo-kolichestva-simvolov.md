@@ -1,6 +1,5 @@
 ---
 title: "Succinct - jquery скрипт обрезающий строку до необходимого количества символов"
-date: ""
 categories: 
   - "js"
 tags: 

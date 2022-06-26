@@ -1,6 +1,5 @@
 ---
 title: "Еще одна корзина c пересчетами на js"
-date: ""
 categories: 
   - "css"
 ---

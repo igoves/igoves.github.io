@@ -1,6 +1,5 @@
 ---
 title: "Слайдер новостей для DLE 9.7"
-date: ""
 categories: 
   - "css"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "VisualPHPUnit - графический веб интерфейс для PHPUnit"
-date: ""
 categories: 
   - "php"
 ---

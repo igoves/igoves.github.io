@@ -1,6 +1,5 @@
 ---
 title: "device-detector - php библиотека для распарсивания User Agents и определения устройства"
-date: ""
 categories: 
   - "php"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "RedBeanPHP - php ORM для работы с базами данных"
-date: ""
 categories: 
   - "php"
 ---

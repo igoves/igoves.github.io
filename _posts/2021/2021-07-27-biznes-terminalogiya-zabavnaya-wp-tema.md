@@ -1,6 +1,5 @@
 ---
 title: "Бизнес терминалогия + Забавная WP Тема"
-date: ""
 categories: 
   - "note"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Начинка сайта аля контент"
-date: ""
 categories: 
   - "note"
 tags: 

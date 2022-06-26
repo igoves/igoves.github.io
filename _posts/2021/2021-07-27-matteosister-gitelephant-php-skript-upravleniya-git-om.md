@@ -1,6 +1,5 @@
 ---
 title: "matteosister/gitelephant - php скрипт управления git-ом"
-date: ""
 categories: 
   - "php"
 ---

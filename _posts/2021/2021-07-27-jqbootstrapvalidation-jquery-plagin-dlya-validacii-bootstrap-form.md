@@ -1,6 +1,5 @@
 ---
 title: "jqBootstrapValidation - JQuery плагин для валидации bootstrap форм"
-date: ""
 categories: 
   - "js"
 ---

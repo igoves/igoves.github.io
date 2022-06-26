@@ -1,6 +1,5 @@
 ---
 title: "knockoutjs - скрипт работы с формами"
-date: ""
 categories: 
   - "js"
 ---

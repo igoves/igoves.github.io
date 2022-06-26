@@ -1,6 +1,5 @@
 ---
 title: "Закрыть сайт с помощью cookie"
-date: ""
 categories: 
   - "php"
 tags: 

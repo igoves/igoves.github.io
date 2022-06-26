@@ -1,6 +1,5 @@
 ---
 title: "Image Picker -  jQuery плагин который преобразует select в более удобный графический вид"
-date: ""
 categories: 
   - "js"
 tags: 

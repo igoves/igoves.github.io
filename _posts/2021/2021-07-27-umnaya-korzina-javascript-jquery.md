@@ -1,6 +1,5 @@
 ---
 title: "Smart корзина JavaScript jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

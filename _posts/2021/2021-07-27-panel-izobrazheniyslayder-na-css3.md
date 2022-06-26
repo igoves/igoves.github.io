@@ -1,6 +1,5 @@
 ---
 title: "Панель изображений(слайдер) на CSS3"
-date: ""
 categories: 
   - "css"
 tags: 

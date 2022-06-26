@@ -1,6 +1,5 @@
 ---
 title: "Парсинг CSV файла с помощью JS"
-date: ""
 categories: 
   - "js"
 ---

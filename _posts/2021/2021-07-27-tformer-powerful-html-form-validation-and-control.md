@@ -1,6 +1,5 @@
 ---
 title: "tFormer - Powerful HTML form validation and control"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "jQuery HighchartTable - скрипт автоматически преобразует данные таблицы в графики"
-date: ""
 categories: 
   - "js"
 ---

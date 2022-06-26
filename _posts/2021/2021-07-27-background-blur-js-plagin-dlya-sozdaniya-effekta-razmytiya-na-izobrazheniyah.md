@@ -1,6 +1,5 @@
 ---
 title: "background-blur - js плагин для создания эффекта размытия на изображениях"
-date: ""
 categories: 
   - "js"
 ---

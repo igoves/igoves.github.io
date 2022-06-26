@@ -1,6 +1,5 @@
 ---
 title: "Easy Paginate - jQuery плагин для разбивки"
-date: ""
 categories: 
   - "js"
 tags: 

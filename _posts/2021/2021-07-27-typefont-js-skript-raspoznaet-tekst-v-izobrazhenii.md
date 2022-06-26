@@ -1,6 +1,5 @@
 ---
 title: "Typefont - js скрипт распознает текст в изображении"
-date: ""
 categories: 
   - "js"
 ---

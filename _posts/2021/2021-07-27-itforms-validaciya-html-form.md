@@ -1,6 +1,5 @@
 ---
 title: "ITForms — валидация HTML-форм"
-date: ""
 categories: 
   - "xhtml"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "jQuery NailThumb - скрипт делает на лету из любой картинки привью с разными эффектами"
-date: ""
 categories: 
   - "js"
 tags: 

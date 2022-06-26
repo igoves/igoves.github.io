@@ -1,6 +1,5 @@
 ---
 title: "Близится час расплаты за мои ошибки -("
-date: ""
 categories: 
   - "note"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "writingink/wink - платформа публикаций на Laravel"
-date: ""
 categories: 
   - "php"
 ---

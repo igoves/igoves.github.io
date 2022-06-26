@@ -1,6 +1,5 @@
 ---
 title: "Pines Notify - JavaScript notifications for Bootstrap or jQuery UI"
-date: ""
 categories: 
   - "js"
 tags: 

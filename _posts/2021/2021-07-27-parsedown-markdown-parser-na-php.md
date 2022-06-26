@@ -1,6 +1,5 @@
 ---
 title: "Parsedown - Markdown парсер на PHP"
-date: ""
 categories: 
   - "php"
 ---

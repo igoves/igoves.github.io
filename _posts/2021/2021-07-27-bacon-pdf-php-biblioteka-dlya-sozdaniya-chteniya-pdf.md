@@ -1,6 +1,5 @@
 ---
 title: "Bacon PDF - php библиотека для создания - чтения pdf"
-date: ""
 categories: 
   - "php"
 ---

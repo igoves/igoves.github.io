@@ -1,6 +1,5 @@
 ---
 title: "ipgeobase-importer - импортер ipgeobase базы русских городов в файлы"
-date: ""
 categories: 
   - "note"
 ---

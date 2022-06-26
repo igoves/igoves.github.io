@@ -1,6 +1,5 @@
 ---
 title: "Собственное дело под ключ"
-date: ""
 categories: 
   - "note"
 tags: 

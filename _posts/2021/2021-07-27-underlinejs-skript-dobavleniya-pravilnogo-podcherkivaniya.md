@@ -1,6 +1,5 @@
 ---
 title: "underline.js - скрипт добавления правильного подчеркивания"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "micromodal.js - скрипт модальных окон на чистом JS"
-date: ""
 categories: 
   - "js"
 ---

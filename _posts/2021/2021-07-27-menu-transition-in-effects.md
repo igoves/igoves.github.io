@@ -1,6 +1,5 @@
 ---
 title: "Menu Transition In Effects"
-date: ""
 categories: 
   - "css"
 ---

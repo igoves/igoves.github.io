@@ -1,6 +1,5 @@
 ---
 title: "cta.js (Call to Animation) - скрипт вызова анимации от одного элемента к другому"
-date: ""
 categories: 
   - "js"
 ---

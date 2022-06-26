@@ -1,6 +1,5 @@
 ---
 title: "Orbixx/Obfuscalp - находит и удаляет подозрительный / вредоносный код в PHP"
-date: ""
 categories: 
   - "php"
 ---

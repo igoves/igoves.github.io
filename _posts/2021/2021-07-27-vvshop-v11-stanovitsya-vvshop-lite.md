@@ -1,6 +1,5 @@
 ---
 title: "vvShop v1.1 становится vvShop Lite"
-date: ""
 categories: 
   - "note"
 ---

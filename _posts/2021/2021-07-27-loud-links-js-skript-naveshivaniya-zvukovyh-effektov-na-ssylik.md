@@ -1,6 +1,5 @@
 ---
 title: "loud-links - js скрипт навешивания звуковых эффектов на ссылки"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "wordmark.it - онлайн сайт позволяющий искать шрифты"
-date: ""
 categories: 
   - "note"
 ---

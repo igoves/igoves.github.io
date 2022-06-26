@@ -1,6 +1,5 @@
 ---
 title: "Cleave.js - инпут маска (не требует jquery)"
-date: ""
 categories: 
   - "js"
 ---

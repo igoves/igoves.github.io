@@ -1,6 +1,5 @@
 ---
 title: "Simple Multi-Item Slider"
-date: ""
 categories: 
   - "js"
 tags: 

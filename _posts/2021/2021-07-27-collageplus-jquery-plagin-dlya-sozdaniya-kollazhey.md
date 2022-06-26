@@ -1,6 +1,5 @@
 ---
 title: "CollagePlus - jquery плагин для создания коллажей"
-date: ""
 categories: 
   - "js"
 ---

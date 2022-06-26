@@ -1,6 +1,5 @@
 ---
 title: "Круглые картинки средствами CSS"
-date: ""
 categories: 
   - "css"
 ---

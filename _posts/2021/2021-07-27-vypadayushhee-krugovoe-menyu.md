@@ -1,6 +1,5 @@
 ---
 title: "Выпадающее круговое меню"
-date: ""
 categories: 
   - "css"
 tags: 

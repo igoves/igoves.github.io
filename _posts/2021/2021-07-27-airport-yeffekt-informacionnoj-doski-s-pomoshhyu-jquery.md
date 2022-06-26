@@ -1,6 +1,5 @@
 ---
 title: "Airport – эффект информационной доски с помощью JQuery"
-date: ""
 categories: 
   - "js"
 tags: 

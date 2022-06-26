@@ -1,6 +1,5 @@
 ---
 title: "spatie/laravel-flash - легковесный пакет для флеш сообщений"
-date: ""
 categories: 
   - "php"
 ---

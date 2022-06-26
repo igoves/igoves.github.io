@@ -1,6 +1,5 @@
 ---
 title: "palladium - пхп компонент для регистрации и авторизации"
-date: ""
 categories: 
   - "php"
 ---

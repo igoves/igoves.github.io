@@ -1,6 +1,5 @@
 ---
 title: "JavaScript для Twitter Bootstrap без зависимостей (без jQuery)"
-date: ""
 categories: 
   - "js"
 ---

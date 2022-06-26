@@ -1,6 +1,5 @@
 ---
 title: "Sharetastic - простой jQuery плагин для расшариваня"
-date: ""
 categories: 
   - "js"
 ---

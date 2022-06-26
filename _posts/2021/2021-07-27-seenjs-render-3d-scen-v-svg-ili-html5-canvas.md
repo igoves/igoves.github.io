@@ -1,6 +1,5 @@
 ---
 title: "seen.js - рендер 3д сцен в SVG или HTML5 Canvas"
-date: ""
 categories: 
   - "js"
 ---

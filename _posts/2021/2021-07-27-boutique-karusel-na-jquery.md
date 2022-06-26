@@ -1,6 +1,5 @@
 ---
 title: "boutique карусель на jquery"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Выпадающее мегаменю"
-date: ""
 categories: 
   - "css"
 tags: 

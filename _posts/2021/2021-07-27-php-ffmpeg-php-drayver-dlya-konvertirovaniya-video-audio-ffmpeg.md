@@ -1,6 +1,5 @@
 ---
 title: "PHP-FFMpeg - PHP драйвер для конвертирования  видео аудио FFMpeg"
-date: ""
 categories: 
   - "php"
 ---

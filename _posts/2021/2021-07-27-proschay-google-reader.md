@@ -1,6 +1,5 @@
 ---
 title: "Прощай Google Reader"
-date: ""
 categories: 
   - "note"
 ---

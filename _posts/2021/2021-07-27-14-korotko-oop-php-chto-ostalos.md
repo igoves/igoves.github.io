@@ -1,6 +1,5 @@
 ---
 title: "14. Коротко ООП PHP - Что осталось"
-date: ""
 categories: 
   - "php"
 ---

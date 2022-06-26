@@ -1,6 +1,5 @@
 ---
 title: "PhpWebcam - php библиотека для снятия изображений из вебкамеры"
-date: ""
 categories: 
   - "php"
 ---

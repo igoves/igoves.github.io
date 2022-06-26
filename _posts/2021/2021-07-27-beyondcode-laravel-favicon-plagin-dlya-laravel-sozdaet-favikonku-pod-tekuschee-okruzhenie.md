@@ -1,6 +1,5 @@
 ---
 title: "beyondcode/laravel-favicon - плагин для laravel создает фавиконку под текущее окружение"
-date: ""
 categories: 
   - "php"
 tags: 

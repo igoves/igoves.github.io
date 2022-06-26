@@ -1,6 +1,5 @@
 ---
 title: "jquery.udraggable.js - скрипт создания drag элементов на сайте"
-date: ""
 categories: 
   - "js"
 ---

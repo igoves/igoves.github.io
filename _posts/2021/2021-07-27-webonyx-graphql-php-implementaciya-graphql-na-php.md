@@ -1,6 +1,5 @@
 ---
 title: "webonyx/graphql-php - имплементация GraphQL на PHP"
-date: ""
 categories: 
   - "php"
 ---

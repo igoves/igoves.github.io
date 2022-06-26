@@ -1,6 +1,5 @@
 ---
 title: "Parsley.js - Javascript forms validation"
-date: ""
 categories: 
   - "js"
 tags: 

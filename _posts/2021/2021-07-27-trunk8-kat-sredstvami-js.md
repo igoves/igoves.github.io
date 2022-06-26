@@ -1,6 +1,5 @@
 ---
 title: "trunk8 - кат средствами js"
-date: ""
 categories: 
   - "js"
 tags: 

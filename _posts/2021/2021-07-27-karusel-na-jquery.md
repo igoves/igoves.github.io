@@ -1,6 +1,5 @@
 ---
 title: "Карусель на Jquery"
-date: ""
 categories: 
   - "css"
 tags: 

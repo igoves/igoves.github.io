@@ -1,6 +1,5 @@
 ---
 title: "Simple Lightbox - тач-дружелюбный лайтбокс изображений для мобильных и десктопов jQuery"
-date: ""
 categories: 
   - "js"
 ---

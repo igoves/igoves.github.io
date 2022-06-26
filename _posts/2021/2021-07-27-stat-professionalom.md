@@ -1,6 +1,5 @@
 ---
 title: "Стать профессионалом"
-date: ""
 categories: 
   - "note"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "tung - js библиотека для построения html"
-date: ""
 categories: 
   - "js"
 ---

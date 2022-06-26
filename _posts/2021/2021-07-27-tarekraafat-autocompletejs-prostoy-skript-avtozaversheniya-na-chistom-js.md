@@ -1,6 +1,5 @@
 ---
 title: "TarekRaafat/autoComplete.js - простой скрипт автозавершения на чистом js"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "jfMagnify - jquery плагин лупы"
-date: ""
 categories: 
   - "js"
 ---

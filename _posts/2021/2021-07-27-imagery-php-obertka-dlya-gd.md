@@ -1,6 +1,5 @@
 ---
 title: "Imagery - php обертка для GD"
-date: ""
 categories: 
   - "php"
 ---

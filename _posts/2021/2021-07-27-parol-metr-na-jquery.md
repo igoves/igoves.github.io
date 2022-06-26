@@ -1,6 +1,5 @@
 ---
 title: "Пароль-метр на jQuery"
-date: ""
 categories: 
   - "css"
 tags: 

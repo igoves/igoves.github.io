@@ -1,6 +1,5 @@
 ---
 title: "Как json_encode не кодировать в UNICODE"
-date: ""
 categories: 
   - "php"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "ddSlick - custom drop down with images and description"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Защищаемся, PHP-обертки от XSS и SQL-иньекций"
-date: ""
 categories: 
   - "php"
 tags: 

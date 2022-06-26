@@ -1,6 +1,5 @@
 ---
 title: "Анимированная типографика для сайта на JS"
-date: ""
 categories: 
   - "js"
 tags: 

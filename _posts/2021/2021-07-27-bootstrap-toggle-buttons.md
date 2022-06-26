@@ -1,6 +1,5 @@
 ---
 title: "Bootstrap toggle buttons"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "jPages - явскрипт пагинаций"
-date: ""
 categories: 
   - "js"
 tags: 

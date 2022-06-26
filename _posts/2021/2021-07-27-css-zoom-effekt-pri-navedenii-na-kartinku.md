@@ -1,6 +1,5 @@
 ---
 title: "CSS zoom эффект при наведении на картинку"
-date: ""
 categories: 
   - "css"
 ---

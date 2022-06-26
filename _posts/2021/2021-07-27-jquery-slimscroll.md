@@ -1,6 +1,5 @@
 ---
 title: "jQuery slimScroll"
-date: ""
 categories: 
   - "js"
 tags: 

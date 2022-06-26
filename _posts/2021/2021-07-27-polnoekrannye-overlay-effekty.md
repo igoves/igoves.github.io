@@ -1,6 +1,5 @@
 ---
 title: "Полноэкранные Overlay эффекты"
-date: ""
 categories: 
   - "css"
 ---

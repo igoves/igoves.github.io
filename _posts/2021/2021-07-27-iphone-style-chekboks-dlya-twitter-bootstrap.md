@@ -1,6 +1,5 @@
 ---
 title: "iPhone Style чекбокс для Twitter Bootstrap"
-date: ""
 categories: 
   - "css"
 tags: 

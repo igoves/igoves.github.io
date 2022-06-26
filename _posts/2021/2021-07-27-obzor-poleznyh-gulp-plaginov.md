@@ -1,6 +1,5 @@
 ---
 title: "Обзор полезных gulp плагинов"
-date: ""
 categories: 
   - "note"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "localheinz/composer-normalize - скрипт нормализации файла composer.json"
-date: ""
 categories: 
   - "php"
 ---

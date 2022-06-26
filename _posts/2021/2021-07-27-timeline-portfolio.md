@@ -1,6 +1,5 @@
 ---
 title: "Timeline Portfolio"
-date: ""
 categories: 
   - "js"
 tags: 

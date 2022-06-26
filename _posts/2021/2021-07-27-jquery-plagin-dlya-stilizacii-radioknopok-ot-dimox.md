@@ -1,6 +1,5 @@
 ---
 title: "jQuery-плагин для стилизации радиокнопок от dimox"
-date: ""
 categories: 
   - "js"
 tags: 

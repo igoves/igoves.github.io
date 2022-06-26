@@ -1,6 +1,5 @@
 ---
 title: "Photobox - CSS3 image gallery jQuery plugin"
-date: ""
 categories: 
   - "js"
 tags: 

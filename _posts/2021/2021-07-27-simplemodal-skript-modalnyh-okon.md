@@ -1,6 +1,5 @@
 ---
 title: "SimpleModal - скрипт модальных окон"
-date: ""
 categories: 
   - "js"
 tags: 

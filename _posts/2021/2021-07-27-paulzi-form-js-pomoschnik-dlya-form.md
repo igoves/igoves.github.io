@@ -1,6 +1,5 @@
 ---
 title: "paulzi-form - js помощник для form"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Magneticmediajs - еще один лайтбокс"
-date: ""
 categories: 
   - "js"
 ---

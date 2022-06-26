@@ -1,6 +1,5 @@
 ---
 title: "Bootstrap Tour"
-date: ""
 categories: 
   - "js"
 ---

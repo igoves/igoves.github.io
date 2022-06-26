@@ -1,6 +1,5 @@
 ---
 title: "phulp - менеджер задач на php"
-date: ""
 categories: 
   - "php"
 ---

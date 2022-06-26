@@ -1,6 +1,5 @@
 ---
 title: "HINT.css - A tooltip library in CSS"
-date: ""
 categories: 
   - "css"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Меню с затуханием на Jquery"
-date: ""
 categories: 
   - "js"
 tags: 

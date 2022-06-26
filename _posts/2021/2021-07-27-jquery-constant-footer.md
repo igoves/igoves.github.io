@@ -1,6 +1,5 @@
 ---
 title: "Jquery Constant Footer"
-date: ""
 categories: 
   - "css"
 tags: 

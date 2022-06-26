@@ -1,6 +1,5 @@
 ---
 title: "SocialCount.js - скрипт социальных кнопок, который подргужается при наведении"
-date: ""
 categories: 
   - "js"
 tags: 

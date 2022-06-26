@@ -1,6 +1,5 @@
 ---
 title: "CSS vertical-align для всего"
-date: ""
 categories: 
   - "css"
 ---

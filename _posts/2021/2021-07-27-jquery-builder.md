@@ -1,6 +1,5 @@
 ---
 title: "jQuery Builder"
-date: ""
 categories: 
   - "js"
 tags: 

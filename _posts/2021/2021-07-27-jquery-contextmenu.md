@@ -1,6 +1,5 @@
 ---
 title: "jQuery contextMenu"
-date: ""
 categories: 
   - "js"
 ---

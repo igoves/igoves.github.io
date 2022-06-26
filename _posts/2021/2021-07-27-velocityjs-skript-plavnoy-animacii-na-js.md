@@ -1,6 +1,5 @@
 ---
 title: "Velocity.js - скрипт плавной анимации на js"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "POST через AJAX"
-date: ""
 categories: 
   - "xhtml"
 tags: 

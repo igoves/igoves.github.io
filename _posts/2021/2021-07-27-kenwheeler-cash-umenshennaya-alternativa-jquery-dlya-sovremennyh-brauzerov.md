@@ -1,6 +1,5 @@
 ---
 title: "kenwheeler/cash - уменьшенная альтернатива jQuery для современных браузеров"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Динамическая Фильтрация Макета с Isotope и Bootstrap"
-date: ""
 categories: 
   - "js"
 ---

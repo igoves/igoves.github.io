@@ -1,6 +1,5 @@
 ---
 title: "Типограф Муравьёва"
-date: ""
 categories: 
   - "php"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "MetricsGraphics.js - плагин для визуализации данных в виде графиков, основан на D3"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "VerticalIconMenu"
-date: ""
 categories: 
   - "css"
 tags: 

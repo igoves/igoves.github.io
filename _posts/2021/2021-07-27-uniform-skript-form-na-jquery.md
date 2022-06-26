@@ -1,6 +1,5 @@
 ---
 title: "Uniform - скрипт форм на jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

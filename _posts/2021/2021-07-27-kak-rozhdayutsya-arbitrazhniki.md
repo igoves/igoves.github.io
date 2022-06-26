@@ -1,6 +1,5 @@
 ---
 title: "Как рождаются арбитражники"
-date: ""
 categories: 
   - "note"
 tags: 

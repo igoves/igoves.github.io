@@ -1,6 +1,5 @@
 ---
 title: "Полезные gulp-плагины: git, cat, changed, ssh, jscs и другие"
-date: ""
 categories: 
   - "note"
 ---

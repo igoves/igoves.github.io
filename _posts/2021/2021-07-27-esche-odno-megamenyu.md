@@ -1,6 +1,5 @@
 ---
 title: "Еще одно мегаменю"
-date: ""
 categories: 
   - "css"
 tags: 

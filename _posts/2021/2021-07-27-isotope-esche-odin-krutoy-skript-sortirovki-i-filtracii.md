@@ -1,6 +1,5 @@
 ---
 title: "Isotope, еще один крутой скрипт сортировки и фильтрации"
-date: ""
 categories: 
   - "js"
 tags: 

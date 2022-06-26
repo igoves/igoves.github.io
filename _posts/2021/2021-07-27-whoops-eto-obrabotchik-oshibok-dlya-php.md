@@ -1,6 +1,5 @@
 ---
 title: "whoops - это обработчик ошибок для PHP"
-date: ""
 categories: 
   - "php"
 ---

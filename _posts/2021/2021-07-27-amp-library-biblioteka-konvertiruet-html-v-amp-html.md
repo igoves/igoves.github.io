@@ -1,6 +1,5 @@
 ---
 title: "amp-library - библиотека конвертирует HTML в AMP HTML"
-date: ""
 categories: 
   - "php"
 ---

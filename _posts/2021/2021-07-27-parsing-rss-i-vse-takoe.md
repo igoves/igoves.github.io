@@ -1,6 +1,5 @@
 ---
 title: "Парсинг RSS и все такое"
-date: ""
 categories: 
   - "php"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "midnight.js - скрипт фиксирует положение блока на экране jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

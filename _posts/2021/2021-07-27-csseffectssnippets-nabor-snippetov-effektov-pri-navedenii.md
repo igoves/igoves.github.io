@@ -1,6 +1,5 @@
 ---
 title: "CSSeffectsSnippets - набор сниппетов эффектов при наведении"
-date: ""
 categories: 
   - "css"
 tags: 

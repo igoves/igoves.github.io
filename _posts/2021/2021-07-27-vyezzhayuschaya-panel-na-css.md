@@ -1,6 +1,5 @@
 ---
 title: "Выезжающая панель на CSS"
-date: ""
 categories: 
   - "css"
 ---

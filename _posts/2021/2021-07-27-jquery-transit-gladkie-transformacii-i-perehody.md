@@ -1,6 +1,5 @@
 ---
 title: "jQuery Transit - гладкие трансформации и переходы"
-date: ""
 categories: 
   - "js"
 ---

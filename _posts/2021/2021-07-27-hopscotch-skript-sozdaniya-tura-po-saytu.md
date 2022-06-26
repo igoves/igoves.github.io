@@ -1,6 +1,5 @@
 ---
 title: "Hopscotch - скрипт создания тура по сайту"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Plupload - загрузчик файлов использующий HTML5 Gears, Silverlight, Flash, BrowserPlus  или обычную форму"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "EASY-TREE.js - скрипт деревовидного выпадающего вертикального меню на jQuery и TB3"
-date: ""
 categories: 
   - "js"
 ---

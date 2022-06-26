@@ -1,6 +1,5 @@
 ---
 title: "Livereload - программа обновляет за вас браузер при смене css"
-date: ""
 categories: 
   - "xhtml"
 ---

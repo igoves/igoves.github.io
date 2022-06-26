@@ -1,6 +1,5 @@
 ---
 title: "FullCalendar от Adam Shaw"
-date: ""
 categories: 
   - "php"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "NProgress.js - прогресс бар"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "SimpleBar - скрипт скроллбара"
-date: ""
 categories: 
   - "js"
 ---

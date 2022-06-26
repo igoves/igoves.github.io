@@ -1,6 +1,5 @@
 ---
 title: "ShakeBorder - jQuery плагин создания трясущихся элементов"
-date: ""
 categories: 
   - "js"
 ---

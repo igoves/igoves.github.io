@@ -1,6 +1,5 @@
 ---
 title: "thaw.js - синтетическая асинхронная обработка в JavaScript"
-date: ""
 categories: 
   - "js"
 ---

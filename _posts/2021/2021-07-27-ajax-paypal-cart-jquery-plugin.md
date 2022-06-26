@@ -1,6 +1,5 @@
 ---
 title: "AJAX PayPal Cart JQuery Plugin"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "paragonie/easydb - пхп обертка для PDO"
-date: ""
 categories: 
   - "php"
 ---

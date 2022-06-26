@@ -1,6 +1,5 @@
 ---
 title: "simplepie - простой и быстрый php скрипт парсинга Atom/RSS"
-date: ""
 categories: 
   - "php"
 ---

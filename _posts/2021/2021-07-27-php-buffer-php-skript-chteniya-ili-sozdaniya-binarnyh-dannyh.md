@@ -1,6 +1,5 @@
 ---
 title: "php-buffer - php скрипт чтения или создания бинарных данных"
-date: ""
 categories: 
   - "php"
 ---

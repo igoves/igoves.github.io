@@ -1,6 +1,5 @@
 ---
 title: "CircularLoader.js - скрипт кругового прогресс бара использующий html5 и js"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Validatr - Cross Browser HTML5 Form Validation"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "sokil/php-mongo - php ODM для mongodb"
-date: ""
 categories: 
   - "php"
 ---

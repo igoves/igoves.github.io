@@ -1,6 +1,5 @@
 ---
 title: "cкрыть раздел диска в windows"
-date: ""
 categories: 
   - "note"
 tags: 

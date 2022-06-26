@@ -1,6 +1,5 @@
 ---
 title: "Хорошие практики Laravel"
-date: ""
 categories: 
   - "note"
 ---

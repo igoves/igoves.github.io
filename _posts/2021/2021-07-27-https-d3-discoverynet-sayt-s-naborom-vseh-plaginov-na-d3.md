@@ -1,6 +1,5 @@
 ---
 title: "https://d3-discovery.net/ - сайт с набором всех плагинов на d3"
-date: ""
 categories: 
   - "js"
 ---

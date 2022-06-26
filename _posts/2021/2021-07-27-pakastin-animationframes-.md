@@ -1,6 +1,5 @@
 ---
 title: "pakastin/animationframes - скрипт создания анимации на js"
-date: ""
 categories: 
   - "js"
 ---

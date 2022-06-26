@@ -1,6 +1,5 @@
 ---
 title: "Bootstrap Multi-Suggest Typeahead"
-date: ""
 categories: 
   - "js"
 tags: 

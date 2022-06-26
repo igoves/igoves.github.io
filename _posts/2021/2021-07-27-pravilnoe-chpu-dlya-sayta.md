@@ -1,6 +1,5 @@
 ---
 title: "Правильное ЧПУ для сайта"
-date: ""
 categories: 
   - "php"
 ---

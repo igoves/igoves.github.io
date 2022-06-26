@@ -1,6 +1,5 @@
 ---
 title: "dayjs - fast 2kB alternative to Moment.js with the same modern API"
-date: ""
 categories: 
   - "js"
 ---

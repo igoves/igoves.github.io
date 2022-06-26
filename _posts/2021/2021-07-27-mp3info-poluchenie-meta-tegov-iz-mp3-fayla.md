@@ -1,6 +1,5 @@
 ---
 title: "Mp3Info - получение мета тегов из mp3 файла"
-date: ""
 categories: 
   - "php"
 ---

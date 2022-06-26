@@ -1,6 +1,5 @@
 ---
 title: "jQuery prettyCheckable - замена стандартных чекбоксов и радиобатонов"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Vertical Timeline"
-date: ""
 categories: 
   - "css"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "tui editor - Markdown визивиг (WYSIWYG) редактор"
-date: ""
 categories: 
   - "js"
 ---

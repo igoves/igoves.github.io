@@ -1,6 +1,5 @@
 ---
 title: "krakjoe/ilimit - скрипт для ограничения времени и потребление памяти выполнения в PHP"
-date: ""
 categories: 
   - "php"
 ---

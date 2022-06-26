@@ -1,6 +1,5 @@
 ---
 title: "azdanov/php-interview-exercises - репозиторий с заданиями на интервью по PHP"
-date: ""
 categories: 
   - "php"
 ---

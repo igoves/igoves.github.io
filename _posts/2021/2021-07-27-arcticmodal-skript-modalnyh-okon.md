@@ -1,6 +1,5 @@
 ---
 title: "arcticModal - скрипт модальных окон"
-date: ""
 categories: 
   - "js"
 ---

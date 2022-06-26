@@ -1,6 +1,5 @@
 ---
 title: "Желание"
-date: ""
 categories: 
   - "note"
 ---

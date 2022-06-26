@@ -1,6 +1,5 @@
 ---
 title: "Scalable - подстраивает элемент под размер блока"
-date: ""
 categories: 
   - "js"
 ---

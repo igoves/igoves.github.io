@@ -1,6 +1,5 @@
 ---
 title: "php-ip-tools - скрипт для манипуляции с ip адресами"
-date: ""
 categories: 
   - "php"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Faker - php библиотека для создания фейковых данных"
-date: ""
 categories: 
   - "php"
 ---

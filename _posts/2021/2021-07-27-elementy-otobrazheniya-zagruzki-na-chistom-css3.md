@@ -1,6 +1,5 @@
 ---
 title: "Элементы отображения загрузки на чистом CSS3"
-date: ""
 categories: 
   - "css"
 tags: 

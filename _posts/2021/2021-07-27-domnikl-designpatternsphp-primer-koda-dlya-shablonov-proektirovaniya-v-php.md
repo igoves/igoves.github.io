@@ -1,6 +1,5 @@
 ---
 title: "domnikl/DesignPatternsPHP - пример кода для шаблонов проектирования в PHP"
-date: ""
 categories: 
   - "php"
 ---

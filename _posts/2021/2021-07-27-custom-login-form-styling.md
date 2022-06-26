@@ -1,6 +1,5 @@
 ---
 title: "Custom Login Form Styling"
-date: ""
 categories: 
   - "css"
 ---

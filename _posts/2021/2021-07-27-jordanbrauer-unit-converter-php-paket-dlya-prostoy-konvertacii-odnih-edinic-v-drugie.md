@@ -1,6 +1,5 @@
 ---
 title: "jordanbrauer/unit-converter - php пакет для простой конвертации одних единиц в другие"
-date: ""
 categories: 
   - "php"
 ---

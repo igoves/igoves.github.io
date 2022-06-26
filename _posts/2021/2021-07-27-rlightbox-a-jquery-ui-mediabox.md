@@ -1,6 +1,5 @@
 ---
 title: "rlightbox – a jQuery UI mediabox"
-date: ""
 categories: 
   - "js"
 ---

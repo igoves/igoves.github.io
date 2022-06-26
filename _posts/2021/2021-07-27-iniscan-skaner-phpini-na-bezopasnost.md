@@ -1,6 +1,5 @@
 ---
 title: "iniscan - сканер php.ini на безопасность"
-date: ""
 categories: 
   - "php"
 ---

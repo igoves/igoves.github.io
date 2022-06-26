@@ -1,6 +1,5 @@
 ---
 title: "Пишем загрузку изображения на php+ajax+jquery+jquery.form"
-date: ""
 categories: 
   - "php"
 tags: 

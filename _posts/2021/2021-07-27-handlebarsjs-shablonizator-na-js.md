@@ -1,6 +1,5 @@
 ---
 title: "handlebarsjs - шаблонизатор на js"
-date: ""
 categories: 
   - "js"
 ---

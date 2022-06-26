@@ -1,6 +1,5 @@
 ---
 title: "Приятный слайдер на jquery = Orbit"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "snorlax - легковесный REST клиент на php"
-date: ""
 categories: 
   - "php"
 ---

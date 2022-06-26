@@ -1,6 +1,5 @@
 ---
 title: "abDetector - детектор адблока на чистом js"
-date: ""
 categories: 
   - "js"
 ---

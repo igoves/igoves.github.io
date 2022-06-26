@@ -1,6 +1,5 @@
 ---
 title: "PanJiaChen / vue-element-admin - элементы для интерфейса админки, на vue и использует UI Toolkit element-ui"
-date: ""
 categories: 
   - "js"
 tags: 

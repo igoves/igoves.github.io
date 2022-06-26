@@ -1,6 +1,5 @@
 ---
 title: "lc-switch - jquery-plugin замены стандартных чекбоксов и радио батонов"
-date: ""
 categories: 
   - "js"
 ---

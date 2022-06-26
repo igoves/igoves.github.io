@@ -1,6 +1,5 @@
 ---
 title: "slideControl.js jQuery Plugin"
-date: ""
 categories: 
   - "js"
 tags: 

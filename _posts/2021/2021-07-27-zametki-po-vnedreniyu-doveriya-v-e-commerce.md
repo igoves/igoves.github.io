@@ -1,6 +1,5 @@
 ---
 title: "Заметки по внедрению доверия в e-commerce"
-date: ""
 categories: 
   - "note"
 ---

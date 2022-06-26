@@ -1,6 +1,5 @@
 ---
 title: "Слайд эффект на jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

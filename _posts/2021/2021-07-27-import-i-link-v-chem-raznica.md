@@ -1,6 +1,5 @@
 ---
 title: "@import и link в чем разница?!"
-date: ""
 categories: 
   - "css"
 tags: 

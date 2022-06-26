@@ -1,6 +1,5 @@
 ---
 title: "php-ssh - php api для работы с ssh"
-date: ""
 categories: 
   - "php"
 ---

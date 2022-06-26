@@ -1,6 +1,5 @@
 ---
 title: "Кнопки голосования на jQuery"
-date: ""
 categories: 
   - "css"
 ---

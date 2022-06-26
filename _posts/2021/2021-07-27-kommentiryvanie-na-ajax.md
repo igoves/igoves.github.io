@@ -1,6 +1,5 @@
 ---
 title: "Комментирывание на ajax"
-date: ""
 categories: 
   - "php"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "FieldVal - многоцелевой скрипт валидации на JS"
-date: ""
 categories: 
   - "js"
 ---

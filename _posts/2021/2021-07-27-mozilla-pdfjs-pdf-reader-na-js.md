@@ -1,6 +1,5 @@
 ---
 title: "mozilla/pdf.js - pdf reader на js"
-date: ""
 categories: 
   - "js"
 ---

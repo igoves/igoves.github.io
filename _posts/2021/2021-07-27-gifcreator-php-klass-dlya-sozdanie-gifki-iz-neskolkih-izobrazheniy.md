@@ -1,6 +1,5 @@
 ---
 title: "GifCreator - php класс для создание гифки из нескольких изображений"
-date: ""
 categories: 
   - "php"
 ---

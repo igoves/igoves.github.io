@@ -1,6 +1,5 @@
 ---
 title: "http://uigradients.com/ - сайт рандомно генерирует градиентные фоны с возможностью получить css"
-date: ""
 categories: 
   - "css"
 ---

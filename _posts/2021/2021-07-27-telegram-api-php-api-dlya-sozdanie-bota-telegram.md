@@ -1,6 +1,5 @@
 ---
 title: "telegram-api - пхп апи для создание бота телеграм"
-date: ""
 categories: 
   - "php"
 ---

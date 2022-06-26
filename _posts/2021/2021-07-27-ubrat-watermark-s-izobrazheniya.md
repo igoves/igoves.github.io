@@ -1,6 +1,5 @@
 ---
 title: "Убрать watermark с изображения"
-date: ""
 categories: 
   - "php"
 tags: 

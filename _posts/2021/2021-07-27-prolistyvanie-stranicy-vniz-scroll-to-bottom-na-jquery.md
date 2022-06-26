@@ -1,6 +1,5 @@
 ---
 title: "Пролистывание страницы вниз (scroll to bottom) на jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

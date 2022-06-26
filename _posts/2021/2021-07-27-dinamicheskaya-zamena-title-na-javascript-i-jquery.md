@@ -1,6 +1,5 @@
 ---
 title: "Динамическая замена title на JavaScript и Jquery"
-date: ""
 categories: 
   - "js"
 tags: 

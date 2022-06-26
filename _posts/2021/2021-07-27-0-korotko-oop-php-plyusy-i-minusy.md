@@ -1,6 +1,5 @@
 ---
 title: "0. Коротко ООП PHP - Плюсы и минусы"
-date: ""
 categories: 
   - "php"
 ---

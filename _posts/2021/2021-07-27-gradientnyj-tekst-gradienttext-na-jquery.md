@@ -1,6 +1,5 @@
 ---
 title: "Градиентный текст (GradientText) на jQuery"
-date: ""
 categories: 
   - "js"
 ---

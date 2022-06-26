@@ -1,6 +1,5 @@
 ---
 title: "transloadit/uppy - загрузчик файлов для веб"
-date: ""
 categories: 
   - "js"
 ---

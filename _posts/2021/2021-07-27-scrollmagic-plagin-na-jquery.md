@@ -1,6 +1,5 @@
 ---
 title: "ScrollMagic плагин на jQuery"
-date: ""
 categories: 
   - "js"
 ---

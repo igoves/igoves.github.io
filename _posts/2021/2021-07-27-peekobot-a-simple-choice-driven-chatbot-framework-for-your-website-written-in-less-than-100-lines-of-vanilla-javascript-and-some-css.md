@@ -1,6 +1,5 @@
 ---
 title: "peekobot - a simple, choice-driven chatbot framework for your website written in less than 100 lines of vanilla JavaScript (and some CSS)"
-date: ""
 categories: 
   - "js"
 ---

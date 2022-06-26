@@ -1,6 +1,5 @@
 ---
 title: "typeahead.js - плагин автозаполнения"
-date: ""
 categories: 
   - "js"
 tags: 

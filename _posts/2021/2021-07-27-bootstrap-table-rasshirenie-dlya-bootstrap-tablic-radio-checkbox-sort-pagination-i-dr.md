@@ -1,6 +1,5 @@
 ---
 title: "bootstrap-table - расширение для bootstrap таблиц: radio, checkbox, sort, pagination, и др."
-date: ""
 categories: 
   - "js"
 ---

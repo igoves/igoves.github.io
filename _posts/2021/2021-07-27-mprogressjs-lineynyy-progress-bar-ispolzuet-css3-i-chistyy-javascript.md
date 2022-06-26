@@ -1,6 +1,5 @@
 ---
 title: "MProgress.js — линейный прогресс бар. Использует CSS3 и чистый JavaScript"
-date: ""
 categories: 
   - "js"
 ---

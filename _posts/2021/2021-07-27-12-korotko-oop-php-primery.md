@@ -1,6 +1,5 @@
 ---
 title: "12.  Коротко ООП PHP - Примеры"
-date: ""
 categories: 
   - "php"
 ---

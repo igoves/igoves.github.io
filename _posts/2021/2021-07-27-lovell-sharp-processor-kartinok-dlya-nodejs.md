@@ -1,6 +1,5 @@
 ---
 title: "lovell/sharp - процессор картинок для node.js"
-date: ""
 categories: 
   - "js"
 ---

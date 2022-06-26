@@ -1,6 +1,5 @@
 ---
 title: "Twitter Bootstrap Hover Dropdown Plugin"
-date: ""
 categories: 
   - "js"
 tags: 

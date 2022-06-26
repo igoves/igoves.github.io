@@ -1,6 +1,5 @@
 ---
 title: "loadCSS - простой js скрипт позволяющий загружать css асинхронно"
-date: ""
 categories: 
   - "js"
 ---

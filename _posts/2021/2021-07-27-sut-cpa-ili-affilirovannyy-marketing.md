@@ -1,6 +1,5 @@
 ---
 title: "Суть CPA или аффилированный маркетинг"
-date: ""
 categories: 
   - "note"
 ---

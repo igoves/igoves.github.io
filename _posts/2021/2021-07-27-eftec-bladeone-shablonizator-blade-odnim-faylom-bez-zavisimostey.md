@@ -1,6 +1,5 @@
 ---
 title: "EFTEC/BladeOne - шаблонизатор Blade одним файлом без зависимостей"
-date: ""
 categories: 
   - "php"
 ---

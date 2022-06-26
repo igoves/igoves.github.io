@@ -1,6 +1,5 @@
 ---
 title: "js-cookie - js api для работы с куками браузера"
-date: ""
 categories: 
   - "js"
 ---

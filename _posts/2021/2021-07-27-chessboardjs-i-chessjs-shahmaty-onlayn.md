@@ -1,6 +1,5 @@
 ---
 title: "Chessboard.js и Chess.js - шахматы онлайн"
-date: ""
 categories: 
   - "js"
 ---

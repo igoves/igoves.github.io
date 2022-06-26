@@ -1,6 +1,5 @@
 ---
 title: "Хак DLE ограничение длины новости"
-date: ""
 categories: 
   - "note"
 tags: 

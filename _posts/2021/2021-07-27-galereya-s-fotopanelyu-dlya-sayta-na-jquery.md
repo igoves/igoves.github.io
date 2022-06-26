@@ -1,6 +1,5 @@
 ---
 title: "Галерея с фотопанелью для сайта на jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

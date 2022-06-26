@@ -1,6 +1,5 @@
 ---
 title: "pqina/filepond - js библиотека для загрузки файлов"
-date: ""
 categories: 
   - "js"
 ---

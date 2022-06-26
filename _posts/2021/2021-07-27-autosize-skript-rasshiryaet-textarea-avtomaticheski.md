@@ -1,6 +1,5 @@
 ---
 title: "Autosize - скрипт расширяет textarea автоматически"
-date: ""
 categories: 
   - "js"
 ---

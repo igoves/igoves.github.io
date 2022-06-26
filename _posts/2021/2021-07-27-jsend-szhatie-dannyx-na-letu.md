@@ -1,6 +1,5 @@
 ---
 title: "jSEND - сжатие данных на лету"
-date: ""
 categories: 
   - "php"
 tags: 

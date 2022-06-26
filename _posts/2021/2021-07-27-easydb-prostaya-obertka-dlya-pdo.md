@@ -1,6 +1,5 @@
 ---
 title: "easydb - простая обертка для PDO"
-date: ""
 categories: 
   - "php"
 ---

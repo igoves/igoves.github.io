@@ -1,6 +1,5 @@
 ---
 title: "jQuery Scroll Path"
-date: ""
 categories: 
   - "js"
 tags: 

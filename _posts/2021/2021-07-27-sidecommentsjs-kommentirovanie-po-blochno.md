@@ -1,6 +1,5 @@
 ---
 title: "SideComments.js - комментирование по блочно"
-date: ""
 categories: 
   - "js"
 ---

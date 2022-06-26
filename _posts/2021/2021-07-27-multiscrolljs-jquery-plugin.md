@@ -1,6 +1,5 @@
 ---
 title: "multiScroll.js - jQuery plugin"
-date: ""
 categories: 
   - "js"
 ---

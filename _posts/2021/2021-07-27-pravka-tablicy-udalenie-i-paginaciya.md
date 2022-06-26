@@ -1,6 +1,5 @@
 ---
 title: "Правка таблицы, удаление и пагинация"
-date: ""
 categories: 
   - "php"
 tags: 

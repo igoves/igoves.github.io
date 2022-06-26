@@ -1,6 +1,5 @@
 ---
 title: "OpenFaces еще один яваскрипт фреймверк (JSF)"
-date: ""
 categories: 
   - "js"
 tags: 

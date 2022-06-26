@@ -1,6 +1,5 @@
 ---
 title: "HTML5 Placeholder Attribute"
-date: ""
 categories: 
   - "xhtml"
 ---

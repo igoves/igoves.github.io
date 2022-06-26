@@ -1,6 +1,5 @@
 ---
 title: "Selectik - скрипт для заменты стандартного select"
-date: ""
 categories: 
   - "js"
 tags: 

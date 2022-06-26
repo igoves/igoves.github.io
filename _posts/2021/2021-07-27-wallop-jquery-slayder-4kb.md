@@ -1,6 +1,5 @@
 ---
 title: "wallop - jquery слайдер 4kb"
-date: ""
 categories: 
   - "js"
 ---

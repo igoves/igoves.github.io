@@ -1,6 +1,5 @@
 ---
 title: "EvanHahn/HumanizeDuration.js - скрипт отображения времени в человеческом виде"
-date: ""
 categories: 
   - "js"
 ---

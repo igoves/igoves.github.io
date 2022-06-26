@@ -1,6 +1,5 @@
 ---
 title: "amplitudejs - js скрипт создание html5 аудио плеера"
-date: ""
 categories: 
   - "js"
 ---

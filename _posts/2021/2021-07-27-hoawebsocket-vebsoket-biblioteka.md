@@ -1,6 +1,5 @@
 ---
 title: "Hoa\\Websocket  - вебсокет библиотека"
-date: ""
 categories: 
   - "php"
 ---

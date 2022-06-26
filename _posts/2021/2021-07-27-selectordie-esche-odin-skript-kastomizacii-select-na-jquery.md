@@ -1,6 +1,5 @@
 ---
 title: "SelectorDie - еще один скрипт кастомизации select на jQuery"
-date: ""
 categories: 
   - "js"
 ---

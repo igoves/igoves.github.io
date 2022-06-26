@@ -1,6 +1,5 @@
 ---
 title: "jQuery menu aim"
-date: ""
 categories: 
   - "js"
 tags: 

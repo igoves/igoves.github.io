@@ -1,6 +1,5 @@
 ---
 title: "botonomous - php скрипт для создания slack бота"
-date: ""
 categories: 
   - "php"
 ---

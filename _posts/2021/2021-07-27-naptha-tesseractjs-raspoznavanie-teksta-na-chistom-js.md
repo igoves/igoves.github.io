@@ -1,6 +1,5 @@
 ---
 title: "naptha/tesseract.js - распознавание текста на чистом JS"
-date: ""
 categories: 
   - "js"
 ---

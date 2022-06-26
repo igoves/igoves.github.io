@@ -1,6 +1,5 @@
 ---
 title: "Summernote - простой визивиг редактор"
-date: ""
 categories: 
   - "js"
 ---

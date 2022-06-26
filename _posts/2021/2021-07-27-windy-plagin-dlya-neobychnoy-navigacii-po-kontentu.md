@@ -1,6 +1,5 @@
 ---
 title: "Windy - плагин для необычной навигации по контенту"
-date: ""
 categories: 
   - "js"
 tags: 

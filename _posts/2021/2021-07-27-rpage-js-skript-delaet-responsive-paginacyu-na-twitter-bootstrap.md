@@ -1,6 +1,5 @@
 ---
 title: "rpage - js скрипт делает responsive пагинацю на twitter bootstrap"
-date: ""
 categories: 
   - "js"
 ---

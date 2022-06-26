@@ -1,6 +1,5 @@
 ---
 title: "Загрузка изображений на jQuery"
-date: ""
 categories: 
   - "js"
 ---

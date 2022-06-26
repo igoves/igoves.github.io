@@ -1,6 +1,5 @@
 ---
 title: "Мощь MySQL"
-date: ""
 categories: 
   - "note"
 tags: 

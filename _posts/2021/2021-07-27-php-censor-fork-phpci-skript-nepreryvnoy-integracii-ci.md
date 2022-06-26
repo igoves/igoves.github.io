@@ -1,6 +1,5 @@
 ---
 title: "php-censor - форк PHPCI, скрипт непрерывной интеграции (CI)"
-date: ""
 categories: 
   - "php"
 ---

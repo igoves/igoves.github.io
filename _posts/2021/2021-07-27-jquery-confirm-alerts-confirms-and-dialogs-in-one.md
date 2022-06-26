@@ -1,6 +1,5 @@
 ---
 title: "JQUERY-CONFIRM - alerts, confirms and dialogs in one."
-date: ""
 categories: 
   - "js"
 ---

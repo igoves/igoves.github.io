@@ -1,6 +1,5 @@
 ---
 title: "Коллекция Page Transitions на CSS"
-date: ""
 categories: 
   - "css"
 ---

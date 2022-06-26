@@ -1,6 +1,5 @@
 ---
 title: "EmailValidator - php валидатор e-mail"
-date: ""
 categories: 
   - "php"
 ---

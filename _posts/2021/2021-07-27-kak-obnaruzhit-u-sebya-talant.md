@@ -1,6 +1,5 @@
 ---
 title: "Как обнаружить у себя талант"
-date: ""
 categories: 
   - "note"
 tags: 

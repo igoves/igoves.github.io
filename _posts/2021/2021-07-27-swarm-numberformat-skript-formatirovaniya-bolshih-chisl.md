@@ -1,6 +1,5 @@
 ---
 title: "swarm-numberformat - скрипт форматирования больших числ"
-date: ""
 categories: 
   - "js"
 ---

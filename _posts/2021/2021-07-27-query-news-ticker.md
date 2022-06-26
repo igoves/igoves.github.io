@@ -1,6 +1,5 @@
 ---
 title: "Query News Ticker"
-date: ""
 categories: 
   - "js"
 tags: 

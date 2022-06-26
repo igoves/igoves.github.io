@@ -1,6 +1,5 @@
 ---
 title: "jquery-overlap - скрипт множественного выделения блоков"
-date: ""
 categories: 
   - "js"
 ---

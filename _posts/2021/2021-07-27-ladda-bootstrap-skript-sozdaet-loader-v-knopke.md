@@ -1,6 +1,5 @@
 ---
 title: "ladda-bootstrap - скрипт создает лоадер в кнопке"
-date: ""
 categories: 
   - "js"
 ---

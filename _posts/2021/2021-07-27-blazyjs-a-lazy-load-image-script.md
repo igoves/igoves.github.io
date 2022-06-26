@@ -1,6 +1,5 @@
 ---
 title: "bLazy.js - A lazy load image script"
-date: ""
 categories: 
   - "js"
 ---

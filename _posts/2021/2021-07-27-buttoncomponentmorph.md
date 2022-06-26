@@ -1,6 +1,5 @@
 ---
 title: "ButtonComponentMorph"
-date: ""
 categories: 
   - "css"
 ---

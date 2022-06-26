@@ -1,6 +1,5 @@
 ---
 title: "beautify-text - скрипт автоматического исправления текста"
-date: ""
 categories: 
   - "js"
 ---

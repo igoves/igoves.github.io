@@ -1,6 +1,5 @@
 ---
 title: "stickyMojo.js - скрипт липкой панели"
-date: ""
 categories: 
   - "css"
 tags: 

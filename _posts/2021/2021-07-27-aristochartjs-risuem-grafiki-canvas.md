@@ -1,6 +1,5 @@
 ---
 title: "Aristochart.js - рисуем графики canvas"
-date: ""
 categories: 
   - "js"
 tags: 

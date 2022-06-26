@@ -1,6 +1,5 @@
 ---
 title: "Bootstrap-Modal"
-date: ""
 categories: 
   - "js"
 tags: 

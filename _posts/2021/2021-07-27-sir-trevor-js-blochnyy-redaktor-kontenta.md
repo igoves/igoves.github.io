@@ -1,6 +1,5 @@
 ---
 title: "sir-trevor-js - блочный редактор контента"
-date: ""
 categories: 
   - "js"
 ---

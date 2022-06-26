@@ -1,6 +1,5 @@
 ---
 title: "jQuery lightgallery - симпатичный и функциональный скрипт галереи"
-date: ""
 categories: 
   - "js"
 ---

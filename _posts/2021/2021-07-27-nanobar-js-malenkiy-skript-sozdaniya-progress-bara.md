@@ -1,6 +1,5 @@
 ---
 title: "nanobar js - маленький скрипт создания прогресс бара"
-date: ""
 categories: 
   - "js"
 ---

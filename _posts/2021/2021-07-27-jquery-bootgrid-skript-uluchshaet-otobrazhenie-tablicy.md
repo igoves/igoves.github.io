@@ -1,6 +1,5 @@
 ---
 title: "jQuery Bootgrid - скрипт улучшает отображение таблицы"
-date: ""
 categories: 
   - "js"
 ---

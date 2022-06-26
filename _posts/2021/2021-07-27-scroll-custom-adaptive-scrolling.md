@@ -1,6 +1,5 @@
 ---
 title: "Scroll - Custom adaptive scrolling"
-date: ""
 categories: 
   - "js"
 tags: 

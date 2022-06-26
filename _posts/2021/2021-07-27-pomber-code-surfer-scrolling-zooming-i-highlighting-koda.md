@@ -1,6 +1,5 @@
 ---
 title: "pomber/code-surfer - scrolling, zooming и highlighting кода"
-date: ""
 categories: 
   - "js"
 ---

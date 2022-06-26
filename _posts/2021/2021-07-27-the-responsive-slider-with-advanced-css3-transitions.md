@@ -1,6 +1,5 @@
 ---
 title: "The Responsive Slider with Advanced CSS3 Transitions"
-date: ""
 categories: 
   - "js"
 tags: 

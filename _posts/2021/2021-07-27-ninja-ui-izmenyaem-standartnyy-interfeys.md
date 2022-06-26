@@ -1,6 +1,5 @@
 ---
 title: "ninja ui - изменяем стандартный интерфейс"
-date: ""
 categories: 
   - "js"
 ---

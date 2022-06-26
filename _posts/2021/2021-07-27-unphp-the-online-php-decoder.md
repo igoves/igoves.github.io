@@ -1,6 +1,5 @@
 ---
 title: "UnPHP - The Online PHP Decoder"
-date: ""
 categories: 
   - "php"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Rapha&#235;l — библиотека JavaScript"
-date: ""
 categories: 
   - "js"
 ---

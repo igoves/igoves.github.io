@@ -1,6 +1,5 @@
 ---
 title: "Sortable - JavaScript библиотека для сортировки списков перетаскиванием (drag and drop)"
-date: ""
 categories: 
   - "js"
 ---

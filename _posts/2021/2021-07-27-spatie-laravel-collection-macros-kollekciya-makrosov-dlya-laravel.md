@@ -1,6 +1,5 @@
 ---
 title: "spatie/laravel-collection-macros - коллекция макросов для laravel"
-date: ""
 categories: 
   - "php"
 ---

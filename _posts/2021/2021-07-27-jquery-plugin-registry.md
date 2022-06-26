@@ -1,6 +1,5 @@
 ---
 title: "jQuery Plugin Registry"
-date: ""
 categories: 
   - "js"
 tags: 

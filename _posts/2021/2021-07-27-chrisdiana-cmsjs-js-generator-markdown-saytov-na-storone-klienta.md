@@ -1,6 +1,5 @@
 ---
 title: "chrisdiana/cms.js - js  генератор Markdown сайтов на стороне клиента"
-date: ""
 categories: 
   - "js"
 ---

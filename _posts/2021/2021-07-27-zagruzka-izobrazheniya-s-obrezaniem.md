@@ -1,6 +1,5 @@
 ---
 title: "Загрузка изображения с обрезанием"
-date: ""
 categories: 
   - "js"
 tags: 

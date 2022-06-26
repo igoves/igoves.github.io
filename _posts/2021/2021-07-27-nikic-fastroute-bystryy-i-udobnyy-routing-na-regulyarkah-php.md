@@ -1,6 +1,5 @@
 ---
 title: "nikic/FastRoute – быстрый и удобный роутинг на регулярках PHP"
-date: ""
 categories: 
   - "php"
 ---

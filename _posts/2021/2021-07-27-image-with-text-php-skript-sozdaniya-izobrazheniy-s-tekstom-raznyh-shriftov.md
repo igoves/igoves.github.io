@@ -1,6 +1,5 @@
 ---
 title: "image-with-text - php скрипт создания изображений с текстом разных шрифтов"
-date: ""
 categories: 
   - "php"
 ---

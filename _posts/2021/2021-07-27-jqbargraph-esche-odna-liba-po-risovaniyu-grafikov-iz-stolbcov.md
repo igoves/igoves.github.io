@@ -1,6 +1,5 @@
 ---
 title: "jqBarGraph еще одна либа по рисованию графиков из столбцов"
-date: ""
 categories: 
   - "js"
 ---

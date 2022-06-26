@@ -1,6 +1,5 @@
 ---
 title: ".autoNumeric - форматирование"
-date: ""
 categories: 
   - "js"
 tags: 

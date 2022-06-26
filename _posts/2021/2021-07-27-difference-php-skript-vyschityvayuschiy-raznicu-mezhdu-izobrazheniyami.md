@@ -1,6 +1,5 @@
 ---
 title: "difference - php скрипт высчитывающий разницу между изображениями"
-date: ""
 categories: 
   - "php"
 ---

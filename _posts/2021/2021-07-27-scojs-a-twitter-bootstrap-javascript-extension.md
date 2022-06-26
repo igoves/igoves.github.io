@@ -1,6 +1,5 @@
 ---
 title: "Sco.js - A twitter bootstrap javascript extension"
-date: ""
 categories: 
   - "js"
 tags: 

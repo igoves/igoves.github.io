@@ -1,6 +1,5 @@
 ---
 title: "Fullscreen Javascript Slide navigation"
-date: ""
 categories: 
   - "css"
 ---

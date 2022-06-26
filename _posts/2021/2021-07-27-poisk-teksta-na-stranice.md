@@ -1,6 +1,5 @@
 ---
 title: "Поиск текста на странице"
-date: ""
 categories: 
   - "js"
 tags: 

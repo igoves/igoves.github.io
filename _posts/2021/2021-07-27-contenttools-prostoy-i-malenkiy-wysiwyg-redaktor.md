@@ -1,6 +1,5 @@
 ---
 title: "ContentTools - простой и маленький WYSIWYG редактор"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "slugify - js скрипт без зависимостей создания slug из любой строки"
-date: ""
 categories: 
   - "js"
 ---

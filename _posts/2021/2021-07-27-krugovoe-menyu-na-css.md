@@ -1,6 +1,5 @@
 ---
 title: "Круговое меню на CSS"
-date: ""
 categories: 
   - "css"
 ---

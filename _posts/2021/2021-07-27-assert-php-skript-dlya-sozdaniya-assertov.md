@@ -1,6 +1,5 @@
 ---
 title: "assert - php скрипт для создания ассертов"
-date: ""
 categories: 
   - "php"
 ---

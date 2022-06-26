@@ -1,6 +1,5 @@
 ---
 title: "PixelFlow - jquery скрипт создает фильтр пикселизации для изображений"
-date: ""
 categories: 
   - "js"
 ---

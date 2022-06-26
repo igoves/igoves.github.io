@@ -1,6 +1,5 @@
 ---
 title: "Модальные окна на CSS"
-date: ""
 categories: 
   - "css"
 ---

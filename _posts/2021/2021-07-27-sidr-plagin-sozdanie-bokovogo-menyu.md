@@ -1,6 +1,5 @@
 ---
 title: "Sidr - плагин создание бокового меню"
-date: ""
 categories: 
   - "js"
 tags: 

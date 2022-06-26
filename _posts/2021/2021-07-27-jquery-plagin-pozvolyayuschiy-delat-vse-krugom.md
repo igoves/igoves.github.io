@@ -1,6 +1,5 @@
 ---
 title: "jQuery плагин позволяющий делать все кругом"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Bootstro.js - плагин для создания гайда для сайта"
-date: ""
 categories: 
   - "js"
 ---

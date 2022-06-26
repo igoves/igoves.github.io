@@ -1,6 +1,5 @@
 ---
 title: "jQuery Masonry"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "jasny/switch-route - php скрипт генерации быстрых роутов"
-date: ""
 categories: 
   - "php"
 ---

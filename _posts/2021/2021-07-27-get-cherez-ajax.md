@@ -1,6 +1,5 @@
 ---
 title: "GET через AJAX"
-date: ""
 categories: 
   - "xhtml"
 tags: 

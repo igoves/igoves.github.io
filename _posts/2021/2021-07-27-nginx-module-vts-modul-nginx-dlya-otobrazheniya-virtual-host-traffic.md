@@ -1,6 +1,5 @@
 ---
 title: "nginx-module-vts - модуль nginx для отображения virtual host traffic"
-date: ""
 categories: 
   - "note"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Скрипт Beaver-mysql-logger - логер MySQL запросов, отображается в веб интерфейсе"
-date: ""
 categories: 
   - "php"
 ---

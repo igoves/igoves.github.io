@@ -1,6 +1,5 @@
 ---
 title: "electronjs - создание кроссплатформенных приложений при помощи JavaScript, HTML и CSS"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "phpMemAdmin - веб-интерфейс для Memcached"
-date: ""
 categories: 
   - "php"
 ---

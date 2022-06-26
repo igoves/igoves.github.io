@@ -1,6 +1,5 @@
 ---
 title: "Текстовый слайдер"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Скролирующая навигация использующая jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "PHPExcel - php библиотека для создания и чтения excel таблиц"
-date: ""
 categories: 
   - "php"
 ---

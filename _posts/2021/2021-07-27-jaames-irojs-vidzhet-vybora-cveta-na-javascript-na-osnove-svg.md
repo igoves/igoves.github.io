@@ -1,6 +1,5 @@
 ---
 title: "jaames/iro.js - виджет выбора цвета на JavaScript на основе SVG"
-date: ""
 categories: 
   - "js"
 ---

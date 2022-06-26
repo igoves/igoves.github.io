@@ -1,6 +1,5 @@
 ---
 title: "Полезные функции на php"
-date: ""
 categories: 
   - "php"
 tags: 

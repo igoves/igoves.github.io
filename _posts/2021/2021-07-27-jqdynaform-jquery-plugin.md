@@ -1,6 +1,5 @@
 ---
 title: "jqDynaForm jQuery Plugin"
-date: ""
 categories: 
   - "js"
 tags: 

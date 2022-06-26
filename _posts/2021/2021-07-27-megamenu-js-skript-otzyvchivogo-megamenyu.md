@@ -1,6 +1,5 @@
 ---
 title: "megamenu-js - скрипт отзывчивого мегаменю"
-date: ""
 categories: 
   - "css"
 ---

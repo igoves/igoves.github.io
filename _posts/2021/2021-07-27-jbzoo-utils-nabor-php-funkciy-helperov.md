@@ -1,6 +1,5 @@
 ---
 title: "JBZoo Utils - набор php функций хелперов"
-date: ""
 categories: 
   - "php"
 ---

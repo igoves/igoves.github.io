@@ -1,6 +1,5 @@
 ---
 title: "codedoodl.es - площадка для демонстрации экспериментов js кодирования"
-date: ""
 categories: 
   - "js"
 ---

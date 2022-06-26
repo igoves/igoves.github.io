@@ -1,6 +1,5 @@
 ---
 title: "HorizontalNav - скрипт горизонтальной навигации"
-date: ""
 categories: 
   - "js"
 tags: 

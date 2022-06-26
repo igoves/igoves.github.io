@@ -1,6 +1,5 @@
 ---
 title: "jQuery Autotab - скрипт автоматического перехода по input при вводе"
-date: ""
 categories: 
   - "js"
 ---

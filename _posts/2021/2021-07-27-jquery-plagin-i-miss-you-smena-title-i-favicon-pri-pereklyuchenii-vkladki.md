@@ -1,6 +1,5 @@
 ---
 title: "jQuery плагин I-Miss-You - смена title и favicon при переключении вкладки"
-date: ""
 categories: 
   - "js"
 ---

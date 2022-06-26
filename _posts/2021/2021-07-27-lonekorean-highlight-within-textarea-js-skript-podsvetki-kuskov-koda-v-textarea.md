@@ -1,6 +1,5 @@
 ---
 title: "lonekorean/highlight-within-textarea - js скрипт подсветки кусков кода в textarea"
-date: ""
 categories: 
   - "js"
 ---

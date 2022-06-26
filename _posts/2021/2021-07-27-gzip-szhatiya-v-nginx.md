@@ -1,6 +1,5 @@
 ---
 title: "GZIP сжатия в NGINX"
-date: ""
 categories: 
   - "note"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "PHP Secure Configuration Checker"
-date: ""
 categories: 
   - "php"
 ---

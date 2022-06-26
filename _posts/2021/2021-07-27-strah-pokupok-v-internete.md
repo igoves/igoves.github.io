@@ -1,6 +1,5 @@
 ---
 title: "Страх покупок в интернете"
-date: ""
 categories: 
   - "note"
 ---

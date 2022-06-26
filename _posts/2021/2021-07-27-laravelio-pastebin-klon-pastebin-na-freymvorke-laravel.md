@@ -1,6 +1,5 @@
 ---
 title: "laravelio/pastebin - клон pastebin на фреймворке laravel"
-date: ""
 categories: 
   - "php"
 ---

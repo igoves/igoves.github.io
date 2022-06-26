@@ -1,6 +1,5 @@
 ---
 title: "formbase - простая стилизация элементов форм"
-date: ""
 categories: 
   - "css"
 ---

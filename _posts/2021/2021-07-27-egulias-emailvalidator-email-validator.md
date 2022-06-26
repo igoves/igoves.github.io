@@ -1,6 +1,5 @@
 ---
 title: "egulias/emailvalidator - email валидатор"
-date: ""
 categories: 
   - "php"
 ---

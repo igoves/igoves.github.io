@@ -1,6 +1,5 @@
 ---
 title: "scrollNav.js - A jQuery plugin for building a scrolling side nav"
-date: ""
 categories: 
   - "js"
 ---

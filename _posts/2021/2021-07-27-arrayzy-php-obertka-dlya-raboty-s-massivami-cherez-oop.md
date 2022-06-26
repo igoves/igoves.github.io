@@ -1,6 +1,5 @@
 ---
 title: "Arrayzy  - php обертка для работы с массивами через ООП"
-date: ""
 categories: 
   - "php"
 ---

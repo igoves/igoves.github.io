@@ -1,6 +1,5 @@
 ---
 title: "laravolt/avatar - плагин создания аватара на основе имени для laravel"
-date: ""
 categories: 
   - "php"
 ---

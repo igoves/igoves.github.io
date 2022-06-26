@@ -1,6 +1,5 @@
 ---
 title: "PHPSandbox - песочница для пхп в браузере"
-date: ""
 categories: 
   - "php"
 ---

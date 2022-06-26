@@ -1,6 +1,5 @@
 ---
 title: "Круговые эффекты наведения используя CSS Transitions"
-date: ""
 categories: 
   - "css"
 tags: 

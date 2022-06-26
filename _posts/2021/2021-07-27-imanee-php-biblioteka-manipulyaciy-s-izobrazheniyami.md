@@ -1,6 +1,5 @@
 ---
 title: "Imanee - php библиотека манипуляций с изображениями"
-date: ""
 categories: 
   - "php"
 ---

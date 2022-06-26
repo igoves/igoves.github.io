@@ -1,6 +1,5 @@
 ---
 title: "Portamento.js - плаваяющая панель"
-date: ""
 categories: 
   - "js"
 tags: 

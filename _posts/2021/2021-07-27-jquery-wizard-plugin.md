@@ -1,6 +1,5 @@
 ---
 title: "Jquery Wizard Plugin"
-date: ""
 categories: 
   - "js"
 ---

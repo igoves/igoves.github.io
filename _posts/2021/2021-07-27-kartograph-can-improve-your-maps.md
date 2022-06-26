@@ -1,6 +1,5 @@
 ---
 title: "Kartograph can improve your maps"
-date: ""
 categories: 
   - "js"
 tags: 

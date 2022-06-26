@@ -1,6 +1,5 @@
 ---
 title: "Простой ротатор на PHP"
-date: ""
 categories: 
   - "php"
 ---

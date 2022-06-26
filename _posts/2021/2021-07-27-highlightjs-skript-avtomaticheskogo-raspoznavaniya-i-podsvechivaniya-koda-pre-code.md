@@ -1,6 +1,5 @@
 ---
 title: "highlight.js - скрипт автоматического распознавания и подсвечивания кода pre code"
-date: ""
 categories: 
   - "js"
 ---

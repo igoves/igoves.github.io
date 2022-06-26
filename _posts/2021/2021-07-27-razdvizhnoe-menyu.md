@@ -1,6 +1,5 @@
 ---
 title: "Раздвижное меню"
-date: ""
 categories: 
   - "css"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "sitemap - php скрипт создания карты сайта и его индекса"
-date: ""
 categories: 
   - "php"
 ---

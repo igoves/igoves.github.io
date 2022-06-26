@@ -1,6 +1,5 @@
 ---
 title: "thomasjohnkane/snooze - пакет для упрощения автоматизации будущих уведомлений и напоминаний в Laravel"
-date: ""
 categories: 
   - "php"
 tags: 

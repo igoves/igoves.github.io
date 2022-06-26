@@ -1,6 +1,5 @@
 ---
 title: "Аннотации к исходникам Jquery"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "lara-crud - CRUD для быстрого развертывания админки в Laravel"
-date: ""
 categories: 
   - "php"
 ---

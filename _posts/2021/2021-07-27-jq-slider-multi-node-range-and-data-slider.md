@@ -1,6 +1,5 @@
 ---
 title: "JQ Slider -  Multi-Node Range and Data Slider"
-date: ""
 categories: 
   - "js"
 tags: 

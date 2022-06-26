@@ -1,6 +1,5 @@
 ---
 title: "Taggd - скрипт позволяет ставить tooltips на картинках (responsive)"
-date: ""
 categories: 
   - "js"
 ---

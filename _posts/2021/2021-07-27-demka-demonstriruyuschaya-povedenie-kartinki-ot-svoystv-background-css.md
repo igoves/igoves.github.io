@@ -1,6 +1,5 @@
 ---
 title: "Демка демонстрирующая поведение картинки от свойств background CSS"
-date: ""
 categories: 
   - "css"
 ---

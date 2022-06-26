@@ -1,6 +1,5 @@
 ---
 title: "php-spider - скрипт пхп паука с обширным функционалом"
-date: ""
 categories: 
   - "php"
 ---

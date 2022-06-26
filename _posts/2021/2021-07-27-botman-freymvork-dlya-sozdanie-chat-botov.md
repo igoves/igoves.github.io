@@ -1,6 +1,5 @@
 ---
 title: "botman - фреймворк для создание чат-ботов"
-date: ""
 categories: 
   - "php"
 ---

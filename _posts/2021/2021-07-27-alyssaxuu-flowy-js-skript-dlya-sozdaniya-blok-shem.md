@@ -1,6 +1,5 @@
 ---
 title: "alyssaxuu/flowy - js скрипт для создания блок-схем"
-date: ""
 categories: 
   - "js"
 ---

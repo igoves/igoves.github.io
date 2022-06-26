@@ -1,6 +1,5 @@
 ---
 title: "Каскадный выбор CascadeSelect"
-date: ""
 categories: 
   - "php"
 tags: 

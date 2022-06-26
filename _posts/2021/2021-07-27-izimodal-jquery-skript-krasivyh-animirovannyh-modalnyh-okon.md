@@ -1,6 +1,5 @@
 ---
 title: "izimodal - jquery скрипт красивых анимированных модальных окон"
-date: ""
 categories: 
   - "js"
 ---

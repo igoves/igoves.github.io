@@ -1,6 +1,5 @@
 ---
 title: "История на Jquery + scroll"
-date: ""
 categories: 
   - "css"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "jsTree на jquery"
-date: ""
 categories: 
   - "js"
 tags: 

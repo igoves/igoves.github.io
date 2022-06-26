@@ -1,6 +1,5 @@
 ---
 title: "jQuery coreUISelect - cкрипт замены стандартного select"
-date: ""
 categories: 
   - "js"
 tags: 

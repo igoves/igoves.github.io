@@ -1,6 +1,5 @@
 ---
 title: "beyondcode/dusk-dashboard - дашборд для Laravel Dusk тестов"
-date: ""
 categories: 
   - "php"
 ---

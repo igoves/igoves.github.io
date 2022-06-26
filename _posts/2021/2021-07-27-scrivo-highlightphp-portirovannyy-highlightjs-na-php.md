@@ -1,6 +1,5 @@
 ---
 title: "scrivo/highlight.php - портированный highlight.js на php"
-date: ""
 categories: 
   - "php"
 ---

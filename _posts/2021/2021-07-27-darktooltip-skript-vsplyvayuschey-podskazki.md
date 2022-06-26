@@ -1,6 +1,5 @@
 ---
 title: "DarkTooltip - скрипт всплывающей подсказки"
-date: ""
 categories: 
   - "js"
 ---

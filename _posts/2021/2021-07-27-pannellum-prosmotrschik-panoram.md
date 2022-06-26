@@ -1,6 +1,5 @@
 ---
 title: "Pannellum - просмотрщик панорам"
-date: ""
 categories: 
   - "css"
 ---

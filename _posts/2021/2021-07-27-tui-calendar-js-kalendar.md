@@ -1,6 +1,5 @@
 ---
 title: "tui-calendar - js календарь"
-date: ""
 categories: 
   - "js"
 ---

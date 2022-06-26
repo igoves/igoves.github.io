@@ -1,6 +1,5 @@
 ---
 title: "filtrify - крутая фильтрация на jquery и HTML5"
-date: ""
 categories: 
   - "js"
 tags: 

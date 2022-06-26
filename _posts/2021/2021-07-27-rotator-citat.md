@@ -1,6 +1,5 @@
 ---
 title: "Ротатор цитат"
-date: ""
 categories: 
   - "js"
 tags: 

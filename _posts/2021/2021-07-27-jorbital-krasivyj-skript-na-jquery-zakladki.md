@@ -1,6 +1,5 @@
 ---
 title: "jOrbital - красивый скрипт на jQuery - закладки"
-date: ""
 categories: 
   - "js"
 ---

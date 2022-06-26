@@ -1,6 +1,5 @@
 ---
 title: "pqSelect - js скрипт преобразует select в jQueryUI виджет"
-date: ""
 categories: 
   - "js"
 ---

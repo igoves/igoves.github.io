@@ -1,6 +1,5 @@
 ---
 title: "Верстаем вот такой блочек на CSS"
-date: ""
 categories: 
   - "css"
 tags: 

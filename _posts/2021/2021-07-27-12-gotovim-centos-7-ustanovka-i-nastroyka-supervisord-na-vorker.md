@@ -1,6 +1,5 @@
 ---
 title: "12 - Готовим CentOS 7. Установка и настройка supervisord на воркер"
-date: ""
 categories: 
   - "note"
 ---

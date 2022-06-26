@@ -1,6 +1,5 @@
 ---
 title: "php-redis-react - клиент для асинхронной работы с redis"
-date: ""
 categories: 
   - "php"
 ---

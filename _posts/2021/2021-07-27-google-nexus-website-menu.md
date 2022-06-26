@@ -1,6 +1,5 @@
 ---
 title: "Google Nexus Website Menu"
-date: ""
 categories: 
   - "css"
 tags: 

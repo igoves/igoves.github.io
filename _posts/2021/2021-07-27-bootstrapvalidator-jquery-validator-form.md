@@ -1,6 +1,5 @@
 ---
 title: "bootstrapvalidator - jQuery валидатор форм"
-date: ""
 categories: 
   - "js"
 ---

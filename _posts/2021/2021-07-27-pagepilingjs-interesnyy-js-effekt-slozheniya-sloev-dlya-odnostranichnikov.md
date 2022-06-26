@@ -1,6 +1,5 @@
 ---
 title: "pagePiling.js - интересный js эффект сложения слоев для одностраничников"
-date: ""
 categories: 
   - "js"
 ---

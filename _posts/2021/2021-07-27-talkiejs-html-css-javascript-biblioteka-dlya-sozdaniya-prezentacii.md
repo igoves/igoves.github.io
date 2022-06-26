@@ -1,6 +1,5 @@
 ---
 title: "Talkie.js - HTML/CSS/JavaScript библиотека для создания презентации"
-date: ""
 categories: 
   - "js"
 ---

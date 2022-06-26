@@ -1,6 +1,5 @@
 ---
 title: "jQuery UI Bootstrap"
-date: ""
 categories: 
   - "css"
 tags: 

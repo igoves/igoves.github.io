@@ -1,6 +1,5 @@
 ---
 title: "Проверка на пустые поля jQuery"
-date: ""
 categories: 
   - "js"
 ---

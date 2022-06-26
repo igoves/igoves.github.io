@@ -1,6 +1,5 @@
 ---
 title: "MixItUp - а CSS3 and JQuery Filter & Sort Plugin"
-date: ""
 categories: 
   - "js"
 tags: 

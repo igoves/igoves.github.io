@@ -1,6 +1,5 @@
 ---
 title: "rhinoslider - гибкий слайдер"
-date: ""
 categories: 
   - "js"
 tags: 

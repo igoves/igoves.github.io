@@ -1,6 +1,5 @@
 ---
 title: "laravel-page-speed - пакет для laravel для оптимизации страницы путем минимизации"
-date: ""
 categories: 
   - "php"
 ---

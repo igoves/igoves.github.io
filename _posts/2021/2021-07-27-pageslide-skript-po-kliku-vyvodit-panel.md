@@ -1,6 +1,5 @@
 ---
 title: "PageSlide - скрипт по клику выводит панель"
-date: ""
 categories: 
   - "js"
 tags: 

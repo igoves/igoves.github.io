@@ -1,6 +1,5 @@
 ---
 title: "pxloader - скрипт для предзагрузки приложений html5"
-date: ""
 categories: 
   - "js"
 tags: 

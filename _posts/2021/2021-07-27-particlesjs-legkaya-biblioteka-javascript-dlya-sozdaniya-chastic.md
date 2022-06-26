@@ -1,6 +1,5 @@
 ---
 title: "particles.js - легкая библиотека JavaScript для создания частиц"
-date: ""
 categories: 
   - "js"
 ---

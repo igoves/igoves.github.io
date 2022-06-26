@@ -1,6 +1,5 @@
 ---
 title: "Выезжающий сайдбар на jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

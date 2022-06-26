@@ -1,6 +1,5 @@
 ---
 title: "kingdido999/zooming - скрипт зума фотографии на чисто JS с поддержкой мобильных"
-date: ""
 categories: 
   - "js"
 ---

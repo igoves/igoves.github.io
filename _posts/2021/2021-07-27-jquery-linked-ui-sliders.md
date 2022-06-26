@@ -1,6 +1,5 @@
 ---
 title: "jQuery Linked UI Sliders"
-date: ""
 categories: 
   - "js"
 ---

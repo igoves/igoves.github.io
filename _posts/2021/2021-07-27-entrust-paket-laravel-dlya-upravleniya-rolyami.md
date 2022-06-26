@@ -1,6 +1,5 @@
 ---
 title: "entrust - пакет laravel для управления ролями"
-date: ""
 categories: 
   - "php"
 ---

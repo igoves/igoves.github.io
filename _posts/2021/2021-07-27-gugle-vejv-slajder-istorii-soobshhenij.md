@@ -1,6 +1,5 @@
 ---
 title: "Гугле вейв слайдер истории сообщений"
-date: ""
 categories: 
   - "php"
 tags: 

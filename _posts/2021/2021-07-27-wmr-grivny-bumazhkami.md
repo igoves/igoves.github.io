@@ -1,6 +1,5 @@
 ---
 title: "WMR -> Гривны бумажками"
-date: ""
 categories: 
   - "note"
 tags: 

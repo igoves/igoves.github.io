@@ -1,6 +1,5 @@
 ---
 title: "danog/MadelineProto - библиотека для взаимодействия с Telegram без использования Bot-API"
-date: ""
 categories: 
   - "php"
 ---

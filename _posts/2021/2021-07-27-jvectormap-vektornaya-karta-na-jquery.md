@@ -1,6 +1,5 @@
 ---
 title: "jVectorMap - векторная карта на jquery"
-date: ""
 categories: 
   - "js"
 ---

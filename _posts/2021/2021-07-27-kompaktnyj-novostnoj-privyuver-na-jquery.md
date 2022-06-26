@@ -1,6 +1,5 @@
 ---
 title: "Компактный новостной привьювер на jQuery"
-date: ""
 categories: 
   - "css"
 tags: 

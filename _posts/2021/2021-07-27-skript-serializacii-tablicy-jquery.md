@@ -1,6 +1,5 @@
 ---
 title: "Скрипт сериализации таблицы Jquery"
-date: ""
 categories: 
   - "php"
 tags: 

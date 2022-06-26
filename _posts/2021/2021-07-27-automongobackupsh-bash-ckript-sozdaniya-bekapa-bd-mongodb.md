@@ -1,6 +1,5 @@
 ---
 title: "automongobackup.sh - bash cкрипт создания бекапа бд mongodb"
-date: ""
 categories: 
   - "note"
 ---

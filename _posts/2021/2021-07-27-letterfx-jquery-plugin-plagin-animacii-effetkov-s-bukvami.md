@@ -1,6 +1,5 @@
 ---
 title: "LetterFx jQuery Plugin - плагин анимации эффетков с буквами"
-date: ""
 categories: 
   - "js"
 ---

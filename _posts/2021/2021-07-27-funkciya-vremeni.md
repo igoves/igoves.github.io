@@ -1,6 +1,5 @@
 ---
 title: "Функция времени"
-date: ""
 categories: 
   - "php"
 ---

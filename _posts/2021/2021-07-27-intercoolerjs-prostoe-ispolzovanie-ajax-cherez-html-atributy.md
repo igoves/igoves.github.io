@@ -1,6 +1,5 @@
 ---
 title: "intercooler.js - простое использование ajax через html атрибуты"
-date: ""
 categories: 
   - "js"
 ---

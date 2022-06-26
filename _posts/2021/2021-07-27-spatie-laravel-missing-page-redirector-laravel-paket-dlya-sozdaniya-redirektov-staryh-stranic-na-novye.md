@@ -1,6 +1,5 @@
 ---
 title: "spatie/laravel-missing-page-redirector - laravel пакет для создания редиректов старых страниц на новые"
-date: ""
 categories: 
   - "php"
 ---

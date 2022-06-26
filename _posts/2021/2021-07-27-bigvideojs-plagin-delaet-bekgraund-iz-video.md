@@ -1,6 +1,5 @@
 ---
 title: "BigVideo.js - плагин делает бекграунд из видео"
-date: ""
 categories: 
   - "js"
 tags: 

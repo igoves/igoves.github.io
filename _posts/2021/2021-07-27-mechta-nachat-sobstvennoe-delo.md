@@ -1,6 +1,5 @@
 ---
 title: "Мечта начать собственное дело"
-date: ""
 categories: 
   - "note"
 tags: 

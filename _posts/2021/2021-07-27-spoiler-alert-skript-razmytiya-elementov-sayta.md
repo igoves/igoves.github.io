@@ -1,6 +1,5 @@
 ---
 title: "spoiler-alert - скрипт размытия элементов сайта"
-date: ""
 categories: 
   - "js"
 tags: 

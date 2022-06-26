@@ -1,6 +1,5 @@
 ---
 title: "Tabslet - jQuery плагин для табов"
-date: ""
 categories: 
   - "js"
 tags: 

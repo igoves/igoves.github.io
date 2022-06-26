@@ -1,6 +1,5 @@
 ---
 title: "Любой шрифт какой только пожелает душа"
-date: ""
 categories: 
   - "note"
 tags: 

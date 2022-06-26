@@ -1,6 +1,5 @@
 ---
 title: "Молчание и психология"
-date: ""
 categories: 
   - "note"
 tags: 

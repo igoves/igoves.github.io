@@ -1,6 +1,5 @@
 ---
 title: ".htaccess и mod_rewrite"
-date: ""
 categories: 
   - "php"
 ---

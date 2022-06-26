@@ -1,6 +1,5 @@
 ---
 title: "taucharts - современный скрипт построения графиков"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "horsey - скрипт автокомплита на чистом js"
-date: ""
 categories: 
   - "js"
 ---

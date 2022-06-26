@@ -1,6 +1,5 @@
 ---
 title: "ivanakimov/hashids.php - создание YouTube-like ids на основе цифрового id"
-date: ""
 categories: 
   - "php"
 ---

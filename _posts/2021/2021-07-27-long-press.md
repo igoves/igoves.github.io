@@ -1,6 +1,5 @@
 ---
 title: "Long Press"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Tabcordion.js - скрипт преобразует табы в аккардион и обратно"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Шпаргалка по современному JavaScript"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "По жизни вместе с госпожой Удачи"
-date: ""
 categories: 
   - "note"
 tags: 

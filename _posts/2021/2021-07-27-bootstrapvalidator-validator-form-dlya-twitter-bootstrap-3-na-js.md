@@ -1,6 +1,5 @@
 ---
 title: "BootstrapValidator - валидатор форм для twitter bootstrap 3 на js"
-date: ""
 categories: 
   - "js"
 ---

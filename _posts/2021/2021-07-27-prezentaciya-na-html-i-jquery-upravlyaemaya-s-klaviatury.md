@@ -1,6 +1,5 @@
 ---
 title: "Презентация на html и jquery управляемая с клавиатуры"
-date: ""
 categories: 
   - "xhtml"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Иностранный язык"
-date: ""
 categories: 
   - "note"
 tags: 

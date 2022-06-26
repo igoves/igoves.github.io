@@ -1,6 +1,5 @@
 ---
 title: "Симпатичные тултип на CSS и jQuery"
-date: ""
 categories: 
   - "css"
 tags: 

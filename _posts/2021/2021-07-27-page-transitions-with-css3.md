@@ -1,6 +1,5 @@
 ---
 title: "Page Transitions with CSS3"
-date: ""
 categories: 
   - "css"
 tags: 

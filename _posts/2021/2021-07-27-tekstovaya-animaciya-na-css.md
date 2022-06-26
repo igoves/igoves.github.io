@@ -1,6 +1,5 @@
 ---
 title: "Текстовая анимация на CSS"
-date: ""
 categories: 
   - "css"
 ---

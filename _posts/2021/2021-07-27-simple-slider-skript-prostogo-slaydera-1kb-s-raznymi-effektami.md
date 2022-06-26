@@ -1,6 +1,5 @@
 ---
 title: "simple-slider - скрипт простого слайдера (1кб) с разными эффектами"
-date: ""
 categories: 
   - "js"
 ---

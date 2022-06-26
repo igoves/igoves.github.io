@@ -1,6 +1,5 @@
 ---
 title: "minds - опенсорс  скрипт социальной сети"
-date: ""
 categories: 
   - "php"
 ---

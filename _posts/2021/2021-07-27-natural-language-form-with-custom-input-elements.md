@@ -1,6 +1,5 @@
 ---
 title: "Natural Language Form with Custom Input Elements"
-date: ""
 categories: 
   - "js"
 ---

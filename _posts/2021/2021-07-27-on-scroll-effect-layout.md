@@ -1,6 +1,5 @@
 ---
 title: "On Scroll Effect Layout"
-date: ""
 categories: 
   - "js"
 tags: 

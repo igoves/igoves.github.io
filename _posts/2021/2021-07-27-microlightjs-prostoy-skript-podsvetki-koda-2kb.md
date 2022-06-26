@@ -1,6 +1,5 @@
 ---
 title: "microlight.js - простой скрипт подсветки кода 2кб"
-date: ""
 categories: 
   - "js"
 ---

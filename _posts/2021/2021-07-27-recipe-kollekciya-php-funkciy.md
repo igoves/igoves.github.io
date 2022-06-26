@@ -1,6 +1,5 @@
 ---
 title: "Recipe - коллекция пхп функций"
-date: ""
 categories: 
   - "php"
 ---

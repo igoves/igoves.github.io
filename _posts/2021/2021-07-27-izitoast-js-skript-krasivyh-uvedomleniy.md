@@ -1,6 +1,5 @@
 ---
 title: "izitoast - js скрипт красивых уведомлений"
-date: ""
 categories: 
   - "js"
 ---

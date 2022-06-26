@@ -1,6 +1,5 @@
 ---
 title: "Круговое выезжающее меню на CSS"
-date: ""
 categories: 
   - "css"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Аякс чат - MYSQL PHP JQUERY CSS3 XHTML"
-date: ""
 categories: 
   - "css"
 tags: 

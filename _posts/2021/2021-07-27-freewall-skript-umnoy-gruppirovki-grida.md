@@ -1,6 +1,5 @@
 ---
 title: "freewall - скрипт умной группировки грида"
-date: ""
 categories: 
   - "js"
 ---

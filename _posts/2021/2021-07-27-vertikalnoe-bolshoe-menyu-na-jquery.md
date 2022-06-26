@@ -1,6 +1,5 @@
 ---
 title: "Вертикальное Большое меню на Jquery"
-date: ""
 categories: 
   - "css"
 tags: 

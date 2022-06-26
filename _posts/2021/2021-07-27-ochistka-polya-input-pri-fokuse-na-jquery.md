@@ -1,6 +1,5 @@
 ---
 title: "In-Field - очистка поля input при фокусе на jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

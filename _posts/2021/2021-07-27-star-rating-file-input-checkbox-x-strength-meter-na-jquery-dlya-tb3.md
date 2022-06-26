@@ -1,6 +1,5 @@
 ---
 title: "Star-rating, file-input, checkbox-x, strength-meter на jQuery для TB3"
-date: ""
 categories: 
   - "js"
 ---

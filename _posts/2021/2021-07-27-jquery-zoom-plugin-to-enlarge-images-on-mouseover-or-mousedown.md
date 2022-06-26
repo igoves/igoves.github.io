@@ -1,6 +1,5 @@
 ---
 title: "jQuery Zoom - plugin to enlarge images on mouseover or mousedown"
-date: ""
 categories: 
   - "js"
 tags: 

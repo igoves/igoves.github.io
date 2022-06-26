@@ -1,6 +1,5 @@
 ---
 title: "KingSora/OverlayScrollbars - скрипт подмены стандартного скроллбара"
-date: ""
 categories: 
   - "js"
 ---

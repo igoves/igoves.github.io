@@ -1,6 +1,5 @@
 ---
 title: "Кубический слайдер на jQuery"
-date: ""
 categories: 
   - "js"
 ---

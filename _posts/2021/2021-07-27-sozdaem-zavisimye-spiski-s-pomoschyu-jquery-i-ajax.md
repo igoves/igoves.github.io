@@ -1,6 +1,5 @@
 ---
 title: "Создаём зависимые списки с помощью jQuery и AJAX"
-date: ""
 categories: 
   - "js"
 ---

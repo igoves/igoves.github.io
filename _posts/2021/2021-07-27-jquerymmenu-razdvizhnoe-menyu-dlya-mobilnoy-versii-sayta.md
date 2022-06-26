@@ -1,6 +1,5 @@
 ---
 title: "jQuery.mmenu - раздвижное меню для мобильной версии сайта"
-date: ""
 categories: 
   - "js"
 ---

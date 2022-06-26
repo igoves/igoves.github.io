@@ -1,6 +1,5 @@
 ---
 title: "gridifier - js скрипт генерации гридов"
-date: ""
 categories: 
   - "js"
 ---

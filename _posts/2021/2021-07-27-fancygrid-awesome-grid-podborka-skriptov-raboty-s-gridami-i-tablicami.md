@@ -1,6 +1,5 @@
 ---
 title: "FancyGrid/awesome-grid - подборка скриптов работы с гридами и таблицами"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "pageguide.js - скрипт построения интуитивного гайда(guide)"
-date: ""
 categories: 
   - "js"
 tags: 

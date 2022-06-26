@@ -1,6 +1,5 @@
 ---
 title: "Тридцать лет назад"
-date: ""
 categories: 
   - "note"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "table-dragger - скрипт позволяет тягать колонки и радяки таблицы"
-date: ""
 categories: 
   - "js"
 ---

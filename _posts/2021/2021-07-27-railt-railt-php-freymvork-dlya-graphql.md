@@ -1,6 +1,5 @@
 ---
 title: "railt/railt - php фреймворк для GraphQL"
-date: ""
 categories: 
   - "php"
 ---

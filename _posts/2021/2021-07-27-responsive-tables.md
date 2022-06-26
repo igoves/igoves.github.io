@@ -1,6 +1,5 @@
 ---
 title: "Responsive tables"
-date: ""
 categories: 
   - "css"
 tags: 

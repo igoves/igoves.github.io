@@ -1,6 +1,5 @@
 ---
 title: "youmightnotneedjquery.com - Возможно вам не нужен jQuery"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "jQuery Plugin for On-demand Search Box: SeacrhMeme"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "DiDOM - простой и быстрый html парсер"
-date: ""
 categories: 
   - "php"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Responsive Content Navigator with CSS3"
-date: ""
 categories: 
   - "js"
 tags: 

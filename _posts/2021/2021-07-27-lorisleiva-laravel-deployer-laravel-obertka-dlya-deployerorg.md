@@ -1,6 +1,5 @@
 ---
 title: "lorisleiva/laravel-deployer - ларавел обертка для Deployer.org"
-date: ""
 categories: 
   - "php"
 ---

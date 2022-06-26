@@ -1,6 +1,5 @@
 ---
 title: "Responsive 3D Panel Layout"
-date: ""
 categories: 
   - "css"
 ---

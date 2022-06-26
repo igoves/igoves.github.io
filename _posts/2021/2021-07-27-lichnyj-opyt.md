@@ -1,6 +1,5 @@
 ---
 title: "Личный опыт"
-date: ""
 categories: 
   - "note"
 tags: 

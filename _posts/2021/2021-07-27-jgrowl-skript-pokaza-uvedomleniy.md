@@ -1,6 +1,5 @@
 ---
 title: "jGrowl скрипт показа уведомлений"
-date: ""
 categories: 
   - "js"
 tags: 

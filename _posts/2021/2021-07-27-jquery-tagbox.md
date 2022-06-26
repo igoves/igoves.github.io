@@ -1,6 +1,5 @@
 ---
 title: "jQuery TagBox"
-date: ""
 categories: 
   - "js"
 tags: 

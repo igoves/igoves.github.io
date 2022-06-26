@@ -1,6 +1,5 @@
 ---
 title: "Flow Slider"
-date: ""
 categories: 
   - "js"
 tags: 

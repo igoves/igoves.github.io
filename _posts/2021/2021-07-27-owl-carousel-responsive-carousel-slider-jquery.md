@@ -1,6 +1,5 @@
 ---
 title: "OWL Carousel - responsive carousel slider jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

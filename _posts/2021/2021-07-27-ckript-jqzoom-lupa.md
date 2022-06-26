@@ -1,6 +1,5 @@
 ---
 title: "Cкрипт jQZoom — лупа"
-date: ""
 categories: 
   - "js"
 tags: 

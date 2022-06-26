@@ -1,6 +1,5 @@
 ---
 title: "en-inflectors - js библиотека для склонение английских слов"
-date: ""
 categories: 
   - "js"
 ---

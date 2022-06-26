@@ -1,6 +1,5 @@
 ---
 title: "cachearium - продвинутая система кэширования на PHP"
-date: ""
 categories: 
   - "php"
 ---

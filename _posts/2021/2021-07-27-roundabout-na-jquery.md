@@ -1,6 +1,5 @@
 ---
 title: "Roundabout на jQuery"
-date: ""
 categories: 
   - "js"
 ---

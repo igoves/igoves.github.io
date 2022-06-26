@@ -1,6 +1,5 @@
 ---
 title: "Слишком большой выбор парализует"
-date: ""
 categories: 
   - "note"
 tags: 

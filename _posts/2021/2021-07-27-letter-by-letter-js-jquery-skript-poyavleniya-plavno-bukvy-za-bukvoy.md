@@ -1,6 +1,5 @@
 ---
 title: "Letter by Letter JS jQuery  - скрипт появления плавно буквы за буквой"
-date: ""
 categories: 
   - "js"
 ---

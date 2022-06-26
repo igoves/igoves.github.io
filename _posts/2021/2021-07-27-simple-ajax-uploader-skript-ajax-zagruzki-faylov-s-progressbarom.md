@@ -1,6 +1,5 @@
 ---
 title: "Simple-Ajax-Uploader - скрипт ajax загрузки файлов с прогрессбаром"
-date: ""
 categories: 
   - "js"
 ---

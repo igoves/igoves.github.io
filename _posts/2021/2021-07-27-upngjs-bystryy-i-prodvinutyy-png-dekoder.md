@@ -1,6 +1,5 @@
 ---
 title: "UPNG.js - быстрый и продвинутый PNG декодер"
-date: ""
 categories: 
   - "js"
 ---

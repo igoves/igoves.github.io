@@ -1,6 +1,5 @@
 ---
 title: "RandomColor - генератор цветов на PHP"
-date: ""
 categories: 
   - "php"
 ---

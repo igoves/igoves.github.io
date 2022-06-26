@@ -1,6 +1,5 @@
 ---
 title: "Скрипт сериализации дерева Jquery"
-date: ""
 categories: 
   - "js"
 tags: 

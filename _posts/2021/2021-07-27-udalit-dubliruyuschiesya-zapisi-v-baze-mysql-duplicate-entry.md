@@ -1,6 +1,5 @@
 ---
 title: "Удалить дублирующиеся записи в базе mysql (duplicate entry)"
-date: ""
 categories: 
   - "note"
 tags: 

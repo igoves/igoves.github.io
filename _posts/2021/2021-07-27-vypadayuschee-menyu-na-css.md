@@ -1,6 +1,5 @@
 ---
 title: "Выпадающее меню на Css"
-date: ""
 categories: 
   - "css"
 tags: 

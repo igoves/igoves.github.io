@@ -1,6 +1,5 @@
 ---
 title: "PHPWord - php библиотека для чтения и записи word документов"
-date: ""
 categories: 
   - "php"
 ---

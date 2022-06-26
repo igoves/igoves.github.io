@@ -1,6 +1,5 @@
 ---
 title: "Делаем вот такой popup на CSS и немного jQuery"
-date: ""
 categories: 
   - "css"
 ---

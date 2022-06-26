@@ -1,6 +1,5 @@
 ---
 title: "Overscroll"
-date: ""
 categories: 
   - "js"
 ---

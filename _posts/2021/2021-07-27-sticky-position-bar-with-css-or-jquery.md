@@ -1,6 +1,5 @@
 ---
 title: "Sticky Position (Bar) with CSS or jQuery"
-date: ""
 categories: 
   - "css"
 ---

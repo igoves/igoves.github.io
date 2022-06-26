@@ -1,6 +1,5 @@
 ---
 title: "alek13/slack - простой laravel пакет для отправки сообщений в slack"
-date: ""
 categories: 
   - "php"
 ---

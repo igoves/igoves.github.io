@@ -1,6 +1,5 @@
 ---
 title: "Халявные домены третего уровня"
-date: ""
 categories: 
   - "note"
 tags: 

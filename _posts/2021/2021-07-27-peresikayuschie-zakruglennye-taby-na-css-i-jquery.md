@@ -1,6 +1,5 @@
 ---
 title: "Пересикающие закругленные табы на css и jquery"
-date: ""
 categories: 
   - "css"
 ---

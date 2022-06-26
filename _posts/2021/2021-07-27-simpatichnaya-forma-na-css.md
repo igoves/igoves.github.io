@@ -1,6 +1,5 @@
 ---
 title: "Симпатичная форма на css"
-date: ""
 categories: 
   - "css"
 tags: 

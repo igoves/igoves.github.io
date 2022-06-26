@@ -1,6 +1,5 @@
 ---
 title: "Телесериалы"
-date: ""
 categories: 
   - "note"
 tags: 

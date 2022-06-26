@@ -1,6 +1,5 @@
 ---
 title: "Красивый чекбокс на jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

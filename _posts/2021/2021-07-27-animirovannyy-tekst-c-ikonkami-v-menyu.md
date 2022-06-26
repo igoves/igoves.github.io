@@ -1,6 +1,5 @@
 ---
 title: "Анимированный текст c иконками в меню"
-date: ""
 categories: 
   - "css"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "unslider - js скрипт слайдера"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Piecon - скрипт анимированной загрузки в тайтле, с прогрессбаром вместо favicon"
-date: ""
 categories: 
   - "js"
 tags: 

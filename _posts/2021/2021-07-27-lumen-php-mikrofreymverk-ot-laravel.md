@@ -1,6 +1,5 @@
 ---
 title: "Lumen - php микрофреймверк от Laravel"
-date: ""
 categories: 
   - "php"
 ---

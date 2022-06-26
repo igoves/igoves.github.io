@@ -1,6 +1,5 @@
 ---
 title: "Подсветка синтаксиа - инструменты"
-date: ""
 categories: 
   - "css"
 tags: 

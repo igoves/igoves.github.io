@@ -1,6 +1,5 @@
 ---
 title: "daterangepicker - js скрипт выбора диапазона даты"
-date: ""
 categories: 
   - "js"
 ---

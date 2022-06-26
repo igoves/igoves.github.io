@@ -1,6 +1,5 @@
 ---
 title: "Слайдер фоновых изображений jQuery"
-date: ""
 categories: 
   - "js"
 ---

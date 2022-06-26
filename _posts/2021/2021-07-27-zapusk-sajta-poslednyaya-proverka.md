@@ -1,6 +1,5 @@
 ---
 title: "Запуск сайта. Последняя проверка"
-date: ""
 categories: 
   - "note"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "animsition - простой jQuery плагин для создания CSS анимированых переходов страниц"
-date: ""
 categories: 
   - "js"
 ---

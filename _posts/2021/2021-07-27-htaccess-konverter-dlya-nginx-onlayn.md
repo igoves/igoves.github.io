@@ -1,6 +1,5 @@
 ---
 title: "Htaccess-конвертер для nginx онлайн"
-date: ""
 categories: 
   - "note"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "callmecavs/gotem - js скрипт копирования в буфер на современных браузерах"
-date: ""
 categories: 
   - "js"
 ---

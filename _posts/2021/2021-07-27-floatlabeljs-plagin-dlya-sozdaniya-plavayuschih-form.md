@@ -1,6 +1,5 @@
 ---
 title: "FloatLabel.js - плагин для создания плавающих форм"
-date: ""
 categories: 
   - "js"
 ---

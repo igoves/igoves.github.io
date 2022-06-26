@@ -1,6 +1,5 @@
 ---
 title: "html2text - скрипт для php, конверстирует html в text"
-date: ""
 categories: 
   - "php"
 ---

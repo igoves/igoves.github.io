@@ -1,6 +1,5 @@
 ---
 title: "Minimit Gallery"
-date: ""
 categories: 
   - "css"
 tags: 

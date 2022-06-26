@@ -1,6 +1,5 @@
 ---
 title: "Аякс поиск роликов на ютуб"
-date: ""
 categories: 
   - "php"
 tags: 

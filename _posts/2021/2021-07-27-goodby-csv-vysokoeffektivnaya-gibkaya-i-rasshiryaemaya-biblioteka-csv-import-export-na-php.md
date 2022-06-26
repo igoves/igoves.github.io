@@ -1,6 +1,5 @@
 ---
 title: "Goodby CSV - высокоэффективная гибкая и расширяемая библиотека CSV import/export на PHP"
-date: ""
 categories: 
   - "php"
 ---

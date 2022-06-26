@@ -1,6 +1,5 @@
 ---
 title: "Раскрывающаяся панель на CSS"
-date: ""
 categories: 
   - "css"
 ---

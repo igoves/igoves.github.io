@@ -1,6 +1,5 @@
 ---
 title: "minireset.css - маленький современный css сброс"
-date: ""
 categories: 
   - "css"
 ---

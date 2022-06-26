@@ -1,6 +1,5 @@
 ---
 title: "w2ui - JavaScript UI Library"
-date: ""
 categories: 
   - "js"
 tags: 

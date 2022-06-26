@@ -1,6 +1,5 @@
 ---
 title: "Скрипт jqUploader AJAX"
-date: ""
 categories: 
   - "css"
 tags: 

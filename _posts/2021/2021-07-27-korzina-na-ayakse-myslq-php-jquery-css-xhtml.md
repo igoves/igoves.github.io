@@ -1,6 +1,5 @@
 ---
 title: "Корзина на аяксе - MySLQ PHP JQUERY CSS XHTML"
-date: ""
 categories: 
   - "css"
 tags: 

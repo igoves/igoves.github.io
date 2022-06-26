@@ -1,6 +1,5 @@
 ---
 title: "php-telegram-bot - php скрипт для создания телеграм бота"
-date: ""
 categories: 
   - "php"
 ---

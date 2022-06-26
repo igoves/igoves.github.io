@@ -1,6 +1,5 @@
 ---
 title: "PHP Debug Bar - панель отладки для ваших проектов"
-date: ""
 categories: 
   - "php"
 ---

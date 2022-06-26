@@ -1,6 +1,5 @@
 ---
 title: "fontmin - npm плагин для минимизации шрифтов"
-date: ""
 categories: 
   - "js"
 ---

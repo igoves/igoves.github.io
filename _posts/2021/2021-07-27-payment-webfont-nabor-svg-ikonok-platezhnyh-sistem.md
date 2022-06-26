@@ -1,6 +1,5 @@
 ---
 title: "Payment Webfont - набор svg иконок платежных систем"
-date: ""
 categories: 
   - "css"
 ---

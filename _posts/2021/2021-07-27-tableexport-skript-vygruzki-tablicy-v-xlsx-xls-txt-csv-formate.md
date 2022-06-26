@@ -1,6 +1,5 @@
 ---
 title: "TableExport - скрипт выгрузки таблицы в xlsx xls txt csv формате"
-date: ""
 categories: 
   - "js"
 ---

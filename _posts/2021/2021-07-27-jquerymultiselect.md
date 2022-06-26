@@ -1,6 +1,5 @@
 ---
 title: "jQuery.multiselect"
-date: ""
 categories: 
   - "xhtml"
 ---

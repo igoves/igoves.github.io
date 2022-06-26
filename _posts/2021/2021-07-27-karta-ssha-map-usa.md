@@ -1,6 +1,5 @@
 ---
 title: "Карта США / Map USA"
-date: ""
 categories: 
   - "css"
 tags: 

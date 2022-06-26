@@ -1,6 +1,5 @@
 ---
 title: "right-height.js - выставление блоков одинаковой высоты"
-date: ""
 categories: 
   - "js"
 ---

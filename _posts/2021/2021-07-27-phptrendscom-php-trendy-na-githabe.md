@@ -1,6 +1,5 @@
 ---
 title: "phptrends.com - php-тренды на гитхабе"
-date: ""
 categories: 
   - "note"
 tags: 

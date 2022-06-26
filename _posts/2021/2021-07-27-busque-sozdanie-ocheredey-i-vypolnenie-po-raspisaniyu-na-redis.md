@@ -1,6 +1,5 @@
 ---
 title: "BusQue - создание очередей и выполнение по расписанию на Redis"
-date: ""
 categories: 
   - "php"
 ---

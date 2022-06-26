@@ -1,6 +1,5 @@
 ---
 title: "3. Коротко ООП PHP - Обьявление как статические (static) и финальные (final)."
-date: ""
 categories: 
   - "php"
 ---

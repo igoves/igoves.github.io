@@ -1,6 +1,5 @@
 ---
 title: "DateTimePicker - jquery плагин выбора даты и времени"
-date: ""
 categories: 
   - "js"
 tags: 

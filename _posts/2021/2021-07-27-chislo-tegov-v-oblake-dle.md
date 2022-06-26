@@ -1,6 +1,5 @@
 ---
 title: "Число тегов в облаке DLE"
-date: ""
 categories: 
   - "php"
 tags: 

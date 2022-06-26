@@ -1,6 +1,5 @@
 ---
 title: "stretchy - js скрипт для автоподгонки элементов форм"
-date: ""
 categories: 
   - "js"
 ---

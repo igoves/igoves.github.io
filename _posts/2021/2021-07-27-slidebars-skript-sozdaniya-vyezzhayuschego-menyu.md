@@ -1,6 +1,5 @@
 ---
 title: "Slidebars - скрипт создания выезжающего меню"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "handorgel - скрипт аккордеона на чистом ES6"
-date: ""
 categories: 
   - "js"
 ---

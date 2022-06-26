@@ -1,6 +1,5 @@
 ---
 title: "mgp25/Instagram-API - API инстаграмма с приватным функционалом"
-date: ""
 categories: 
   - "php"
 ---

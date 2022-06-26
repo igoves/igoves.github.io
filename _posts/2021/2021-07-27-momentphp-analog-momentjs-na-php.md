@@ -1,6 +1,5 @@
 ---
 title: "moment.php - аналог moment.js на php"
-date: ""
 categories: 
   - "php"
 ---

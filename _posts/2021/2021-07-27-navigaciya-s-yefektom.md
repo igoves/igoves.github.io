@@ -1,6 +1,5 @@
 ---
 title: "Навигация с эфектом"
-date: ""
 categories: 
   - "js"
 tags: 

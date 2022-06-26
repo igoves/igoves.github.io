@@ -1,6 +1,5 @@
 ---
 title: "bootstrap-progressbar - jQuery расширение для twitter bootstrap, расширяет возможности стандартного прогресс бара"
-date: ""
 categories: 
   - "js"
 ---

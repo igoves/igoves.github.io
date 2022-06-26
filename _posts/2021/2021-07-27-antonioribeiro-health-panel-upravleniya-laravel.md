@@ -1,6 +1,5 @@
 ---
 title: "antonioribeiro/health - панель управления Laravel"
-date: ""
 categories: 
   - "php"
 ---

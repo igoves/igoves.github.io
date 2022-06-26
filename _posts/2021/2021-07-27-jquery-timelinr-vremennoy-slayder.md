@@ -1,6 +1,5 @@
 ---
 title: "jQuery Timelinr - временной слайдер"
-date: ""
 categories: 
   - "js"
 tags: 

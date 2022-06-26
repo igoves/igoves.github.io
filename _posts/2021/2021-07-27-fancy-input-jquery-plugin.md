@@ -1,6 +1,5 @@
 ---
 title: "Fancy Input – jQuery plugin"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Elycharts - скрипт для рисования графиков с помощью js jquery"
-date: ""
 categories: 
   - "js"
 ---

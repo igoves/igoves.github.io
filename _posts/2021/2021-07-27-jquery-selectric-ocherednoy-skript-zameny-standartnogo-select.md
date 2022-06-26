@@ -1,6 +1,5 @@
 ---
 title: "jQuery Selectric - очередной скрипт замены стандартного select"
-date: ""
 categories: 
   - "js"
 ---

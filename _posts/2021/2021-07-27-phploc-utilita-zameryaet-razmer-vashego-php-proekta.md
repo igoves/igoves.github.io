@@ -1,6 +1,5 @@
 ---
 title: "phploc - утилита замеряет размер вашего php проекта"
-date: ""
 categories: 
   - "php"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "jPlayer - jQuery HTML5 аудио / видео плеер"
-date: ""
 categories: 
   - "js"
 ---

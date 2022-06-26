@@ -1,6 +1,5 @@
 ---
 title: "MASHA (сокращение от Mark & Share)"
-date: ""
 categories: 
   - "js"
 tags: 

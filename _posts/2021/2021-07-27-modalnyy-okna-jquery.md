@@ -1,6 +1,5 @@
 ---
 title: "Модальный окна jquery"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "tmpfile - класс для работы с временным файлом на PHP альтернатива функции tmpfile"
-date: ""
 categories: 
   - "php"
 ---

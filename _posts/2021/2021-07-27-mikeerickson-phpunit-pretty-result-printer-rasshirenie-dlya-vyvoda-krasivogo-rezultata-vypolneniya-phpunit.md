@@ -1,6 +1,5 @@
 ---
 title: "mikeerickson/phpunit-pretty-result-printer - расширение для вывода красивого результата выполнения PHPUnit"
-date: ""
 categories: 
   - "php"
 ---

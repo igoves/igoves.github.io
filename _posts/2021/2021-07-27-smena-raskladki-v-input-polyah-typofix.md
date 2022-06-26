@@ -1,6 +1,5 @@
 ---
 title: "Смена раскладки в input-полях - typoFix"
-date: ""
 categories: 
   - "js"
 ---

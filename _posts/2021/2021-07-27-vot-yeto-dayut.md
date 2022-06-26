@@ -1,6 +1,5 @@
 ---
 title: "Вот это дают Salsa"
-date: ""
 categories: 
   - "note"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "rezozero/mixedfeed - php библиотека для получения фида из инстаграма, твиттера, фейсбука и гитхаба"
-date: ""
 categories: 
   - "php"
 ---

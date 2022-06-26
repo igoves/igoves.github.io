@@ -1,6 +1,5 @@
 ---
 title: "Отсортировать вывод по IN - MySQL"
-date: ""
 categories: 
   - "note"
 tags: 

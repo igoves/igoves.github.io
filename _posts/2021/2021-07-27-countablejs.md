@@ -1,6 +1,5 @@
 ---
 title: "Countable.js"
-date: ""
 categories: 
   - "js"
 ---

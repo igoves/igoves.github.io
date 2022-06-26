@@ -1,6 +1,5 @@
 ---
 title: "GitaminHQ/Gitamin - клон гихаба на Laravel"
-date: ""
 categories: 
   - "php"
 tags: 

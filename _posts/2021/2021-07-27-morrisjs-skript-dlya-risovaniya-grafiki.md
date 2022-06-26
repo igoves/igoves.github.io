@@ -1,6 +1,5 @@
 ---
 title: "Morris.js - скрипт для рисования графики"
-date: ""
 categories: 
   - "js"
 tags: 

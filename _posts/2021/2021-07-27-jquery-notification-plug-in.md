@@ -1,6 +1,5 @@
 ---
 title: "jQuery notification Plug-in"
-date: ""
 categories: 
   - "js"
 tags: 

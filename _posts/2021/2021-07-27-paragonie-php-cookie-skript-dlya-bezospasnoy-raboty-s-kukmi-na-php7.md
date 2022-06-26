@@ -1,6 +1,5 @@
 ---
 title: "paragonie/PHP-Cookie - скрипт для безоспасной работы с кукми на php7+"
-date: ""
 categories: 
   - "php"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Люди любят покупать"
-date: ""
 categories: 
   - "note"
 tags: 

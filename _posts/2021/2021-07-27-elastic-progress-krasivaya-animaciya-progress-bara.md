@@ -1,6 +1,5 @@
 ---
 title: "Elastic Progress - красивая анимация прогресс бара"
-date: ""
 categories: 
   - "css"
 ---

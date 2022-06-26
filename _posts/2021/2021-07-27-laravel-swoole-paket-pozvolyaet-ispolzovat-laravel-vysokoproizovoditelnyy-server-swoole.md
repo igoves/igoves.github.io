@@ -1,6 +1,5 @@
 ---
 title: "laravel-swoole - пакет позволяет использовать laravel высокопроизоводительный сервер Swoole"
-date: ""
 categories: 
   - "php"
 ---

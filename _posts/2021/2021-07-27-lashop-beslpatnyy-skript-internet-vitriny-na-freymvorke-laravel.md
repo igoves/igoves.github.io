@@ -1,6 +1,5 @@
 ---
 title: "Lashop - беслпатный скрипт интернет-витрины на фреймворке laravel"
-date: ""
 categories: 
   - "php"
 ---

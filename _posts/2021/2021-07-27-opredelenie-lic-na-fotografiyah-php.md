@@ -1,6 +1,5 @@
 ---
 title: "Определение лиц на фотографиях PHP"
-date: ""
 categories: 
   - "php"
 ---

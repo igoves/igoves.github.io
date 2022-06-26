@@ -1,6 +1,5 @@
 ---
 title: "recharts - скрипт генерации графиков"
-date: ""
 categories: 
   - "js"
 ---

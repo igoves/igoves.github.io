@@ -1,6 +1,5 @@
 ---
 title: "Еще загрузчик файлов на jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

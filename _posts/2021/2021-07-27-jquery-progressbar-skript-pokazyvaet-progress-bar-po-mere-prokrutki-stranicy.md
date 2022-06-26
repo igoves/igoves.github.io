@@ -1,6 +1,5 @@
 ---
 title: "jquery-progressbar - скрипт показывает прогресс бар по мере прокрутки страницы"
-date: ""
 categories: 
   - "js"
 ---

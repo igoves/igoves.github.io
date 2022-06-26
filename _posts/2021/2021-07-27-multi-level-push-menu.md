@@ -1,6 +1,5 @@
 ---
 title: "Multi-level push menu"
-date: ""
 categories: 
   - "css"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "TheaterJS - скрипт эмулирующий печатанье"
-date: ""
 categories: 
   - "js"
 ---

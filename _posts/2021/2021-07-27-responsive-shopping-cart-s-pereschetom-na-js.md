@@ -1,6 +1,5 @@
 ---
 title: "Responsive Shopping Cart с пересчетом на JS"
-date: ""
 categories: 
   - "css"
 ---

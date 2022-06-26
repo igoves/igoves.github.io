@@ -1,6 +1,5 @@
 ---
 title: "Thumbnail Proximity Effect with jQuery and CSS3"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Аннотация эффект наложения на jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

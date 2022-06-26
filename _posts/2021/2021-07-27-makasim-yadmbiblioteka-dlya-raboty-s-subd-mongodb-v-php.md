@@ -1,6 +1,5 @@
 ---
 title: "makasim/yadm — библиотека для работы с СУБД MongoDB в PHP"
-date: ""
 categories: 
   - "php"
 ---

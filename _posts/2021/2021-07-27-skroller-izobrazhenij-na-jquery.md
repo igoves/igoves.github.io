@@ -1,6 +1,5 @@
 ---
 title: "Скроллер изображений на Jquery"
-date: ""
 categories: 
   - "js"
 tags: 

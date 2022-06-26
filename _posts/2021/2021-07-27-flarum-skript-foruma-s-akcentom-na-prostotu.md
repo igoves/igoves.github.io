@@ -1,6 +1,5 @@
 ---
 title: "Flarum - скрипт форума с акцентом на простоту"
-date: ""
 categories: 
   - "php"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "embed.js - скрипт для встраивания embed елементов"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "nanoScroller.js - scrollbar plugin"
-date: ""
 categories: 
   - "js"
 tags: 

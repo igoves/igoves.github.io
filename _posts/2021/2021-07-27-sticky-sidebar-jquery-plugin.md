@@ -1,6 +1,5 @@
 ---
 title: "Sticky Sidebar jQuery plugin"
-date: ""
 categories: 
   - "js"
 ---

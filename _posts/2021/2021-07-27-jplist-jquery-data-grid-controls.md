@@ -1,6 +1,5 @@
 ---
 title: "jPList - jQuery Data Grid Controls"
-date: ""
 categories: 
   - "js"
 ---

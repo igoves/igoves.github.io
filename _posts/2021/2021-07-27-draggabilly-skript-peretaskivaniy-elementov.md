@@ -1,6 +1,5 @@
 ---
 title: "Draggabilly - скрипт перетаскиваний элементов"
-date: ""
 categories: 
   - "js"
 ---

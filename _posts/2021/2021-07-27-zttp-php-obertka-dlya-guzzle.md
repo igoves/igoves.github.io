@@ -1,6 +1,5 @@
 ---
 title: "zttp - пхп обертка для guzzle"
-date: ""
 categories: 
   - "php"
 ---

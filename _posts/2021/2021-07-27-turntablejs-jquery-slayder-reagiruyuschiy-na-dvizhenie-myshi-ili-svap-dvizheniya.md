@@ -1,6 +1,5 @@
 ---
 title: "Turntable.js - jquery слайдер реагирующий на движение мыши или свап движения"
-date: ""
 categories: 
   - "js"
 ---

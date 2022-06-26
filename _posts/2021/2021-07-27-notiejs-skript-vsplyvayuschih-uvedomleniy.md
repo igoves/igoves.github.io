@@ -1,6 +1,5 @@
 ---
 title: "notie.js - скрипт всплывающих уведомлений"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Эффекты наведения на CSS3 и jQuery"
-date: ""
 categories: 
   - "css"
 tags: 

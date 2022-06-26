@@ -1,6 +1,5 @@
 ---
 title: "legendary-cursor - js красивый эффект шлейфа за курсором"
-date: ""
 categories: 
   - "js"
 ---

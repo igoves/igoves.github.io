@@ -1,6 +1,5 @@
 ---
 title: "Добавление полей в форму динамически jQuery"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Slide and Push Menus"
-date: ""
 categories: 
   - "js"
 ---

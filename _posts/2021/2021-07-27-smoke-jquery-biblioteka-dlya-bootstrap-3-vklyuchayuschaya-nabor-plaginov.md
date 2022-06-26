@@ -1,6 +1,5 @@
 ---
 title: "SMOKE - jQuery библиотека для Bootstrap 3 включающая набор плагинов"
-date: ""
 categories: 
   - "js"
 tags: 

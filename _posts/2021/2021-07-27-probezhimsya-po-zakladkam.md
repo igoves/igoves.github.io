@@ -1,6 +1,5 @@
 ---
 title: "Пробежимся по закладкам"
-date: ""
 categories: 
   - "note"
 tags: 

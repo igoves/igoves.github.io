@@ -1,6 +1,5 @@
 ---
 title: "animo.js - плагин включает удобный набор css анимаций"
-date: ""
 categories: 
   - "css"
 ---

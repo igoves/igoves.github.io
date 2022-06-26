@@ -1,6 +1,5 @@
 ---
 title: "currency.js - библиотека для работы с валютой"
-date: ""
 categories: 
   - "js"
 ---

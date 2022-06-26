@@ -1,6 +1,5 @@
 ---
 title: "Он-лайн построение форм"
-date: ""
 categories: 
   - "css"
 ---

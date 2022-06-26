@@ -1,6 +1,5 @@
 ---
 title: "Подмена старндартного type=\\"file\\""
-date: ""
 categories: 
   - "js"
 tags: 

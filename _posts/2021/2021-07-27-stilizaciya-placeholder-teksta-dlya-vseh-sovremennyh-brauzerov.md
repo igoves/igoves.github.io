@@ -1,6 +1,5 @@
 ---
 title: "Стилизация placeholder текста для всех современных браузеров"
-date: ""
 categories: 
   - "css"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Гайд по Sass (препроцессор для CSS)"
-date: ""
 categories: 
   - "css"
 ---

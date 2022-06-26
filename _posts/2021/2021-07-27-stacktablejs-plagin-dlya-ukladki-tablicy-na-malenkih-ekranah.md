@@ -1,6 +1,5 @@
 ---
 title: "stacktable.js - плагин для укладки таблицы на маленьких экранах"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Это что еще за гуйня. Выброс в сторону Google Reader"
-date: ""
 categories: 
   - "note"
 tags: 

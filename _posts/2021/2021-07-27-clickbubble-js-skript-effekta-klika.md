@@ -1,6 +1,5 @@
 ---
 title: "clickBubble - js скрипт эффекта клика"
-date: ""
 categories: 
   - "js"
 ---

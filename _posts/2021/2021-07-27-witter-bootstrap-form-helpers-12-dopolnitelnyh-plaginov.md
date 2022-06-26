@@ -1,6 +1,5 @@
 ---
 title: "witter Bootstrap Form Helpers - 12 дополнительных плагинов"
-date: ""
 categories: 
   - "js"
 ---

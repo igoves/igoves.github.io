@@ -1,6 +1,5 @@
 ---
 title: "html-ipsum набор"
-date: ""
 categories: 
   - "xhtml"
 ---

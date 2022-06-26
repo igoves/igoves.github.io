@@ -1,6 +1,5 @@
 ---
 title: "Mobiscroll - кастомизация выбора даты и выпадающего меню на jQuery"
-date: ""
 categories: 
   - "js"
 ---

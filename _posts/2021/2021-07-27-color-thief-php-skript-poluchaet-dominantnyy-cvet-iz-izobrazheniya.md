@@ -1,6 +1,5 @@
 ---
 title: "color-thief-php - скрипт получает доминантный цвет из изображения"
-date: ""
 categories: 
   - "php"
 ---

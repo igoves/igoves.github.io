@@ -1,6 +1,5 @@
 ---
 title: "tipsy - Facebook-style tooltip plugin for jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

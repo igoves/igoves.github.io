@@ -1,6 +1,5 @@
 ---
 title: "Фоторама - слайдер"
-date: ""
 categories: 
   - "js"
 tags: 

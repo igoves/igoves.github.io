@@ -1,6 +1,5 @@
 ---
 title: "query-state - скрипт для работы с адресной строкой на лету"
-date: ""
 categories: 
   - "js"
 ---

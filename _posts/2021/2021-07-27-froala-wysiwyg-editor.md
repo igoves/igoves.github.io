@@ -1,6 +1,5 @@
 ---
 title: "Froala WYSIWYG Editor"
-date: ""
 categories: 
   - "xhtml"
 ---

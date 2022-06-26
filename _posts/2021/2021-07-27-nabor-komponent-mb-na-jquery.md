@@ -1,6 +1,5 @@
 ---
 title: "Набор компонент mb на jquery"
-date: ""
 categories: 
   - "js"
 tags: 

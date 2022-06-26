@@ -1,6 +1,5 @@
 ---
 title: "anlutro/laravel-settings - сохранение настроек в бд laravel"
-date: ""
 categories: 
   - "php"
 ---

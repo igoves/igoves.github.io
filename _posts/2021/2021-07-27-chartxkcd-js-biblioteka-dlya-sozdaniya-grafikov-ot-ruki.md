@@ -1,6 +1,5 @@
 ---
 title: "Chart.xkcd - js библиотека для создания графиков \\"от руки\\""
-date: ""
 categories: 
   - "js"
 ---

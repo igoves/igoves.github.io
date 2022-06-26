@@ -1,6 +1,5 @@
 ---
 title: "beyondcode/laravel-websockets - вебсокеты на laravel"
-date: ""
 categories: 
   - "php"
 ---

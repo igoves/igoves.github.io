@@ -1,6 +1,5 @@
 ---
 title: "Bootstrap switch"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Продвинутые анимированые CSS загрузчики"
-date: ""
 categories: 
   - "css"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Что такое партнерский маркетинг?"
-date: ""
 categories: 
   - "note"
 tags: 

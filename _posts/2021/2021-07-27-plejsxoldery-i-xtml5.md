@@ -1,6 +1,5 @@
 ---
 title: "Плейсхолдеры и ХТМЛ5"
-date: ""
 categories: 
   - "xhtml"
 tags: 

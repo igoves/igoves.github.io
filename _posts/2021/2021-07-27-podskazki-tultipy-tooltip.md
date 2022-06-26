@@ -1,6 +1,5 @@
 ---
 title: "Подсказки (тултипы, tooltip)"
-date: ""
 categories: 
   - "css"
 tags: 

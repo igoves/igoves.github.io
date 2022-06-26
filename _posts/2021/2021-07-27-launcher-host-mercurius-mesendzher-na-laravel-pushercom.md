@@ -1,6 +1,5 @@
 ---
 title: "launcher-host/mercurius - месенджер на laravel + pusher.com"
-date: ""
 categories: 
   - "php"
 ---

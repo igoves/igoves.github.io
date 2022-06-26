@@ -1,6 +1,5 @@
 ---
 title: "superplaceholder.js - скрипт создания анимированых placeholder\'ов"
-date: ""
 categories: 
   - "js"
 ---

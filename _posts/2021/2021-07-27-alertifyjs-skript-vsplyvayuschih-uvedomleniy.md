@@ -1,6 +1,5 @@
 ---
 title: "alertify.js - скрипт всплывающих уведомлений"
-date: ""
 categories: 
   - "js"
 tags: 

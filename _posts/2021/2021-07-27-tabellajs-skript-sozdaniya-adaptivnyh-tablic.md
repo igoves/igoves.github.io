@@ -1,6 +1,5 @@
 ---
 title: "Tabella.js - скрипт создания адаптивных таблиц"
-date: ""
 categories: 
   - "js"
 ---

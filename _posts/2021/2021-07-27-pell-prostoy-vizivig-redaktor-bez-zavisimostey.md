@@ -1,6 +1,5 @@
 ---
 title: "pell - простой визивиг редактор, без зависимостей"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Запуск php в фоновом режиме"
-date: ""
 categories: 
   - "php"
 tags: 

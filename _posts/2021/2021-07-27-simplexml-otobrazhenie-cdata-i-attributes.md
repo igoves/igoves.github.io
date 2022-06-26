@@ -1,6 +1,5 @@
 ---
 title: "SimpleXML отображение CDATA и attributes"
-date: ""
 categories: 
   - "php"
 tags: 

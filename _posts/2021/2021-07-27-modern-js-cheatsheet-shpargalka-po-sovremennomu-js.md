@@ -1,6 +1,5 @@
 ---
 title: "modern-js-cheatsheet - шпаргалка по современному js"
-date: ""
 categories: 
   - "note"
 ---

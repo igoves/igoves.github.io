@@ -1,6 +1,5 @@
 ---
 title: "Штучки которые можно сделать из WordPress"
-date: ""
 categories: 
   - "note"
 tags: 

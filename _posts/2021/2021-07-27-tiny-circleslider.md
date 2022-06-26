@@ -1,6 +1,5 @@
 ---
 title: "Крошечный круговой слайдер jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

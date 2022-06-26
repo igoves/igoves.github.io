@@ -1,6 +1,5 @@
 ---
 title: "Винтажная дос тема для Twitter Bootstrap"
-date: ""
 categories: 
   - "css"
 ---

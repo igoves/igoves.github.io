@@ -1,6 +1,5 @@
 ---
 title: "Адаптивный jQuery Bootstrap блок новостей"
-date: ""
 categories: 
   - "js"
 ---

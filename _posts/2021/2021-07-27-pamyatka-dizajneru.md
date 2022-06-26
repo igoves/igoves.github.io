@@ -1,6 +1,5 @@
 ---
 title: "Памятка дизайнеру"
-date: ""
 categories: 
   - "note"
 tags: 

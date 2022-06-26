@@ -1,6 +1,5 @@
 ---
 title: "koala-interactive/frenchkiss.js - плагин для многоязычности i18n на js"
-date: ""
 categories: 
   - "js"
 ---

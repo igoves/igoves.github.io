@@ -1,6 +1,5 @@
 ---
 title: "Custom preloader effect - анимационный эффект загрузки"
-date: ""
 categories: 
   - "js"
 ---

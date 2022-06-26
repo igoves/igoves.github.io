@@ -1,6 +1,5 @@
 ---
 title: "Bootstrap Context Menu"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Обзор ссылочек с полезными штуками"
-date: ""
 categories: 
   - "note"
 tags: 

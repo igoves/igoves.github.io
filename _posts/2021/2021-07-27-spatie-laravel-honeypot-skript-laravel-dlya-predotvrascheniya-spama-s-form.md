@@ -1,6 +1,5 @@
 ---
 title: "spatie/laravel-honeypot - скрипт laravel для предотвращения спама с форм"
-date: ""
 categories: 
   - "php"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "jQuery Calx - плагин для создания форм калькуляции"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Меню bubble на Jquery"
-date: ""
 categories: 
   - "js"
 tags: 

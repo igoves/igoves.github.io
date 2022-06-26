@@ -1,6 +1,5 @@
 ---
 title: "spatie/laravel-personal-data-export - плагин для laravel создает zip архив с персональными данными"
-date: ""
 categories: 
   - "php"
 tags: 

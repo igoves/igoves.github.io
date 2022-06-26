@@ -1,6 +1,5 @@
 ---
 title: "colorify.js - скрипт извлекает цвет из изображения"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Дата для людей JS"
-date: ""
 categories: 
   - "js"
 tags: 

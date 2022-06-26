@@ -1,6 +1,5 @@
 ---
 title: "jQuery.fontFlex.js - динамически изменяет размер текста под блок"
-date: ""
 categories: 
   - "js"
 ---

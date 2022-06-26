@@ -1,6 +1,5 @@
 ---
 title: "Типографические эффекты на CSS3 и jQuery"
-date: ""
 categories: 
   - "js"
 ---

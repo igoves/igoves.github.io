@@ -1,6 +1,5 @@
 ---
 title: "Выпадающее меню в панели номеров страниц Twitter Bootstrap"
-date: ""
 categories: 
   - "css"
 tags: 

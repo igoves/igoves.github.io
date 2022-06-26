@@ -1,6 +1,5 @@
 ---
 title: "amphp/mysql - асинхронный mysql клиент на php"
-date: ""
 categories: 
   - "php"
 ---

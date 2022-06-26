@@ -1,6 +1,5 @@
 ---
 title: "spatie/crawler - php скрипт для обхода ссылок на сайте"
-date: ""
 categories: 
   - "php"
 ---

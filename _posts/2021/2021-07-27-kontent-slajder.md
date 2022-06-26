@@ -1,6 +1,5 @@
 ---
 title: "Контент слайдер"
-date: ""
 categories: 
   - "js"
 tags: 

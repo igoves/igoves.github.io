@@ -1,6 +1,5 @@
 ---
 title: "Vanillabox - очередной лайтбокс на jquery"
-date: ""
 categories: 
   - "js"
 tags: 

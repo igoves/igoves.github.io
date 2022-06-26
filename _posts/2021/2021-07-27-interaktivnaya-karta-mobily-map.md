@@ -1,6 +1,5 @@
 ---
 title: "Интерактивная карта mobily map"
-date: ""
 categories: 
   - "js"
 tags: 

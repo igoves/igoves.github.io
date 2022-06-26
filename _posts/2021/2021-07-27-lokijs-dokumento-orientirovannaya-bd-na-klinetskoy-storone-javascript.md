@@ -1,6 +1,5 @@
 ---
 title: "LokiJS - документо-ориентированная бд на клинетской стороне javascript"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Freetile.js"
-date: ""
 categories: 
   - "js"
 ---

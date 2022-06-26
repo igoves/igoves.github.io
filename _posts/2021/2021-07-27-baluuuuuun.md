@@ -1,6 +1,5 @@
 ---
 title: "БАЛУН111!"
-date: ""
 categories: 
   - "js"
 tags: 

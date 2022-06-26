@@ -1,6 +1,5 @@
 ---
 title: "DataTables js на jquery"
-date: ""
 categories: 
   - "js"
 tags: 

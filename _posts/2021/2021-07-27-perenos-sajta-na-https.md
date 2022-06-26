@@ -1,6 +1,5 @@
 ---
 title: "Перенос сайта на HTTPS"
-date: ""
 categories: 
   - "php"
 tags: 

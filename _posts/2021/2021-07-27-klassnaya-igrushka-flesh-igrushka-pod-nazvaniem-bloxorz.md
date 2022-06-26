@@ -1,6 +1,5 @@
 ---
 title: "Классная флеш игрушка под названием Bloxorz"
-date: ""
 categories: 
   - "note"
 tags: 

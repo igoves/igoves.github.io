@@ -1,6 +1,5 @@
 ---
 title: "Модальные окна уведомлений на CSS"
-date: ""
 categories: 
   - "css"
 ---

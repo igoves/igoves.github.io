@@ -1,6 +1,5 @@
 ---
 title: "Корзина с перетаскиванием на jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

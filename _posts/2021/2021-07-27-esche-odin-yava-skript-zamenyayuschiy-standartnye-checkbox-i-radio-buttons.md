@@ -1,6 +1,5 @@
 ---
 title: "Еще один ява-скрипт заменяющий стандартные checkbox и radio buttons"
-date: ""
 categories: 
   - "js"
 tags: 

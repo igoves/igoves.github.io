@@ -1,6 +1,5 @@
 ---
 title: "Mongolid - ODM для Mongodb теперь поддерживает новый драйвер для php"
-date: ""
 categories: 
   - "php"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Fancy Image Gallery with CSS3 Transitions"
-date: ""
 categories: 
   - "css"
 ---

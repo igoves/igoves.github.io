@@ -1,6 +1,5 @@
 ---
 title: "glide - Touch-friendly jQuery carousel slider"
-date: ""
 categories: 
   - "js"
 ---

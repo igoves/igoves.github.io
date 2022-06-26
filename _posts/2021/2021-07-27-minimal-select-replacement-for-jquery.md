@@ -1,6 +1,5 @@
 ---
 title: "Minimal select replacement for jQuery"
-date: ""
 categories: 
   - "js"
 ---

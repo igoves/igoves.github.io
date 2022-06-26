@@ -1,6 +1,5 @@
 ---
 title: "embedo - js скрипт встраивания embed элементов по ссылке"
-date: ""
 categories: 
   - "js"
 ---

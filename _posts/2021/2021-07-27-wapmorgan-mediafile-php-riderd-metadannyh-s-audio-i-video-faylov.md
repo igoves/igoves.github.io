@@ -1,6 +1,5 @@
 ---
 title: "wapmorgan/MediaFile - php ридерд метаданных с аудио и видео файлов"
-date: ""
 categories: 
   - "php"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Все больше и больше e-commerce"
-date: ""
 categories: 
   - "note"
 tags: 

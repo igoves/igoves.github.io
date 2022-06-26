@@ -1,6 +1,5 @@
 ---
 title: "Hover Caption (HCaption.js)"
-date: ""
 categories: 
   - "js"
 tags: 

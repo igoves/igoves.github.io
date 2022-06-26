@@ -1,6 +1,5 @@
 ---
 title: "VanillaMasker - javascript input masker"
-date: ""
 categories: 
   - "js"
 ---

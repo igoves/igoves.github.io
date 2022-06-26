@@ -1,6 +1,5 @@
 ---
 title: "PrivateBin - минималистичный pastebin с шифрованием на стороне клиента"
-date: ""
 categories: 
   - "php"
 ---

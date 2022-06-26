@@ -1,6 +1,5 @@
 ---
 title: "Flat Surface Shader - активный фон в 2д"
-date: ""
 categories: 
   - "js"
 tags: 

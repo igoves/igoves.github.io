@@ -1,6 +1,5 @@
 ---
 title: "smallwins/spacetime - легковесный js скрипт для работы с timezone"
-date: ""
 categories: 
   - "js"
 ---

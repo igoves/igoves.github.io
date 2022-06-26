@@ -1,6 +1,5 @@
 ---
 title: "MongoQB - php обертка для запросов в mongo"
-date: ""
 categories: 
   - "php"
 ---

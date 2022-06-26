@@ -1,6 +1,5 @@
 ---
 title: "Bootstrap select"
-date: ""
 categories: 
   - "js"
 tags: 

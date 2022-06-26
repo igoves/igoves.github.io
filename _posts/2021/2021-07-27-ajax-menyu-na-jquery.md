@@ -1,6 +1,5 @@
 ---
 title: "Ajax меню на jQuery"
-date: ""
 categories: 
   - "js"
 ---

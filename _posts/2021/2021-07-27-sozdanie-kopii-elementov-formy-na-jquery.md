@@ -1,6 +1,5 @@
 ---
 title: "Создание копии элементов формы на jQuery"
-date: ""
 categories: 
   - "js"
 ---

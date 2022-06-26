@@ -1,6 +1,5 @@
 ---
 title: "jQuery-sticky-elements - плагин создает липкие элементы"
-date: ""
 categories: 
   - "js"
 ---

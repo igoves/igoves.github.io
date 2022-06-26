@@ -1,6 +1,5 @@
 ---
 title: "Skippr - js плагин слайдшоу"
-date: ""
 categories: 
   - "js"
 ---

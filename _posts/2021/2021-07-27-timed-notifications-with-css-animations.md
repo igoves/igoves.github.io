@@ -1,6 +1,5 @@
 ---
 title: "Timed Notifications with CSS Animations"
-date: ""
 categories: 
   - "css"
 tags: 

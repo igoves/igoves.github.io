@@ -1,6 +1,5 @@
 ---
 title: "Messenger - скрипт уведомлений"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "jQuery Knob - Nice, downward compatible, touchable, jQuery dial"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "kanboard - php скрипт канбан доски"
-date: ""
 categories: 
   - "php"
 ---

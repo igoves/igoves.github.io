@@ -1,6 +1,5 @@
 ---
 title: "myliang/x-spreadsheet - эксель таблицы на JavaScript"
-date: ""
 categories: 
   - "js"
 ---

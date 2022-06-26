@@ -1,6 +1,5 @@
 ---
 title: "Транзакции MySQL"
-date: ""
 categories: 
   - "note"
 tags: 

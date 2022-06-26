@@ -1,6 +1,5 @@
 ---
 title: "simply-toast - скрипт всплывающих уведомлений"
-date: ""
 categories: 
   - "js"
 ---

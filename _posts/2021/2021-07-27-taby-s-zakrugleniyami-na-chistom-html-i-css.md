@@ -1,6 +1,5 @@
 ---
 title: "Табы с закруглениями на чистом html и css"
-date: ""
 categories: 
   - "css"
 tags: 

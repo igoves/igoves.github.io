@@ -1,6 +1,5 @@
 ---
 title: "screen.guru - сервис создания скриншота веб-страницы"
-date: ""
 categories: 
   - "note"
 ---

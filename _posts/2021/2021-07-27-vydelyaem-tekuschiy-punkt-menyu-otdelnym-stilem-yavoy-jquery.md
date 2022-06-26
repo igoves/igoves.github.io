@@ -1,6 +1,5 @@
 ---
 title: "Выделяем текущий пункт меню отдельным стилем явой jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Твоя бизнес-модель"
-date: ""
 categories: 
   - "note"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Список рейтинг сообществ вконтакте"
-date: ""
 categories: 
   - "note"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "xxczaki/cashify - js скрипт конвертации валюты, наследник money.js"
-date: ""
 categories: 
   - "js"
 tags: 

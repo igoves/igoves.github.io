@@ -1,6 +1,5 @@
 ---
 title: "Лист задач на ajax, jquery, php и mysql"
-date: ""
 categories: 
   - "css"
 tags: 

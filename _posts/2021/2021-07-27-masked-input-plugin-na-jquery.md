@@ -1,6 +1,5 @@
 ---
 title: "Masked Input Plugin на jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

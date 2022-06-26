@@ -1,6 +1,5 @@
 ---
 title: "valitron - php библиотека валидации без зависимостей"
-date: ""
 categories: 
   - "php"
 ---

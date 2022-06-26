@@ -1,6 +1,5 @@
 ---
 title: "Получить бесплатно SSL сертификат"
-date: ""
 categories: 
   - "note"
 tags: 

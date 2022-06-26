@@ -1,6 +1,5 @@
 ---
 title: "php-ftp-client - гибкий FTP и SSL-FTP клиент на php"
-date: ""
 categories: 
   - "php"
 ---

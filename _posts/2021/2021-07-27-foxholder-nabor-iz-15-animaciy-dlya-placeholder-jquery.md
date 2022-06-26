@@ -1,6 +1,5 @@
 ---
 title: "Foxholder - набор из 15 анимаций для placeholder jQuery"
-date: ""
 categories: 
   - "js"
 ---

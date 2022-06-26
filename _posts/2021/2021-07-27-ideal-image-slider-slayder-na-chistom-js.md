@@ -1,6 +1,5 @@
 ---
 title: "Ideal Image Slider слайдер на чистом JS"
-date: ""
 categories: 
   - "css"
 ---

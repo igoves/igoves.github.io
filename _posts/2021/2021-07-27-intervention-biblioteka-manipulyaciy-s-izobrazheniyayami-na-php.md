@@ -1,6 +1,5 @@
 ---
 title: "Intervention - библиотека манипуляций с изображенияями на php"
-date: ""
 categories: 
   - "php"
 tags: 

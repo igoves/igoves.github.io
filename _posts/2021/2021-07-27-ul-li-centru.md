@@ -1,6 +1,5 @@
 ---
 title: "ul li по центру"
-date: ""
 categories: 
   - "css"
 ---

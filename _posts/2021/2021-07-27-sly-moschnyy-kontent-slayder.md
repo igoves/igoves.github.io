@@ -1,6 +1,5 @@
 ---
 title: "Sly - мощный контент слайдер"
-date: ""
 categories: 
   - "js"
 ---

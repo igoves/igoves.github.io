@@ -1,6 +1,5 @@
 ---
 title: "ImageMapster помощник в создании карт изображений"
-date: ""
 categories: 
   - "js"
 tags: 

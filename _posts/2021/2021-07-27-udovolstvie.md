@@ -1,6 +1,5 @@
 ---
 title: "Удовольствие"
-date: ""
 categories: 
   - "note"
 tags: 

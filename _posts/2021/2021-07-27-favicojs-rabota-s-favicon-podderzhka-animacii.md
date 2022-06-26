@@ -1,6 +1,5 @@
 ---
 title: "favico.js - работа с favicon, поддержка анимации"
-date: ""
 categories: 
   - "js"
 ---

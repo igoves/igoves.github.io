@@ -1,6 +1,5 @@
 ---
 title: "Fresco очередной красивый лайтбокс"
-date: ""
 categories: 
   - "js"
 tags: 

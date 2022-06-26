@@ -1,6 +1,5 @@
 ---
 title: "Ротатор изображений вокруг оси на jQuery"
-date: ""
 categories: 
   - "css"
 tags: 

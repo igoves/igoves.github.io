@@ -1,6 +1,5 @@
 ---
 title: "Отправка письма в UTF-8"
-date: ""
 categories: 
   - "php"
 tags: 

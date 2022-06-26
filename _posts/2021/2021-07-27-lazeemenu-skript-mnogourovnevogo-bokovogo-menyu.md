@@ -1,6 +1,5 @@
 ---
 title: "lazeemenu - скрипт многоуровневого бокового меню"
-date: ""
 categories: 
   - "js"
 ---

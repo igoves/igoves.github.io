@@ -1,6 +1,5 @@
 ---
 title: "whip - php класс получения корректного ip клиента"
-date: ""
 categories: 
   - "php"
 ---

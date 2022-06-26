@@ -1,6 +1,5 @@
 ---
 title: "Moon-Sugar - снежинки на сайте"
-date: ""
 categories: 
   - "js"
 ---

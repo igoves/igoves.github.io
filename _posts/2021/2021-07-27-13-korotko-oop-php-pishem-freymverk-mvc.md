@@ -1,6 +1,5 @@
 ---
 title: "13. Коротко ООП PHP - Пишем фреймверк MVC"
-date: ""
 categories: 
   - "php"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "intense-images - js библиотека для отображения картинок в полный экран"
-date: ""
 categories: 
   - "js"
 ---

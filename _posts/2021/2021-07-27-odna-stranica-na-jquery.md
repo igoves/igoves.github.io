@@ -1,6 +1,5 @@
 ---
 title: "Одна страница на jQuery"
-date: ""
 categories: 
   - "css"
 ---

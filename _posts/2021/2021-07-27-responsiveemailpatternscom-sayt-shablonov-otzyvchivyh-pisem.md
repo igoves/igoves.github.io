@@ -1,6 +1,5 @@
 ---
 title: "responsiveemailpatterns.com - сайт шаблонов отзывчивых писем"
-date: ""
 categories: 
   - "css"
 ---

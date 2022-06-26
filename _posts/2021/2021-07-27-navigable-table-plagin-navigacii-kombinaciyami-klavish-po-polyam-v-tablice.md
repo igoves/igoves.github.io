@@ -1,6 +1,5 @@
 ---
 title: "Navigable Table - плагин навигации комбинациями клавиш по полям в таблице"
-date: ""
 categories: 
   - "js"
 ---

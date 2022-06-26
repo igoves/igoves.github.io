@@ -1,6 +1,5 @@
 ---
 title: "iPicture2 - эволюция iPicture jQuery Plugin"
-date: ""
 categories: 
   - "js"
 ---

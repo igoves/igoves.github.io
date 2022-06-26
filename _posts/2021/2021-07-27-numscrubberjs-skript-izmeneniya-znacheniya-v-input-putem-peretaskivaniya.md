@@ -1,6 +1,5 @@
 ---
 title: "Numscrubber.js - скрипт изменения значения в input путем перетаскивания"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "ItemSlide.js - простой тач слайдер"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Echo.js - простой скрипт lazy-loading изображений"
-date: ""
 categories: 
   - "js"
 tags: 

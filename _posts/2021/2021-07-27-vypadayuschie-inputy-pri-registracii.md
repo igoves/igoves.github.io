@@ -1,6 +1,5 @@
 ---
 title: "Выпадающие инпуты при регистрации"
-date: ""
 categories: 
   - "css"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Moment.js -  javascript date library for parsing, validating, manipulating, and formatting dates"
-date: ""
 categories: 
   - "js"
 tags: 

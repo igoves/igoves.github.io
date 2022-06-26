@@ -1,6 +1,5 @@
 ---
 title: "Jasny Bootstrap - дополнительные плагины для Bootstrap"
-date: ""
 categories: 
   - "js"
 ---

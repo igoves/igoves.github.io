@@ -1,6 +1,5 @@
 ---
 title: "CSS оборвать строку троеточием"
-date: ""
 categories: 
   - "css"
 ---

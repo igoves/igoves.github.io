@@ -1,6 +1,5 @@
 ---
 title: "Выпадающая форма входа на Jquery"
-date: ""
 categories: 
   - "js"
 ---

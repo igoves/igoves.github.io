@@ -1,6 +1,5 @@
 ---
 title: "dio.js - скрипт для удобной работы с виртуальным DOM"
-date: ""
 categories: 
   - "js"
 ---

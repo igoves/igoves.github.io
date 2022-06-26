@@ -1,6 +1,5 @@
 ---
 title: "crossfade.js - скрипт добавляет blur эффект на изображения при скроле"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "spected - js скрипт валидации"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "mpratt/Embera - php скрипт проверяет ссылки и если это embed ссылка, то конвертирует ее"
-date: ""
 categories: 
   - "php"
 ---

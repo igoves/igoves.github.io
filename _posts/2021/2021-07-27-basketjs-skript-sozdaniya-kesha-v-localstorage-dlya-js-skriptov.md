@@ -1,6 +1,5 @@
 ---
 title: "basket.js - скрипт создания кэша в localstorage для js скриптов"
-date: ""
 categories: 
   - "js"
 tags: 

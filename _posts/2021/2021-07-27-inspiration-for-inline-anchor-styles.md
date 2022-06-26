@@ -1,6 +1,5 @@
 ---
 title: "Inspiration for Inline Anchor Styles"
-date: ""
 categories: 
   - "css"
 ---

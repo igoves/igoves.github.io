@@ -1,6 +1,5 @@
 ---
 title: "bacon.jquery.js - скрипт обтекание текстом"
-date: ""
 categories: 
   - "js"
 ---

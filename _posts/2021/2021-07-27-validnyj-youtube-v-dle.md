@@ -1,6 +1,5 @@
 ---
 title: "Валидный Youtube в DLE"
-date: ""
 categories: 
   - "xhtml"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "jQuery custom content scroller"
-date: ""
 categories: 
   - "js"
 tags: 

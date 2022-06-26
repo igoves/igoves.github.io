@@ -1,6 +1,5 @@
 ---
 title: "Интересные штуки с CSS"
-date: ""
 categories: 
   - "css"
 tags: 

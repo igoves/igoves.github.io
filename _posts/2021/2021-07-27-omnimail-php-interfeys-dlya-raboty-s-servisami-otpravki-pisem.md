@@ -1,6 +1,5 @@
 ---
 title: "omnimail - php интерфейс для работы с сервисами отправки писем"
-date: ""
 categories: 
   - "php"
 ---

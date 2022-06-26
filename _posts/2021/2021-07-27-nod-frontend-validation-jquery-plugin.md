@@ -1,6 +1,5 @@
 ---
 title: "Nod - frontend validation jQuery plugin"
-date: ""
 categories: 
   - "js"
 tags: 

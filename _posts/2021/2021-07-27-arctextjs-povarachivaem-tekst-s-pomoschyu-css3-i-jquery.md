@@ -1,6 +1,5 @@
 ---
 title: "Arctext.js – поварачиваем текст с помощью CSS3 и jQuery"
-date: ""
 categories: 
   - "js"
 ---

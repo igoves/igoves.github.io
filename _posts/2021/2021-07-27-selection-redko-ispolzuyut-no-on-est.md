@@ -1,6 +1,5 @@
 ---
 title: "Selection редко используют, но он есть..."
-date: ""
 categories: 
   - "css"
 tags: 

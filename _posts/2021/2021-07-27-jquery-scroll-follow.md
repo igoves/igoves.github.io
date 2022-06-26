@@ -1,6 +1,5 @@
 ---
 title: "jQuery Scroll Follow"
-date: ""
 categories: 
   - "js"
 tags: 

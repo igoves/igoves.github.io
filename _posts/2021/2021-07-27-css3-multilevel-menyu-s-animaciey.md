@@ -1,6 +1,5 @@
 ---
 title: "CSS3 multilevel меню с анимацией"
-date: ""
 categories: 
   - "js"
 ---

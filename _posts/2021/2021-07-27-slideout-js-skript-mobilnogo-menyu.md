@@ -1,6 +1,5 @@
 ---
 title: "slideout - js скрипт мобильного меню"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "noty - скрипт уведомлений на jquery"
-date: ""
 categories: 
   - "js"
 tags: 

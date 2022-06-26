@@ -1,6 +1,5 @@
 ---
 title: "JS - Портфолио Ша"
-date: ""
 categories: 
   - "js"
 tags: 

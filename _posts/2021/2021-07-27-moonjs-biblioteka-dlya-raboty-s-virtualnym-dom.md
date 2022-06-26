@@ -1,6 +1,5 @@
 ---
 title: "moonjs - библиотека для работы с виртуальным dom"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Капча - QapTcha на  jQuery & jQuery UI"
-date: ""
 categories: 
   - "js"
 tags: 

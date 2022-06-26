@@ -1,6 +1,5 @@
 ---
 title: "blurry-menu - меню с эффектом размытия (blur)"
-date: ""
 categories: 
   - "js"
 ---

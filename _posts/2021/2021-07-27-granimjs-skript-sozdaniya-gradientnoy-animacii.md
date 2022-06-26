@@ -1,6 +1,5 @@
 ---
 title: "Granim.js - скрипт создания градиентной анимации"
-date: ""
 categories: 
   - "js"
 ---

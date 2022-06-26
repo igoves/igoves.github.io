@@ -1,6 +1,5 @@
 ---
 title: "idg - геренартор картинок ( быстрее чем html->pdf->image )"
-date: ""
 categories: 
   - "php"
 ---

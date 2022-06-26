@@ -1,6 +1,5 @@
 ---
 title: "Google Maps Plugin for jQuery - gMap"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Торговля. Интернет-торговля"
-date: ""
 categories: 
   - "note"
 tags: 

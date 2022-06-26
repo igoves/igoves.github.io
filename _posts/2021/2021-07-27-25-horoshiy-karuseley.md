@@ -1,6 +1,5 @@
 ---
 title: "25 хороший каруселей"
-date: ""
 categories: 
   - "js"
 tags: 

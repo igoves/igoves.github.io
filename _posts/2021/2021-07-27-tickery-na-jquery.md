@@ -1,6 +1,5 @@
 ---
 title: "Ticker`ы на jQuery"
-date: ""
 categories: 
   - "js"
 ---

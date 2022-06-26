@@ -1,6 +1,5 @@
 ---
 title: "PNotify - плагин уведомлений для twitter bootstrap или jQuery UI"
-date: ""
 categories: 
   - "js"
 tags: 

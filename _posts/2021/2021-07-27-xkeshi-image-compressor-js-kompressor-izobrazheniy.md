@@ -1,6 +1,5 @@
 ---
 title: "xkeshi/image-compressor - js компрессор изображений"
-date: ""
 categories: 
   - "js"
 ---

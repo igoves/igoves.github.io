@@ -1,6 +1,5 @@
 ---
 title: "Как получить скриншоты видео залитого на YouTube"
-date: ""
 categories: 
   - "note"
 ---

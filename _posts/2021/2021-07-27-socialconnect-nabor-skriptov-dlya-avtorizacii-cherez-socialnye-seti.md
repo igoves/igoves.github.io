@@ -1,6 +1,5 @@
 ---
 title: "SocialConnect - набор скриптов для авторизации через социальные сети"
-date: ""
 categories: 
   - "php"
 ---

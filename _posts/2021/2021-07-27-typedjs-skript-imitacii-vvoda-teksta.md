@@ -1,6 +1,5 @@
 ---
 title: "Typed.js - скрипт имитации ввода текста"
-date: ""
 categories: 
   - "js"
 ---

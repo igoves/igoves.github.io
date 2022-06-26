@@ -1,6 +1,5 @@
 ---
 title: "Создать интернет-магазин? Легко!"
-date: ""
 categories: 
   - "note"
 tags: 

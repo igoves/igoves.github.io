@@ -1,6 +1,5 @@
 ---
 title: "Sieve jQuery Plugin - плагин поиска по странице"
-date: ""
 categories: 
   - "js"
 ---

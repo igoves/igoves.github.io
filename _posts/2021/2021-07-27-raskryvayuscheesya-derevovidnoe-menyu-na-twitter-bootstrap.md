@@ -1,6 +1,5 @@
 ---
 title: "Раскрывающееся деревовидное меню на twitter bootstrap"
-date: ""
 categories: 
   - "css"
 tags: 

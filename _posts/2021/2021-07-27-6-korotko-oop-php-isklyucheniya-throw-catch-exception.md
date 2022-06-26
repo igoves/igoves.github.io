@@ -1,6 +1,5 @@
 ---
 title: "6. Коротко ООП PHP - Исключения (throw catch exception)"
-date: ""
 categories: 
   - "php"
 ---

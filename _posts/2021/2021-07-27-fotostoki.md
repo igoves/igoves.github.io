@@ -1,6 +1,5 @@
 ---
 title: "Фотостоки"
-date: ""
 categories: 
   - "note"
 tags: 

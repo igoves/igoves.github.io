@@ -1,6 +1,5 @@
 ---
 title: "Polacode — топ расширение для VS code для создания красивого скриншот кода"
-date: ""
 categories: 
   - "note"
 tags: 

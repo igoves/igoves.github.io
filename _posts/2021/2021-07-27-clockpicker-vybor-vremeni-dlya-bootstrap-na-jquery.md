@@ -1,6 +1,5 @@
 ---
 title: "ClockPicker - выбор времени для bootstrap на jquery"
-date: ""
 categories: 
   - "js"
 ---

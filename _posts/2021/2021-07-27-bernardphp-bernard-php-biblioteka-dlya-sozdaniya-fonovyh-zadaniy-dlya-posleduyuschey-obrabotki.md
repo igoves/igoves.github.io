@@ -1,6 +1,5 @@
 ---
 title: "bernardphp/bernard - PHP-библиотека для создания фоновых заданий для последующей обработки"
-date: ""
 categories: 
   - "php"
 ---

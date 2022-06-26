@@ -1,6 +1,5 @@
 ---
 title: "Семь ошибок Веба в контенте"
-date: ""
 categories: 
   - "note"
 tags: 

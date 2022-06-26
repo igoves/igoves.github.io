@@ -1,6 +1,5 @@
 ---
 title: "Особенные опасения"
-date: ""
 categories: 
   - "note"
 tags: 

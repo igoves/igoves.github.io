@@ -1,6 +1,5 @@
 ---
 title: "keymaster - микро js библиотека навешивания горячих клавиш"
-date: ""
 categories: 
   - "js"
 ---

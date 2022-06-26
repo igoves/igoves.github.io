@@ -1,6 +1,5 @@
 ---
 title: "Table-to-JSON"
-date: ""
 categories: 
   - "js"
 ---

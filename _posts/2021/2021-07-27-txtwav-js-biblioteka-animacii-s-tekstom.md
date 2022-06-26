@@ -1,6 +1,5 @@
 ---
 title: "txt.wav - js библиотека анимации с текстом"
-date: ""
 categories: 
   - "js"
 ---

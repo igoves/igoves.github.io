@@ -1,6 +1,5 @@
 ---
 title: "smartcrop.js - скрипт умного обрезания изображений"
-date: ""
 categories: 
   - "js"
 ---

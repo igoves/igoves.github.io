@@ -1,6 +1,5 @@
 ---
 title: "Чистим зараженный сайт от eval(base64_decode())"
-date: ""
 categories: 
   - "note"
 tags: 

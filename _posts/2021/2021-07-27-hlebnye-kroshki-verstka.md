@@ -1,6 +1,5 @@
 ---
 title: "Хлебные крошки верстка"
-date: ""
 categories: 
   - "css"
 ---

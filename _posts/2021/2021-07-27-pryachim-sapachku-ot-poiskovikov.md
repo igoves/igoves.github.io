@@ -1,6 +1,5 @@
 ---
 title: "Прячим сапачку от поисковиков"
-date: ""
 categories: 
   - "php"
 tags: 

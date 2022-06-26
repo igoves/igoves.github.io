@@ -1,6 +1,5 @@
 ---
 title: "DropKick.js - костамайз выпадающего списка select"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "voyager - админка для laravel"
-date: ""
 categories: 
   - "php"
 ---

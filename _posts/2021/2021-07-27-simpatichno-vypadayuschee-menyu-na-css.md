@@ -1,6 +1,5 @@
 ---
 title: "Симпатично выпадающее меню на CSS"
-date: ""
 categories: 
   - "css"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Очередная история успеха"
-date: ""
 categories: 
   - "note"
 tags: 

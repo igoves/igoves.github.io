@@ -1,6 +1,5 @@
 ---
 title: "SLIDORION - слайдер на jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

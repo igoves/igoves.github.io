@@ -1,6 +1,5 @@
 ---
 title: "Установка Redis на Ubuntu c PHP"
-date: ""
 categories: 
   - "note"
 ---

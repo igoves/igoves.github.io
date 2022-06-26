@@ -1,6 +1,5 @@
 ---
 title: "Franc - js скрипт детектирования языка"
-date: ""
 categories: 
   - "js"
 ---

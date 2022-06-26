@@ -1,6 +1,5 @@
 ---
 title: "Sticky-Kit - плагин для создания умных прилипающих блоков"
-date: ""
 categories: 
   - "js"
 tags: 

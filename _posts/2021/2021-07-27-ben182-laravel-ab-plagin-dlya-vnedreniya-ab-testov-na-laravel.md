@@ -1,6 +1,5 @@
 ---
 title: "ben182/laravel-ab - плагин для внедрения аб тестов на laravel"
-date: ""
 categories: 
   - "php"
 tags: 

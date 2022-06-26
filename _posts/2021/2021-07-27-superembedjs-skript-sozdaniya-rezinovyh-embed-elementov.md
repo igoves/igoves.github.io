@@ -1,6 +1,5 @@
 ---
 title: "superembed.js - скрипт создания резиновых embed элементов"
-date: ""
 categories: 
   - "js"
 ---

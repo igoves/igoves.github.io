@@ -1,6 +1,5 @@
 ---
 title: "paulirish/lite-youtube-embed - скрипт более быстрого внедрения youtube"
-date: ""
 categories: 
   - "js"
 tags: 

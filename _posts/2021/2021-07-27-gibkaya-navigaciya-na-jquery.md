@@ -1,6 +1,5 @@
 ---
 title: "Гибкая навигация на jquery"
-date: ""
 categories: 
   - "js"
 ---

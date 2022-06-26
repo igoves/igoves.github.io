@@ -1,6 +1,5 @@
 ---
 title: "Дефект масс"
-date: ""
 categories: 
   - "note"
 tags: 

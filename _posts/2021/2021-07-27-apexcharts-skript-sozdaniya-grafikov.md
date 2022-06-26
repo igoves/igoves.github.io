@@ -1,6 +1,5 @@
 ---
 title: "apexcharts - скрипт создания графиков"
-date: ""
 categories: 
   - "js"
 ---

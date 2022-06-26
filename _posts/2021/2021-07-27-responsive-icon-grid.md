@@ -1,6 +1,5 @@
 ---
 title: "Responsive Icon Grid"
-date: ""
 categories: 
   - "js"
 ---

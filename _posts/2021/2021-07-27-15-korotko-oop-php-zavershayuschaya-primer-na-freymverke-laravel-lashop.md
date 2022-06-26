@@ -1,6 +1,5 @@
 ---
 title: "15 Коротко ООП PHP - Завершающая. Пример на фреймверке Laravel - lashop"
-date: ""
 categories: 
   - "php"
 ---

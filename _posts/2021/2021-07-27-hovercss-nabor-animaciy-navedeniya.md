@@ -1,6 +1,5 @@
 ---
 title: "Hover.css - Набор анимаций наведения"
-date: ""
 categories: 
   - "css"
 ---

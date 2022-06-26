@@ -1,6 +1,5 @@
 ---
 title: "PhpCodeFixer - скрипт находит deprecated функции и переменные в вашем php коде"
-date: ""
 categories: 
   - "php"
 ---

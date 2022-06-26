@@ -1,6 +1,5 @@
 ---
 title: "gridster.js - грид с функцией drag-and-drop"
-date: ""
 categories: 
   - "js"
 tags: 

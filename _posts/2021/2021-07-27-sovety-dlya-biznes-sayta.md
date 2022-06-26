@@ -1,6 +1,5 @@
 ---
 title: "Советы для бизнес сайта"
-date: ""
 categories: 
   - "note"
 ---

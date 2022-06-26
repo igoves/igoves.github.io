@@ -1,6 +1,5 @@
 ---
 title: "Кнопки Мне нравится - Facebook & Vkontkte, +1 Google и кнопка Твитнуть"
-date: ""
 categories: 
   - "note"
 tags: 

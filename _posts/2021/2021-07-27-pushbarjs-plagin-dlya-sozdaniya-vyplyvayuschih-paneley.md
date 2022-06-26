@@ -1,6 +1,5 @@
 ---
 title: "pushbar.js - плагин для создания выплывающих панелей"
-date: ""
 categories: 
   - "js"
 ---

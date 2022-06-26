@@ -1,6 +1,5 @@
 ---
 title: "Stikked - скрипт аналог pastebin на php"
-date: ""
 categories: 
   - "php"
 ---

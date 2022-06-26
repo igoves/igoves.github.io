@@ -1,6 +1,5 @@
 ---
 title: "HTTP заголовки"
-date: ""
 categories: 
   - "php"
 tags: 

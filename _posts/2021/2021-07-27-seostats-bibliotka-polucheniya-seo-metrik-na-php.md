@@ -1,6 +1,5 @@
 ---
 title: "SEOstats - библиотка получения SEO метрик на PHP"
-date: ""
 categories: 
   - "php"
 ---

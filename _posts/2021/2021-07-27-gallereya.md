@@ -1,6 +1,5 @@
 ---
 title: "Галлерея"
-date: ""
 categories: 
   - "css"
 tags: 

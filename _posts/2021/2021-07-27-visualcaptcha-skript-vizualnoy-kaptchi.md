@@ -1,6 +1,5 @@
 ---
 title: "visualCaptcha - скрипт визуальной каптчи"
-date: ""
 categories: 
   - "php"
 ---

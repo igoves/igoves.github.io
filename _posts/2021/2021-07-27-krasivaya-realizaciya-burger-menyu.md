@@ -1,6 +1,5 @@
 ---
 title: "Красивая реализация burger меню"
-date: ""
 categories: 
   - "css"
 ---

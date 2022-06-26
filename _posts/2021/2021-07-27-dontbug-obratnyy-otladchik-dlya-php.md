@@ -1,6 +1,5 @@
 ---
 title: "dontbug - обратный отладчик для php"
-date: ""
 categories: 
   - "php"
 ---

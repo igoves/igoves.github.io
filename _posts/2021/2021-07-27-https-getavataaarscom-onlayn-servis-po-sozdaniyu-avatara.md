@@ -1,6 +1,5 @@
 ---
 title: "https://getavataaars.com/ - онлайн сервис по созданию аватара"
-date: ""
 categories: 
   - "note"
 ---

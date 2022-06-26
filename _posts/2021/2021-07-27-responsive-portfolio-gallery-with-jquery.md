@@ -1,6 +1,5 @@
 ---
 title: "Responsive Portfolio Gallery with jQuery"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "brandonsavage/Upload - скрипт загрузки файлов с валидацией"
-date: ""
 categories: 
   - "php"
 ---

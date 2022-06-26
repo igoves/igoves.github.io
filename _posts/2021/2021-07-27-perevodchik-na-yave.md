@@ -1,6 +1,5 @@
 ---
 title: "Переводчик на jquery (jquery-translate)"
-date: ""
 categories: 
   - "js"
 tags: 

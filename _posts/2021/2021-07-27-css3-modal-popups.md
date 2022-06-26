@@ -1,6 +1,5 @@
 ---
 title: "CSS3 Modal Popups"
-date: ""
 categories: 
   - "css"
 tags: 

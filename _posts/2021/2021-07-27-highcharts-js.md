@@ -1,6 +1,5 @@
 ---
 title: "Highcharts JS"
-date: ""
 categories: 
   - "js"
 tags: 

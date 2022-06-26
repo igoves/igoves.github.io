@@ -1,6 +1,5 @@
 ---
 title: "vvShop Lite"
-date: ""
 tags: 
   - "shop"
   - "shop-cms"

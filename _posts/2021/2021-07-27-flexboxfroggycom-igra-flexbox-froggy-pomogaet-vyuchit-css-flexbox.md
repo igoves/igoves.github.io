@@ -1,6 +1,5 @@
 ---
 title: "flexboxfroggy.com - игра Flexbox Froggy помогает выучить CSS flexbox"
-date: ""
 categories: 
   - "css"
 ---

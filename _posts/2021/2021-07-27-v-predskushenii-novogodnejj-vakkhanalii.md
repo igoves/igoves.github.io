@@ -1,6 +1,5 @@
 ---
 title: "В предскушении новогодней вакханалии!"
-date: ""
 categories: 
   - "note"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Продавать могут все"
-date: ""
 categories: 
   - "note"
 tags: 

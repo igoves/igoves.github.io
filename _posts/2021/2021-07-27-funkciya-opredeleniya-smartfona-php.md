@@ -1,6 +1,5 @@
 ---
 title: "Функция определения смартфона PHP"
-date: ""
 categories: 
   - "php"
 tags: 

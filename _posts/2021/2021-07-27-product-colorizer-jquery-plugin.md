@@ -1,6 +1,5 @@
 ---
 title: "Product Colorizer jQuery Plugin"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Как создать, прочесть, обновить и удалить Cookie на PHP или Javascript"
-date: ""
 categories: 
   - "php"
 ---

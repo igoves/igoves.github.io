@@ -1,6 +1,5 @@
 ---
 title: "TCPDF - PHP класс для генерации PDF"
-date: ""
 categories: 
   - "php"
 ---

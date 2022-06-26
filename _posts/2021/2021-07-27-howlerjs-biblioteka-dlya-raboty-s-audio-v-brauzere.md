@@ -1,6 +1,5 @@
 ---
 title: "howler.js - библиотека для работы с аудио в браузере"
-date: ""
 categories: 
   - "js"
 ---

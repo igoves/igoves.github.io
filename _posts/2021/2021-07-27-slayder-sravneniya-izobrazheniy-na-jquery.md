@@ -1,6 +1,5 @@
 ---
 title: "Слайдер сравнения изображений на jQuery"
-date: ""
 categories: 
   - "js"
 ---

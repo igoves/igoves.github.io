@@ -1,6 +1,5 @@
 ---
 title: "mark.js - js подсветка текста"
-date: ""
 categories: 
   - "js"
 ---

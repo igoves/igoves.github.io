@@ -1,6 +1,5 @@
 ---
 title: "Вывод картинки тегом в DLE"
-date: ""
 categories: 
   - "php"
 tags: 

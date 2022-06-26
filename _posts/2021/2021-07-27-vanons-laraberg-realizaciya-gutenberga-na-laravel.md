@@ -1,6 +1,5 @@
 ---
 title: "VanOns/laraberg - реализация гутенберга на ларавел"
-date: ""
 categories: 
   - "php"
 ---

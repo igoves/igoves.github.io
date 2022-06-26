@@ -1,6 +1,5 @@
 ---
 title: "jQuery Responsive Tabs"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Amaran JS - скрипт стильных уведомлений"
-date: ""
 categories: 
   - "js"
 ---

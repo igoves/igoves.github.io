@@ -1,6 +1,5 @@
 ---
 title: "Jquery Image Player - плеер картинок"
-date: ""
 categories: 
   - "js"
 ---

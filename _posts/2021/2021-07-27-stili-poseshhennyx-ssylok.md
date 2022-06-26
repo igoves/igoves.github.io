@@ -1,6 +1,5 @@
 ---
 title: "Стили посещенных ссылок"
-date: ""
 categories: 
   - "css"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Подмена стандартных checkbox с помощью css и iconfonts"
-date: ""
 categories: 
   - "css"
 ---

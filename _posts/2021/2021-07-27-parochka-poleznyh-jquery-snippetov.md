@@ -1,6 +1,5 @@
 ---
 title: "Парочка полезных jQuery сниппетов"
-date: ""
 categories: 
   - "js"
 ---

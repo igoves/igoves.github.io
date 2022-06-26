@@ -1,6 +1,5 @@
 ---
 title: "maphilight - создание карты изображения на jquery"
-date: ""
 categories: 
   - "css"
 tags: 

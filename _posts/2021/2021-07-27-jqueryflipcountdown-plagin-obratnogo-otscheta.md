@@ -1,6 +1,5 @@
 ---
 title: "jquery.flipCountDown - плагин обратного отсчета"
-date: ""
 categories: 
   - "js"
 tags: 

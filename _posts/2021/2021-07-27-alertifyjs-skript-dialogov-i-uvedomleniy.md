@@ -1,6 +1,5 @@
 ---
 title: "alertify.js - скрипт диалогов и уведомлений"
-date: ""
 categories: 
   - "js"
 tags: 

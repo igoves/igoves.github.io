@@ -1,6 +1,5 @@
 ---
 title: "jquery-punchcard - скрипт построение графа в виде перфокарты"
-date: ""
 categories: 
   - "js"
 ---

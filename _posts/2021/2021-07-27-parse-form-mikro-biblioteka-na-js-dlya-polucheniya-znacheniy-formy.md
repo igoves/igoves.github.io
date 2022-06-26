@@ -1,6 +1,5 @@
 ---
 title: "parse-form - микро библиотека на js для получения значений формы"
-date: ""
 categories: 
   - "js"
 ---

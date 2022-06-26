@@ -1,6 +1,5 @@
 ---
 title: "glhd/aire - билдер форм для Laravel"
-date: ""
 categories: 
   - "php"
 tags: 

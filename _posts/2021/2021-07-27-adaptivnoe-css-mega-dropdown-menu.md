@@ -1,6 +1,5 @@
 ---
 title: "Адаптивное CSS Mega Dropdown Menu"
-date: ""
 categories: 
   - "css"
 ---

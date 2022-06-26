@@ -1,6 +1,5 @@
 ---
 title: "bootstrap-treeview - js скрипт построения дерева категорий"
-date: ""
 categories: 
   - "js"
 ---

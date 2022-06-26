@@ -1,6 +1,5 @@
 ---
 title: "В ногу со временем - vvShop летает на PHP7"
-date: ""
 categories: 
   - "note"
 ---

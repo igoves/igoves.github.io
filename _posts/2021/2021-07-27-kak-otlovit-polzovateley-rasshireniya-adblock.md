@@ -1,6 +1,5 @@
 ---
 title: "Как отловить пользователей расширения AdBlock"
-date: ""
 categories: 
   - "js"
 ---

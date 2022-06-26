@@ -1,6 +1,5 @@
 ---
 title: "jQuery ListNav Plugin - отличный скрипт сортировки списков на jQuery"
-date: ""
 categories: 
   - "js"
 ---

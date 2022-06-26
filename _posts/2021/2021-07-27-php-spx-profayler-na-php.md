@@ -1,6 +1,5 @@
 ---
 title: "php-spx - профайлер на php"
-date: ""
 categories: 
   - "php"
 ---

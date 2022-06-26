@@ -1,6 +1,5 @@
 ---
 title: "jarallax - скрипт parallax скроллинга"
-date: ""
 categories: 
   - "js"
 tags: 

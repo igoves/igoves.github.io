@@ -1,6 +1,5 @@
 ---
 title: "Responsive Horizontal Layout"
-date: ""
 categories: 
   - "js"
 ---

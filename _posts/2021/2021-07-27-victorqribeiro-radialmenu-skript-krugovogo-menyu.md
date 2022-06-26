@@ -1,6 +1,5 @@
 ---
 title: "victorqribeiro/radialMenu - скрипт кругового меню"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "atrament.js - js библиотека для рисования HTML Canvas"
-date: ""
 categories: 
   - "js"
 ---

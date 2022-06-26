@@ -1,6 +1,5 @@
 ---
 title: "Эффект затухания на Jquery и CSS3"
-date: ""
 categories: 
   - "js"
 ---

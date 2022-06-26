@@ -1,6 +1,5 @@
 ---
 title: "Поиск на Ajax"
-date: ""
 categories: 
   - "php"
 tags: 

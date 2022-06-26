@@ -1,6 +1,5 @@
 ---
 title: "prettyPhoto is a jQuery lightbox clone"
-date: ""
 categories: 
   - "js"
 tags: 

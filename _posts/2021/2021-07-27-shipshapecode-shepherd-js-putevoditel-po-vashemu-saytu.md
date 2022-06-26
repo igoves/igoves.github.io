@@ -1,6 +1,5 @@
 ---
 title: "shipshapecode/shepherd - js путеводитель по вашему сайту"
-date: ""
 categories: 
   - "js"
 ---

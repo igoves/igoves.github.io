@@ -1,6 +1,5 @@
 ---
 title: "Еще скрипт Smart Cart на jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

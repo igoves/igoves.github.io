@@ -1,6 +1,5 @@
 ---
 title: "Grade.js - скрипт определеяет доминантный цвет"
-date: ""
 categories: 
   - "js"
 ---

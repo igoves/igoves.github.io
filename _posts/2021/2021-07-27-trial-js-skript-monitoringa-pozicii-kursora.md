@@ -1,6 +1,5 @@
 ---
 title: "trial-js - скрипт мониторинга позиции курсора"
-date: ""
 categories: 
   - "js"
 ---

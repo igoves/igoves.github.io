@@ -1,6 +1,5 @@
 ---
 title: "PassGenJS - Javascript-библиотека для генерации паролей"
-date: ""
 categories: 
   - "js"
 ---

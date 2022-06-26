@@ -1,6 +1,5 @@
 ---
 title: "scrollMonitor - простой и быстрый API для мониторинга элементов при прокрутке JS"
-date: ""
 categories: 
   - "js"
 ---

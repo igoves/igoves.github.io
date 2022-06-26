@@ -1,6 +1,5 @@
 ---
 title: "Использование картинок в html письмах"
-date: ""
 categories: 
   - "note"
 ---

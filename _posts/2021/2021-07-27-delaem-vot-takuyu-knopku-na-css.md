@@ -1,6 +1,5 @@
 ---
 title: "Делаем вот такую кнопку на CSS"
-date: ""
 categories: 
   - "css"
 ---

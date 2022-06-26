@@ -1,6 +1,5 @@
 ---
 title: "О том как получить ссылки"
-date: ""
 categories: 
   - "note"
 tags: 

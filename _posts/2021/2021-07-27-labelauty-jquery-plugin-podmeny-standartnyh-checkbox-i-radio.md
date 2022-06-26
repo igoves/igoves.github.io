@@ -1,6 +1,5 @@
 ---
 title: "Labelauty - jQuery Plugin подмены стандартных checkbox и radio"
-date: ""
 categories: 
   - "js"
 ---

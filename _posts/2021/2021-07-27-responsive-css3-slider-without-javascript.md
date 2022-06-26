@@ -1,6 +1,5 @@
 ---
 title: "Responsive CSS3 Slider Without Javascript"
-date: ""
 categories: 
   - "js"
 tags: 

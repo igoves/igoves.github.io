@@ -1,6 +1,5 @@
 ---
 title: "Glisse.js - скрипт галлереи"
-date: ""
 categories: 
   - "js"
 tags: 

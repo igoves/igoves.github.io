@@ -1,6 +1,5 @@
 ---
 title: "Что разделяет дизайн и искусство"
-date: ""
 categories: 
   - "note"
 tags: 

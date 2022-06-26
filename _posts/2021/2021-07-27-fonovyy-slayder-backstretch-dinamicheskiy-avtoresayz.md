@@ -1,6 +1,5 @@
 ---
 title: "Фоновый слайдер - Backstretch (динамический авторесайз)"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Новый драйвер mongodb для PHP - черновик по основным запросам"
-date: ""
 categories: 
   - "note"
 tags: 

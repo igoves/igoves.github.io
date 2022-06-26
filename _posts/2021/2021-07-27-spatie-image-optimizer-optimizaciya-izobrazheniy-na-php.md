@@ -1,6 +1,5 @@
 ---
 title: "spatie/image-optimizer - оптимизация изображений на PHP"
-date: ""
 categories: 
   - "php"
 ---

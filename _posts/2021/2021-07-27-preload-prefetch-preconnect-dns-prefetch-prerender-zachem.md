@@ -1,6 +1,5 @@
 ---
 title: "Preload, prefetch, preconnect, dns-prefetch, prerender - зачем?"
-date: ""
 categories: 
   - "note"
 ---

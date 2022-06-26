@@ -1,6 +1,5 @@
 ---
 title: "PapaParse - JS парсер CSV на стороне клиента"
-date: ""
 categories: 
   - "js"
 ---

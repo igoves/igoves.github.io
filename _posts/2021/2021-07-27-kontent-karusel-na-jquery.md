@@ -1,6 +1,5 @@
 ---
 title: "Контент карусель на jquery"
-date: ""
 categories: 
   - "js"
 ---

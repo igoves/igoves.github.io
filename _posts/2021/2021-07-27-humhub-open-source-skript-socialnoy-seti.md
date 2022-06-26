@@ -1,6 +1,5 @@
 ---
 title: "humhub - open source скрипт социальной сети"
-date: ""
 categories: 
   - "php"
 ---

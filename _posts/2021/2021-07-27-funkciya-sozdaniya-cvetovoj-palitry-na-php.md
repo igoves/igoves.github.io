@@ -1,6 +1,5 @@
 ---
 title: "Функция создания цветовой палитры на PHP"
-date: ""
 categories: 
   - "php"
 tags: 

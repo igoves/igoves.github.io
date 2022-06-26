@@ -1,6 +1,5 @@
 ---
 title: "keycodes - js скрипт отображает код клавиши"
-date: ""
 categories: 
   - "js"
 ---

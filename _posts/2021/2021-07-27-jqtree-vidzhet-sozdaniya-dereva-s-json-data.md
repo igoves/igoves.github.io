@@ -1,6 +1,5 @@
 ---
 title: "jqTree - виджет создания дерева с json data"
-date: ""
 categories: 
   - "js"
 tags: 

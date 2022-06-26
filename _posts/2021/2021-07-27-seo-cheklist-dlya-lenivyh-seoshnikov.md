@@ -1,6 +1,5 @@
 ---
 title: "SEO чеклист для ленивых сеошников"
-date: ""
 categories: 
   - "note"
 tags: 

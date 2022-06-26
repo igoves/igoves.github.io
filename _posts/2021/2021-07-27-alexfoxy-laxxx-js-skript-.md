@@ -1,6 +1,5 @@
 ---
 title: "alexfoxy/laxxx - js скрипт (2kb) для создания плавной анимации при скроллинге"
-date: ""
 categories: 
   - "js"
 ---

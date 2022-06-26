@@ -1,6 +1,5 @@
 ---
 title: "tabulator - создание сложных таблиц на js"
-date: ""
 categories: 
   - "js"
 ---

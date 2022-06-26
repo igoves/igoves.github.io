@@ -1,6 +1,5 @@
 ---
 title: "jQuery Nested"
-date: ""
 categories: 
   - "js"
 tags: 

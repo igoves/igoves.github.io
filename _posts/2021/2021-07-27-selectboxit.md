@@ -1,6 +1,5 @@
 ---
 title: "SelectBoxIt"
-date: ""
 categories: 
   - "js"
 tags: 

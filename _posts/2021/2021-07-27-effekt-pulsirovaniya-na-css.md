@@ -1,6 +1,5 @@
 ---
 title: "Эффект пульсирования на CSS"
-date: ""
 categories: 
   - "css"
 tags: 

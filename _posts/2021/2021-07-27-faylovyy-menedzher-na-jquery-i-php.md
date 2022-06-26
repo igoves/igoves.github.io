@@ -1,6 +1,5 @@
 ---
 title: "Файловый менеджер на jQuery и PHP"
-date: ""
 categories: 
   - "php"
 ---

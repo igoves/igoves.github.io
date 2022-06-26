@@ -1,6 +1,5 @@
 ---
 title: "Выпадающее меню как на price.ua"
-date: ""
 categories: 
   - "css"
 tags: 

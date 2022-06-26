@@ -1,6 +1,5 @@
 ---
 title: "Responsive Retina-Ready Menu"
-date: ""
 categories: 
   - "css"
 ---

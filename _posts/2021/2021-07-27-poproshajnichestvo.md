@@ -1,6 +1,5 @@
 ---
 title: "Попрошайничество"
-date: ""
 categories: 
   - "note"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "thecodingmachine/graphqlite - обертка для graphqlite на php"
-date: ""
 categories: 
   - "php"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Всплывающие блоки на jQuery & CSS3"
-date: ""
 categories: 
   - "css"
 tags: 

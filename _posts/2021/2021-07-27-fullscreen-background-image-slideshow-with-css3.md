@@ -1,6 +1,5 @@
 ---
 title: "Fullscreen Background Image Slideshow with CSS3"
-date: ""
 categories: 
   - "js"
 tags: 

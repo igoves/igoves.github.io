@@ -1,6 +1,5 @@
 ---
 title: "Напоминалка о селекторах в CSS"
-date: ""
 categories: 
   - "note"
 tags: 

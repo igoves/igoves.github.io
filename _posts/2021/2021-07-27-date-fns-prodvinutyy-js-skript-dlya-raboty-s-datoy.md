@@ -1,6 +1,5 @@
 ---
 title: "date-fns - продвинутый js скрипт для работы с датой"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "ColorBox - lightweight customizable lightbox plugin for jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

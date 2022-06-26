@@ -1,6 +1,5 @@
 ---
 title: "parseUri - парсер урла на js"
-date: ""
 categories: 
   - "js"
 tags: 

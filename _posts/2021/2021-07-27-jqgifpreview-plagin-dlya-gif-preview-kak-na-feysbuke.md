@@ -1,6 +1,5 @@
 ---
 title: "jqGifPreview - плагин для gif preview как на фейсбуке"
-date: ""
 categories: 
   - "js"
 ---

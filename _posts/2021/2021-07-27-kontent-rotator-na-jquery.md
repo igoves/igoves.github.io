@@ -1,6 +1,5 @@
 ---
 title: "Контент ротатор на jQuery"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "jQRangeSlider"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "jWizard - еще один скрипт визарда"
-date: ""
 categories: 
   - "js"
 ---

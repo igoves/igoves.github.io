@@ -1,6 +1,5 @@
 ---
 title: "jQuery PointPoint - скрипт стрелочки направляющей к конверсионной кнопке"
-date: ""
 categories: 
   - "js"
 ---

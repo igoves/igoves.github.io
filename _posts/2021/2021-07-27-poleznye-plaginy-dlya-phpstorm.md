@@ -1,6 +1,5 @@
 ---
 title: "Полезные плагины для PhpStorm"
-date: ""
 categories: 
   - "note"
 ---

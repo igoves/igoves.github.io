@@ -1,6 +1,5 @@
 ---
 title: "CSS сниппеты"
-date: ""
 categories: 
   - "css"
 ---

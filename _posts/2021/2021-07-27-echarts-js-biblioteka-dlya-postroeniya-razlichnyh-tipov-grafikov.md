@@ -1,6 +1,5 @@
 ---
 title: "echarts - js библиотека для построения различных типов графиков"
-date: ""
 categories: 
   - "js"
 tags: 

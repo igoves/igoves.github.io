@@ -1,6 +1,5 @@
 ---
 title: "gDriveSync.js - обертка на js для работы с Google Drive API v3"
-date: ""
 categories: 
   - "js"
 ---

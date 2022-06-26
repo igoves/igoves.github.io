@@ -1,6 +1,5 @@
 ---
 title: "JQueryFormStyler-Modern - плагин для стилизации HTML-елементов"
-date: ""
 categories: 
   - "js"
 ---

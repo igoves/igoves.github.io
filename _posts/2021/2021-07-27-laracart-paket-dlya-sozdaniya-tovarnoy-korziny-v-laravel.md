@@ -1,6 +1,5 @@
 ---
 title: "laracart - пакет для создания товарной корзины в laravel"
-date: ""
 categories: 
   - "php"
 ---

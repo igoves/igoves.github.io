@@ -1,6 +1,5 @@
 ---
 title: "Коротко о REST"
-date: ""
 categories: 
   - "note"
 ---

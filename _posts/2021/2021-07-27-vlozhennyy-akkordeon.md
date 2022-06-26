@@ -1,6 +1,5 @@
 ---
 title: "Вложенный аккордеон"
-date: ""
 categories: 
   - "js"
 tags: 

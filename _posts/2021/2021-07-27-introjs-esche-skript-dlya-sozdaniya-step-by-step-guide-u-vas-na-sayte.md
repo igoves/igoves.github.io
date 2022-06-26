@@ -1,6 +1,5 @@
 ---
 title: "Intro.js - еще скрипт для создания step-by-step guide у вас на сайте"
-date: ""
 categories: 
   - "js"
 tags: 

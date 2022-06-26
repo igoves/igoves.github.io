@@ -1,6 +1,5 @@
 ---
 title: "Кросспостинг для WordPress"
-date: ""
 categories: 
   - "note"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Получить бэклинк бесплатно"
-date: ""
 categories: 
   - "note"
 tags: 

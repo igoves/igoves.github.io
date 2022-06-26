@@ -1,6 +1,5 @@
 ---
 title: "Будещее интернет-коммерции"
-date: ""
 categories: 
   - "note"
 tags: 

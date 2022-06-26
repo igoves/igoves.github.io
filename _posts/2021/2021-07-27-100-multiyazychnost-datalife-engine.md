@@ -1,6 +1,5 @@
 ---
 title: "100% Мультиязычность DataLife Engine"
-date: ""
 categories: 
   - "note"
 tags: 

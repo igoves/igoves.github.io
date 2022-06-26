@@ -1,6 +1,5 @@
 ---
 title: "Сетка миниатюр с раскрывающимся под ним привью как на Google Images"
-date: ""
 categories: 
   - "js"
 ---

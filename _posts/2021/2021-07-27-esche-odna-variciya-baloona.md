@@ -1,6 +1,5 @@
 ---
 title: "Еще одна вариция Baloon`a"
-date: ""
 categories: 
   - "js"
 tags: 

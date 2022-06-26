@@ -1,6 +1,5 @@
 ---
 title: "CurrencyFormatter.js - скрипт форматирует цифру в денежное значение"
-date: ""
 categories: 
   - "js"
 ---

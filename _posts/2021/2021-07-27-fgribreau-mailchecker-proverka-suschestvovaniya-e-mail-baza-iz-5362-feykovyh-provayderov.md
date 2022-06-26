@@ -1,6 +1,5 @@
 ---
 title: "FGRibreau/mailchecker - проверка существования e-mail, база из 5362 фейковых провайдеров"
-date: ""
 categories: 
   - "php"
 ---

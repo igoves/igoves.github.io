@@ -1,6 +1,5 @@
 ---
 title: "jQuery.filer - простой html 5 загрузчик файлов"
-date: ""
 categories: 
   - "js"
 ---

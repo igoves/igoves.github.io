@@ -1,6 +1,5 @@
 ---
 title: "Лидер и власть"
-date: ""
 categories: 
   - "note"
 tags: 

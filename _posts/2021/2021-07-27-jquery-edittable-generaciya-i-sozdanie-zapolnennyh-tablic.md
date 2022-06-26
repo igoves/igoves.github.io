@@ -1,6 +1,5 @@
 ---
 title: "jQuery editTable - генерация и создание (заполненных) таблиц"
-date: ""
 categories: 
   - "js"
 ---

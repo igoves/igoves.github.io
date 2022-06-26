@@ -1,6 +1,5 @@
 ---
 title: "8. Коротко ООП PHP - Пространства имен (namespace use)"
-date: ""
 categories: 
   - "php"
 ---

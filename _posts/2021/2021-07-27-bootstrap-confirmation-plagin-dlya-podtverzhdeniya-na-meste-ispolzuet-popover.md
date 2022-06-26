@@ -1,6 +1,5 @@
 ---
 title: "Bootstrap Confirmation - плагин для подтверждения на месте, использует Popover"
-date: ""
 categories: 
   - "js"
 ---

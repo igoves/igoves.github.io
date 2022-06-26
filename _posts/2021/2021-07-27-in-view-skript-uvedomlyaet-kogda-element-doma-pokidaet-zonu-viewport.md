@@ -1,6 +1,5 @@
 ---
 title: "in-view - скрипт уведомляет когда элемент дома покидает зону viewport"
-date: ""
 categories: 
   - "js"
 ---

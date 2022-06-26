@@ -1,6 +1,5 @@
 ---
 title: "tebru/gson-php - php скрипт преобразует object в json и обратно"
-date: ""
 categories: 
   - "php"
 ---

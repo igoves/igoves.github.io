@@ -1,6 +1,5 @@
 ---
 title: "dropdown.dot.js - замена стандартного select"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "string - библиотека для манипуляции с multibyte strings"
-date: ""
 categories: 
   - "php"
 ---

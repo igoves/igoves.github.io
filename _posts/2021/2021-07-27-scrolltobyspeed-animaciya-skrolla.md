@@ -1,6 +1,5 @@
 ---
 title: "scrollToBySpeed - анимация скролла"
-date: ""
 categories: 
   - "js"
 ---

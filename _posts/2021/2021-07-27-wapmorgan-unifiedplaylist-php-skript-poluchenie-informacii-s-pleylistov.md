@@ -1,6 +1,5 @@
 ---
 title: "wapmorgan/UnifiedPlaylist - php скрипт получение информации с плейлистов"
-date: ""
 categories: 
   - "php"
 ---

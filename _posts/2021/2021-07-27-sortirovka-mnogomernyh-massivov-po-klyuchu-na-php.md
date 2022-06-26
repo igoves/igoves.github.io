@@ -1,6 +1,5 @@
 ---
 title: "Сортировка многомерных массивов по ключу на PHP"
-date: ""
 categories: 
   - "php"
 tags: 

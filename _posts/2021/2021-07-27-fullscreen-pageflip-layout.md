@@ -1,6 +1,5 @@
 ---
 title: "Fullscreen Pageflip Layout"
-date: ""
 categories: 
   - "css"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Фишинговые сайты SUMY.UA"
-date: ""
 categories: 
   - "note"
 ---

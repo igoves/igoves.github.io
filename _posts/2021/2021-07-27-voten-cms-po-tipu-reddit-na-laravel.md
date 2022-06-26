@@ -1,6 +1,5 @@
 ---
 title: "voten - cms по типу reddit на laravel"
-date: ""
 categories: 
   - "php"
 ---

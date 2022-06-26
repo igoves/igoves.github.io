@@ -1,6 +1,5 @@
 ---
 title: "henrygd/bigpicture - легкий js просмотрщик изображений и видео"
-date: ""
 categories: 
   - "js"
 ---

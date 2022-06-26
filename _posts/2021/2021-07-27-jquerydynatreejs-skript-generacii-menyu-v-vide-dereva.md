@@ -1,6 +1,5 @@
 ---
 title: "jquery.dynatree.js - скрипт генерации меню в виде дерева"
-date: ""
 categories: 
   - "js"
 tags: 

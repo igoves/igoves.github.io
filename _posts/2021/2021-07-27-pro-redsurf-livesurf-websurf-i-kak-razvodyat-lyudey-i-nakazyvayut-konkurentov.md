@@ -1,6 +1,5 @@
 ---
 title: "Про redsurf, livesurf, websurf и как разводят людей и наказывают конкурентов"
-date: ""
 categories: 
   - "note"
 ---

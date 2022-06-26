@@ -1,6 +1,5 @@
 ---
 title: "jQuery File Tree"
-date: ""
 categories: 
   - "js"
 tags: 

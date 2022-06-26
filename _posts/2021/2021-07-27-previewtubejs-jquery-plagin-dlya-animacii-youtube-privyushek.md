@@ -1,6 +1,5 @@
 ---
 title: "PreViewTube.js - jQuery плагин для анимации YouTube привьюшек"
-date: ""
 categories: 
   - "js"
 ---

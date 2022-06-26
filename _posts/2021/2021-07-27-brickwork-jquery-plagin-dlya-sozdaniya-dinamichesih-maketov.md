@@ -1,6 +1,5 @@
 ---
 title: "BrickWork - jQuery плагин для создания динамичесих макетов"
-date: ""
 categories: 
   - "js"
 ---

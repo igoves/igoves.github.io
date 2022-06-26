@@ -1,6 +1,5 @@
 ---
 title: "jQuery Resizable Columns Demo"
-date: ""
 categories: 
   - "js"
 ---

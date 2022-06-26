@@ -1,6 +1,5 @@
 ---
 title: "Некоторые PHP функций"
-date: ""
 categories: 
   - "php"
 tags: 

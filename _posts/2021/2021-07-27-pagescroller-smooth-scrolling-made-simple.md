@@ -1,6 +1,5 @@
 ---
 title: "pagescroller - Smooth Scrolling Made Simple"
-date: ""
 categories: 
   - "js"
 ---

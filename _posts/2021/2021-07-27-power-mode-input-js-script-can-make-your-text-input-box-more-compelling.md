@@ -1,6 +1,5 @@
 ---
 title: "power-mode-input - js script can make your text input box more compelling"
-date: ""
 categories: 
   - "js"
 ---

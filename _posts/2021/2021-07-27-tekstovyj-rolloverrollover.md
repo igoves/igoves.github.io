@@ -1,6 +1,5 @@
 ---
 title: "Текстовый ролловер(rollover)"
-date: ""
 categories: 
   - "css"
 ---

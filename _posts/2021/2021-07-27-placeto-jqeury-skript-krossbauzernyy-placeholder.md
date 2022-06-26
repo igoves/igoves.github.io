@@ -1,6 +1,5 @@
 ---
 title: "placeto - jQeury скрипт кроссбаузерный placeholder"
-date: ""
 categories: 
   - "css"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "jquery.stacky - скрипт создания панелей на jQuery"
-date: ""
 categories: 
   - "js"
 ---

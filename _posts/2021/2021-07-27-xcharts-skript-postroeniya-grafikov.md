@@ -1,6 +1,5 @@
 ---
 title: "xcharts - скрипт построения графиков"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Оригинальная галерея на Jquery"
-date: ""
 categories: 
   - "js"
 tags: 

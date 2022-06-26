@@ -1,6 +1,5 @@
 ---
 title: "phanan/kupo - простой php скрипт проверки (чеклист) сайта перед запуском"
-date: ""
 categories: 
   - "php"
 ---

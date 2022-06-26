@@ -1,6 +1,5 @@
 ---
 title: "Select2 Bootstrap 3 CSS"
-date: ""
 categories: 
   - "css"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Unirest for PHP - легковесная библиотека для работы с HTTP"
-date: ""
 categories: 
   - "php"
 ---

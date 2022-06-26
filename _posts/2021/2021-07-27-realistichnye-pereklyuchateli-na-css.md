@@ -1,6 +1,5 @@
 ---
 title: "Реалистичные переключатели на CSS"
-date: ""
 categories: 
   - "css"
 tags: 

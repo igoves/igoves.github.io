@@ -1,6 +1,5 @@
 ---
 title: "Если потеряно рабочее место"
-date: ""
 categories: 
   - "note"
 tags: 

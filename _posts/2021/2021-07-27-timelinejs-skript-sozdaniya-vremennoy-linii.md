@@ -1,6 +1,5 @@
 ---
 title: "Timeline.js - скрипт создания временной линии"
-date: ""
 categories: 
   - "js"
 ---

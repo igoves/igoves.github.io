@@ -1,6 +1,5 @@
 ---
 title: "nahid/talk - чат для laravel"
-date: ""
 categories: 
   - "php"
 ---

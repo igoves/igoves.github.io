@@ -1,6 +1,5 @@
 ---
 title: "React Bootstrap - front-end framework создания элементов Twitter Bootstrap 3 на JavaScript"
-date: ""
 categories: 
   - "js"
 ---

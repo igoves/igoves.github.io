@@ -1,6 +1,5 @@
 ---
 title: "Скрыть ссылки"
-date: ""
 categories: 
   - "php"
 ---

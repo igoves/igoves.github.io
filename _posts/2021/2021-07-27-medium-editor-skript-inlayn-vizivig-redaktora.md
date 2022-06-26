@@ -1,6 +1,5 @@
 ---
 title: "medium-editor - скрипт инлайн визивиг редактора"
-date: ""
 categories: 
   - "js"
 ---

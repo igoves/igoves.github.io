@@ -1,6 +1,5 @@
 ---
 title: "sigma.js - не знаю что это, но выглядит красиво -)"
-date: ""
 categories: 
   - "js"
 tags: 

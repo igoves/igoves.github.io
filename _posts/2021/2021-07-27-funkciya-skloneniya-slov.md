@@ -1,6 +1,5 @@
 ---
 title: "Функция склонения слов"
-date: ""
 categories: 
   - "php"
 ---

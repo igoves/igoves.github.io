@@ -1,6 +1,5 @@
 ---
 title: "Всплывающие подсказки на CSS3"
-date: ""
 categories: 
   - "css"
 ---

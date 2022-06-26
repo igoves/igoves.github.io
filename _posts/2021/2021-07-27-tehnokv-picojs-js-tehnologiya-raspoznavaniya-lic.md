@@ -1,6 +1,5 @@
 ---
 title: "tehnokv/picojs - js технология распознавания лиц"
-date: ""
 categories: 
   - "js"
 ---

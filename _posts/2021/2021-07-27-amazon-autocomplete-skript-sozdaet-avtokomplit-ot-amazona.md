@@ -1,6 +1,5 @@
 ---
 title: "amazon-autocomplete - скрипт создает автокомплит от амазона"
-date: ""
 categories: 
   - "js"
 ---

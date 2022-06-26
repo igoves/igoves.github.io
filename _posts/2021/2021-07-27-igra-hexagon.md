@@ -1,6 +1,5 @@
 ---
 title: "Игра Hexagon"
-date: ""
 categories: 
   - "note"
 ---

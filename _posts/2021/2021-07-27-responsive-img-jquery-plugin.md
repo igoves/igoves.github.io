@@ -1,6 +1,5 @@
 ---
 title: "Responsive img - jQuery plugin"
-date: ""
 categories: 
   - "js"
 tags: 

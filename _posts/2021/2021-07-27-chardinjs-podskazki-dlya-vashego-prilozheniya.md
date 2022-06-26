@@ -1,6 +1,5 @@
 ---
 title: "Chardin.js - подсказки для вашего приложения"
-date: ""
 categories: 
   - "js"
 ---

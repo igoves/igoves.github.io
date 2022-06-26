@@ -1,6 +1,5 @@
 ---
 title: "Горизонтальное сложное меню на jQuery"
-date: ""
 categories: 
   - "js"
 ---

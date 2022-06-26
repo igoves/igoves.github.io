@@ -1,6 +1,5 @@
 ---
 title: "Горизонтальный прогрессбар на CSS3 и Jquery"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "jQuery.profanityFilter - библиотека зацензуривания слов на стороне клиента"
-date: ""
 categories: 
   - "js"
 ---

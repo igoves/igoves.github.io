@@ -1,6 +1,5 @@
 ---
 title: "symfony/dotenv - библиотека для парсинга .env файла"
-date: ""
 categories: 
   - "php"
 ---

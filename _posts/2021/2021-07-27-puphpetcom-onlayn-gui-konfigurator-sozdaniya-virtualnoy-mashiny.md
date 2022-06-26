@@ -1,6 +1,5 @@
 ---
 title: "puphpet.com - онлайн GUI конфигуратор создания виртуальной машины"
-date: ""
 categories: 
   - "note"
 ---

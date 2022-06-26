@@ -1,6 +1,5 @@
 ---
 title: "Ввод в input только число на jQuery"
-date: ""
 categories: 
   - "js"
 ---

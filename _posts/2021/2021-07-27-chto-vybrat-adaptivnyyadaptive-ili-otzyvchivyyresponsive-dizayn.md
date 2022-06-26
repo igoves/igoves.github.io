@@ -1,6 +1,5 @@
 ---
 title: "Что выбрать адаптивный (adaptive) или отзывчивый (responsive) дизайн"
-date: ""
 categories: 
   - "note"
 ---

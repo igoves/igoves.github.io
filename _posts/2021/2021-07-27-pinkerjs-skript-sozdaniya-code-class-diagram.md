@@ -1,6 +1,5 @@
 ---
 title: "Pinker.js- скрипт создания code/class диаграм"
-date: ""
 categories: 
   - "js"
 ---

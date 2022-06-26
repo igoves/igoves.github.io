@@ -1,6 +1,5 @@
 ---
 title: "Bootstrap Tag Autocomplete"
-date: ""
 categories: 
   - "js"
 ---

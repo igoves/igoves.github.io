@@ -1,6 +1,5 @@
 ---
 title: "gaearon/subliminal - темная минималистичная тема visual studio"
-date: ""
 categories: 
   - "note"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Carbon - простое php API расширение для DateTime"
-date: ""
 categories: 
   - "php"
 ---

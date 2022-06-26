@@ -1,6 +1,5 @@
 ---
 title: "Самомотивация на создание диплома"
-date: ""
 categories: 
   - "note"
 tags: 

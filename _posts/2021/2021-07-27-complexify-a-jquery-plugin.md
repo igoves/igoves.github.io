@@ -1,6 +1,5 @@
 ---
 title: "Complexify - a jQuery Plugin"
-date: ""
 categories: 
   - "js"
 tags: 

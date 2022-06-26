@@ -1,6 +1,5 @@
 ---
 title: "Insignia - скрипт для удобного ввода тегов"
-date: ""
 categories: 
   - "js"
 ---

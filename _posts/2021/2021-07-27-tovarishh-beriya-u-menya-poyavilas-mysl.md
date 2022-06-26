@@ -1,6 +1,5 @@
 ---
 title: "Товарищ Берия у меня появилась мысль"
-date: ""
 categories: 
   - "note"
 tags: 

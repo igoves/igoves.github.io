@@ -1,6 +1,5 @@
 ---
 title: "addel - плагин jQuery для легкого добавления удаления html елементво"
-date: ""
 categories: 
   - "js"
 ---

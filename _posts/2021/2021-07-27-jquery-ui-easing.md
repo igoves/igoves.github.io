@@ -1,6 +1,5 @@
 ---
 title: "jQuery UI Easing"
-date: ""
 categories: 
   - "js"
 ---

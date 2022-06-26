@@ -1,6 +1,5 @@
 ---
 title: "dstreet/dependsOn - скрипт создания зависимостей полей на jQuery"
-date: ""
 categories: 
   - "js"
 ---

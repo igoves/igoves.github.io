@@ -1,6 +1,5 @@
 ---
 title: "soap-client - soap клиент на чистом php"
-date: ""
 categories: 
   - "php"
 ---

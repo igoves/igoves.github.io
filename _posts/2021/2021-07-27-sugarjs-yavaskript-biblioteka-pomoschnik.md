@@ -1,6 +1,5 @@
 ---
 title: "sugarjs - яваскрипт библиотека помощник"
-date: ""
 categories: 
   - "js"
 tags: 

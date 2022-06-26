@@ -1,6 +1,5 @@
 ---
 title: "slatejs - скприт для создания визивиг редактора"
-date: ""
 categories: 
   - "js"
 ---

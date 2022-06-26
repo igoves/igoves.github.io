@@ -1,6 +1,5 @@
 ---
 title: "remotelyliving/php-dns - DNS абстракция в PHP"
-date: ""
 categories: 
   - "php"
 ---

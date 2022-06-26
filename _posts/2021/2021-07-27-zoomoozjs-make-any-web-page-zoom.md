@@ -1,6 +1,5 @@
 ---
 title: "Zoomooz.js - Make any web page zoom"
-date: ""
 categories: 
   - "js"
 tags: 

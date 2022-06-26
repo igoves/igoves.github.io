@@ -1,6 +1,5 @@
 ---
 title: "Полезные linux команды для работы с php проектами"
-date: ""
 categories: 
   - "note"
 ---

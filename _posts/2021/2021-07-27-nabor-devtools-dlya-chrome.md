@@ -1,6 +1,5 @@
 ---
 title: "Набор devtools для Chrome"
-date: ""
 categories: 
   - "note"
 ---

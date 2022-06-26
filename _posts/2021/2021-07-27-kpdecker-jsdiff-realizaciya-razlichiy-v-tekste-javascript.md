@@ -1,6 +1,5 @@
 ---
 title: "kpdecker/jsdiff - реализация различий в тексте JavaScript"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "intl-tel-input - скрипт ввода международного телефона"
-date: ""
 categories: 
   - "js"
 ---

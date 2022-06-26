@@ -1,6 +1,5 @@
 ---
 title: "grumble.js - всплывающие подсказки в виде пузырей"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Bootstrap Notify - скрипт уведомлений для twitter bootstrap"
-date: ""
 categories: 
   - "js"
 ---

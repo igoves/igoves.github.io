@@ -1,6 +1,5 @@
 ---
 title: "Дожились - МЕДИЦИНА."
-date: ""
 categories: 
   - "note"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "beyondcode/laravel-self-diagnosis - скрипт диагностики laravel приложения"
-date: ""
 categories: 
   - "php"
 tags: 

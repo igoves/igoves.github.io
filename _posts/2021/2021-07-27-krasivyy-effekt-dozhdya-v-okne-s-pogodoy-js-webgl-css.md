@@ -1,6 +1,5 @@
 ---
 title: "Красивый эффект дождя в окне с погодой JS + WebGL + CSS"
-date: ""
 categories: 
   - "css"
 ---

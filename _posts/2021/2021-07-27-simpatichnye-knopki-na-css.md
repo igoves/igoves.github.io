@@ -1,6 +1,5 @@
 ---
 title: "Симпатичные кнопки на CSS"
-date: ""
 categories: 
   - "css"
 ---

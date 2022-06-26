@@ -1,6 +1,5 @@
 ---
 title: "aja.js - асинхронный JavaScript и JavaScript/JSON(P)"
-date: ""
 categories: 
   - "js"
 ---

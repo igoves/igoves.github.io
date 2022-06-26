@@ -1,6 +1,5 @@
 ---
 title: "PHP обертка для GIT"
-date: ""
 categories: 
   - "php"
 ---

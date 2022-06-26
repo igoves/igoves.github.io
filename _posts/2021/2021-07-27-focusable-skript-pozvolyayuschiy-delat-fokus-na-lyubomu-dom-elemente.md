@@ -1,6 +1,5 @@
 ---
 title: "focusable - скрипт позволяющий делать фокус на любом dom элементе"
-date: ""
 categories: 
   - "js"
 ---

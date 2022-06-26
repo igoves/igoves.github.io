@@ -1,6 +1,5 @@
 ---
 title: "11. Коротко ООП PHP - Инструменты"
-date: ""
 categories: 
   - "php"
 ---

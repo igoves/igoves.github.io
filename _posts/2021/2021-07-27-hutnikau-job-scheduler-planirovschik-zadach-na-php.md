@@ -1,6 +1,5 @@
 ---
 title: "hutnikau/job-scheduler - планировщик задач на пхп"
-date: ""
 categories: 
   - "js"
 ---

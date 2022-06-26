@@ -1,6 +1,5 @@
 ---
 title: "focuspoint - jQeury скрипт по заданым координатом фокусирует изображение"
-date: ""
 categories: 
   - "js"
 ---

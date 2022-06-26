@@ -1,6 +1,5 @@
 ---
 title: "On-Scroll Animated Header"
-date: ""
 categories: 
   - "css"
 tags: 

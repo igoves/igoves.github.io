@@ -1,6 +1,5 @@
 ---
 title: "Изменение размера сетки изображений на jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "MySQL шпаргалка ( MySQL Cheat Sheet)"
-date: ""
 categories: 
   - "note"
 tags: 

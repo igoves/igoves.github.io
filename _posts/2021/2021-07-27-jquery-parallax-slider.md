@@ -1,6 +1,5 @@
 ---
 title: "jQuery-Parallax-Slider"
-date: ""
 categories: 
   - "js"
 tags: 

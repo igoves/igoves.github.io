@@ -1,6 +1,5 @@
 ---
 title: "Bootbox.js"
-date: ""
 categories: 
   - "js"
 tags: 

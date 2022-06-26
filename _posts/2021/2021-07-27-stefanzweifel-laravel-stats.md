@@ -1,6 +1,5 @@
 ---
 title: "stefanzweifel/laravel-stats"
-date: ""
 categories: 
   - "php"
 tags: 

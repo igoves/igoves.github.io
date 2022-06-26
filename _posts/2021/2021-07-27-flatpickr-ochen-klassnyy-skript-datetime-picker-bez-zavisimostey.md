@@ -1,6 +1,5 @@
 ---
 title: "flatpickr - очень классный скрипт datetime picker без зависимостей"
-date: ""
 categories: 
   - "js"
 ---

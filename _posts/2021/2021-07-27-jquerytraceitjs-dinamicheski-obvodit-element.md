@@ -1,6 +1,5 @@
 ---
 title: "jquery.traceit.js - динамически обводит елемент"
-date: ""
 categories: 
   - "js"
 ---

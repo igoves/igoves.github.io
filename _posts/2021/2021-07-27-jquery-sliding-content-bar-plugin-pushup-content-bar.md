@@ -1,6 +1,5 @@
 ---
 title: "jQuery Sliding Content Bar Plugin: PushUp Content Bar"
-date: ""
 categories: 
   - "js"
 ---

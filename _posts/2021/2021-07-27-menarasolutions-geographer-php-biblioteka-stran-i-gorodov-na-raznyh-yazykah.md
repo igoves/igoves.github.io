@@ -1,6 +1,5 @@
 ---
 title: "menarasolutions/geographer - php библиотека стран и городов на разных языках"
-date: ""
 categories: 
   - "php"
 ---

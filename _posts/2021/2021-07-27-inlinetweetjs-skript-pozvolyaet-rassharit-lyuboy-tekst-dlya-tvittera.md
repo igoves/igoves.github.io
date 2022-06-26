@@ -1,6 +1,5 @@
 ---
 title: "InlineTweet.js - скрипт позволяет расшарить любой текст для твиттера"
-date: ""
 categories: 
   - "js"
 ---

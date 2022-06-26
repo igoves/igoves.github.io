@@ -1,6 +1,5 @@
 ---
 title: "Chosen скрипт позваляет делать стандартный select красивым и юзабельным"
-date: ""
 categories: 
   - "js"
 tags: 

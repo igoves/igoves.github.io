@@ -1,6 +1,5 @@
 ---
 title: "Раскрывающаяся таблица с помощью jExpand"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "FAB Menu - анимированное угловое круговое меню"
-date: ""
 categories: 
   - "css"
 ---

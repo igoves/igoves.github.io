@@ -1,6 +1,5 @@
 ---
 title: "laroux.js - еще один js фреймверк, замена jquery"
-date: ""
 categories: 
   - "js"
 ---

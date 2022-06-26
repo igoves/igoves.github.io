@@ -1,6 +1,5 @@
 ---
 title: "FixedContent.js - создает липкую панель (mobile-friendly, jQuery)"
-date: ""
 categories: 
   - "js"
 ---

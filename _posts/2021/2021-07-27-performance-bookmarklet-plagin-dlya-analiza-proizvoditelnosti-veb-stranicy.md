@@ -1,6 +1,5 @@
 ---
 title: "Performance-Bookmarklet - плагин для анализа производительности веб-страницы"
-date: ""
 categories: 
   - "js"
 ---

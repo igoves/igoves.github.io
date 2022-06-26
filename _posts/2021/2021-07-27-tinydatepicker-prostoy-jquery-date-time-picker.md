@@ -1,6 +1,5 @@
 ---
 title: "tinyDatePicker - простой  jQuery date / time picker"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "jDownload скрипт интерактивной скачки"
-date: ""
 categories: 
   - "js"
 tags: 

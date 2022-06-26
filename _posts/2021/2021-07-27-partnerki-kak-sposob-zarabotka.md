@@ -1,6 +1,5 @@
 ---
 title: "Партнерки как способ заработка"
-date: ""
 categories: 
   - "note"
 tags: 

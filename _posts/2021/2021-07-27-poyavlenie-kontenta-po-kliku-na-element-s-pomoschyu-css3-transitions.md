@@ -1,6 +1,5 @@
 ---
 title: "Появление контента по клику на элемент с помощью CSS3 Transitions"
-date: ""
 categories: 
   - "css"
 ---

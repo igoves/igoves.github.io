@@ -1,6 +1,5 @@
 ---
 title: "Gridmanager.js - создание визуально макета на twitter bootstrap 3"
-date: ""
 categories: 
   - "js"
 ---

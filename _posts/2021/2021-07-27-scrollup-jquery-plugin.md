@@ -1,6 +1,5 @@
 ---
 title: "scrollUp jQuery plugin"
-date: ""
 categories: 
   - "js"
 tags: 

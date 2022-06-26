@@ -1,6 +1,5 @@
 ---
 title: "Руководство по написанию JavaScript кода от Airbnb"
-date: ""
 categories: 
   - "js"
 ---

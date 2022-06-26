@@ -1,6 +1,5 @@
 ---
 title: "Кредитная биржа Webmoney"
-date: ""
 categories: 
   - "note"
 tags: 

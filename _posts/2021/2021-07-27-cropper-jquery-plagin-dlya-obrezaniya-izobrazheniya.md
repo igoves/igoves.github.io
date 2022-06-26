@@ -1,6 +1,5 @@
 ---
 title: "cropper - jQuery плагин для обрезания изображения"
-date: ""
 categories: 
   - "js"
 ---

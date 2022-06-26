@@ -1,6 +1,5 @@
 ---
 title: "PHPCI - open source скрипт непрерывной интеграции (CI) на PHP"
-date: ""
 categories: 
   - "php"
 ---

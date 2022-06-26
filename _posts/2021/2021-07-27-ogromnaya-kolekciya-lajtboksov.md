@@ -1,6 +1,5 @@
 ---
 title: "Огромная колекция Лайтбоксов"
-date: ""
 categories: 
   - "css"
 tags: 

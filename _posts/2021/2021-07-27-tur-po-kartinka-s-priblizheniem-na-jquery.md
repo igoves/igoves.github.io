@@ -1,6 +1,5 @@
 ---
 title: "Тур по картинкам с приближением на jquery"
-date: ""
 categories: 
   - "js"
 ---

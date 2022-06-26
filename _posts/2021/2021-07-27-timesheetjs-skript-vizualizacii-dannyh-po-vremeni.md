@@ -1,6 +1,5 @@
 ---
 title: "Timesheet.js - скрипт визуализации данных по времени"
-date: ""
 categories: 
   - "js"
 ---

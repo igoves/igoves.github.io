@@ -1,6 +1,5 @@
 ---
 title: "headroom.js - скрипт прячет шапку при скроле"
-date: ""
 categories: 
   - "js"
 ---

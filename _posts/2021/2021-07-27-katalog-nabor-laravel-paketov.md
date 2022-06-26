@@ -1,6 +1,5 @@
 ---
 title: "Каталог набор laravel пакетов"
-date: ""
 categories: 
   - "php"
 ---

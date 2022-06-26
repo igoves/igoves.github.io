@@ -1,6 +1,5 @@
 ---
 title: "ikSelect - скрипт для замены стандартного select"
-date: ""
 categories: 
   - "js"
 tags: 

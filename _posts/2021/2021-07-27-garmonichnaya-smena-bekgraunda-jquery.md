@@ -1,6 +1,5 @@
 ---
 title: "Гармоничная смена бекграунда jQuery"
-date: ""
 categories: 
   - "js"
 ---

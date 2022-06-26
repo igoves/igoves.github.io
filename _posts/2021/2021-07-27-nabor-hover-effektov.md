@@ -1,6 +1,5 @@
 ---
 title: "Набор hover эффектов"
-date: ""
 categories: 
   - "css"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Новости и мини аккардион JAWS"
-date: ""
 categories: 
   - "js"
 tags: 

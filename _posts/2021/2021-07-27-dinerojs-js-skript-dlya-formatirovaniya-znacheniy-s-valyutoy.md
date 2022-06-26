@@ -1,6 +1,5 @@
 ---
 title: "Dinero.js - js скрипт для форматирования значений с валютой"
-date: ""
 categories: 
   - "js"
 ---

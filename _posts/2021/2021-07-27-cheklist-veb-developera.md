@@ -1,6 +1,5 @@
 ---
 title: "Чеклист веб-девелопера"
-date: ""
 categories: 
   - "note"
 tags: 

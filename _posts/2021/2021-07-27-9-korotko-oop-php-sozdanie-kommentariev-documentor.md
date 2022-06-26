@@ -1,6 +1,5 @@
 ---
 title: "9. Коротко ООП PHP - Создание комментариев documentor"
-date: ""
 categories: 
   - "php"
 ---

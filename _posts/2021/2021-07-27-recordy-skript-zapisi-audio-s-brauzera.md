@@ -1,6 +1,5 @@
 ---
 title: "Recordy - скрипт записи аудио с браузера"
-date: ""
 categories: 
   - "js"
 ---

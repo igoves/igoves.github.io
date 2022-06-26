@@ -1,6 +1,5 @@
 ---
 title: "Делаем вот такие блоки на CSS"
-date: ""
 categories: 
   - "css"
 ---

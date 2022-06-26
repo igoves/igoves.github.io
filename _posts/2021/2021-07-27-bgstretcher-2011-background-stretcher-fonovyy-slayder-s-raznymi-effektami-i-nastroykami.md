@@ -1,6 +1,5 @@
 ---
 title: "bgStretcher 2011 (Background Stretcher) - фоновый слайдер с разными эффектами и настройками"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Recurly - симпатичная CSS форма транзакций"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Image Maps c помощью спрайта"
-date: ""
 categories: 
   - "css"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "sabre-xml - специализированный XML reader and writer"
-date: ""
 categories: 
   - "php"
 ---

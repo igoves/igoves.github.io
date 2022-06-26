@@ -1,6 +1,5 @@
 ---
 title: "Скрипт мульти-загрузки с прогресс баром - FancyUpload"
-date: ""
 categories: 
   - "css"
 tags: 

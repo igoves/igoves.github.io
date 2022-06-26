@@ -1,6 +1,5 @@
 ---
 title: "Пошаговая форма авторизации на CSS3 и jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

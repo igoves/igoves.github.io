@@ -1,6 +1,5 @@
 ---
 title: "Performance marketing... и с чем его едят"
-date: ""
 categories: 
   - "note"
 tags: 

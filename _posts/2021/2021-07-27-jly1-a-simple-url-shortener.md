@@ -1,6 +1,5 @@
 ---
 title: "jLy1 : a simple URL shortener"
-date: ""
 categories: 
   - "js"
 tags: 

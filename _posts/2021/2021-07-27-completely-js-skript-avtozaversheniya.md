@@ -1,6 +1,5 @@
 ---
 title: "complete.ly - js скрипт автозавершения"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Я хочу (плагины WP)"
-date: ""
 categories: 
   - "xhtml"
 tags: 

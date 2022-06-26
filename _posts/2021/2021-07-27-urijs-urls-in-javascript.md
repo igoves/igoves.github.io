@@ -1,6 +1,5 @@
 ---
 title: "URI.js - URLs in Javascript"
-date: ""
 categories: 
   - "js"
 tags: 

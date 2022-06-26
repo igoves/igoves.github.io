@@ -1,6 +1,5 @@
 ---
 title: "Поиск c подсветкой на странице средствами jQuery"
-date: ""
 categories: 
   - "js"
 ---

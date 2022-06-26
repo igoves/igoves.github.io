@@ -1,6 +1,5 @@
 ---
 title: "Modernizr - скрипт который включает возможности HTML5"
-date: ""
 categories: 
   - "js"
 tags: 

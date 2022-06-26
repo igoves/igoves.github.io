@@ -1,6 +1,5 @@
 ---
 title: "carbon-app/carbon - создание скриншот кода из вашей любимой IDE"
-date: ""
 categories: 
   - "note"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Чекбоксы вместо селект"
-date: ""
 categories: 
   - "js"
 tags: 

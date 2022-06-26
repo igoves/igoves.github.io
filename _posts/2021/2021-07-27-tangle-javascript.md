@@ -1,6 +1,5 @@
 ---
 title: "Tangle, javascript"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "jScrollPane – кроссбраузерный скроллер на jQuery и CSS"
-date: ""
 categories: 
   - "css"
 ---

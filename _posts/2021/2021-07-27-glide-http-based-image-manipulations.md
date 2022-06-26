@@ -1,6 +1,5 @@
 ---
 title: "Glide - HTTP based image manipulations"
-date: ""
 categories: 
   - "php"
 ---

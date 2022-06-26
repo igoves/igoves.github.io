@@ -1,6 +1,5 @@
 ---
 title: "jqueryconfig.com - сайт генерации jQuery только с нужными функциями"
-date: ""
 categories: 
   - "js"
 ---

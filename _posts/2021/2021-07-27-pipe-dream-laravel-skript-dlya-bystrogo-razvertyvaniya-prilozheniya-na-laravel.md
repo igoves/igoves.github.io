@@ -1,6 +1,5 @@
 ---
 title: "pipe-dream/laravel - скрипт для быстрого развертывания приложения на laravel"
-date: ""
 categories: 
   - "php"
 tags: 

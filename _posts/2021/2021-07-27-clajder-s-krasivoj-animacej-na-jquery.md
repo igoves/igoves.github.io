@@ -1,6 +1,5 @@
 ---
 title: "Cлайдер с красивой анимацей на jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

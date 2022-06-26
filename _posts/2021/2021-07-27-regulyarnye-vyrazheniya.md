@@ -1,6 +1,5 @@
 ---
 title: "Регулярные выражения"
-date: ""
 categories: 
   - "php"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "React.js курс для начинающих"
-date: ""
 categories: 
   - "js"
 ---

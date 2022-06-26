@@ -1,6 +1,5 @@
 ---
 title: "HTML експорт в EXCEL на jQuery"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "laravel-slack - уведомления в slack из laravel"
-date: ""
 categories: 
   - "php"
 tags: 

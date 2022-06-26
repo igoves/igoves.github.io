@@ -1,6 +1,5 @@
 ---
 title: "Еще один скрипт фильтров на jquery"
-date: ""
 categories: 
   - "js"
 tags: 

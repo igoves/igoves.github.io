@@ -1,6 +1,5 @@
 ---
 title: "Shopify/draggable - js Drag & Drop библиотека"
-date: ""
 categories: 
   - "js"
 ---

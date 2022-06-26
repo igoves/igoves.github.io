@@ -1,6 +1,5 @@
 ---
 title: "rinvex/country - php библиотека для получения данных о стране"
-date: ""
 categories: 
   - "php"
 ---

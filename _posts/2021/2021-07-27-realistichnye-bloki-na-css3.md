@@ -1,6 +1,5 @@
 ---
 title: "Реалистичные блоки на CSS3"
-date: ""
 categories: 
   - "css"
 tags: 

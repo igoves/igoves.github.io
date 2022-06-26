@@ -1,6 +1,5 @@
 ---
 title: "Медицина и я"
-date: ""
 categories: 
   - "note"
 tags: 

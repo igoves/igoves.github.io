@@ -1,6 +1,5 @@
 ---
 title: "Контент фильтр используя CSS классы на jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "UserPie - скрипт входа регистрации и авторизации на PHP"
-date: ""
 categories: 
   - "php"
 ---

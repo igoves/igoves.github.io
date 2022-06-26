@@ -1,6 +1,5 @@
 ---
 title: "screenshotlayer.com - онлайн ресурс создает снимок вебстраницы"
-date: ""
 categories: 
   - "css"
 ---

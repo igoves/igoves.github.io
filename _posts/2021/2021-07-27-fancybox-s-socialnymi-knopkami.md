@@ -1,6 +1,5 @@
 ---
 title: "fancybox с социальными кнопками"
-date: ""
 categories: 
   - "css"
 ---

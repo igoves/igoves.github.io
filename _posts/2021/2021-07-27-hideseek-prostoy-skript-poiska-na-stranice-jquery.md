@@ -1,6 +1,5 @@
 ---
 title: "HideSeek - простой скрипт поиска на странице jQuery"
-date: ""
 categories: 
   - "js"
 ---

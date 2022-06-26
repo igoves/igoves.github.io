@@ -1,6 +1,5 @@
 ---
 title: "Сортируем массив по деревьям"
-date: ""
 categories: 
   - "php"
 tags: 

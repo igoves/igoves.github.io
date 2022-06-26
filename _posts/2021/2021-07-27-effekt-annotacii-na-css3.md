@@ -1,6 +1,5 @@
 ---
 title: "Эффект аннотации на CSS3"
-date: ""
 categories: 
   - "css"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Коллекция плагинов Sublime Text Editor для разработки фронтенда"
-date: ""
 categories: 
   - "note"
 ---

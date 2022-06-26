@@ -1,6 +1,5 @@
 ---
 title: "Bootstrap MaxLength - визуально отображает количество оставшихся символов"
-date: ""
 categories: 
   - "js"
 tags: 

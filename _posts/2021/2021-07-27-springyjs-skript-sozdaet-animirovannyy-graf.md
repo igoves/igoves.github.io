@@ -1,6 +1,5 @@
 ---
 title: "Springy.js - скрипт создает анимированный граф"
-date: ""
 categories: 
   - "js"
 ---

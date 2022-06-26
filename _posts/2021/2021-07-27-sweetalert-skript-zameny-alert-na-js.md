@@ -1,6 +1,5 @@
 ---
 title: "SweetAlert - скрипт замены alert на js"
-date: ""
 categories: 
   - "js"
 tags: 

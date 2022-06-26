@@ -1,6 +1,5 @@
 ---
 title: "uniter - выполнение пхп на клиенте с помощью nodejs"
-date: ""
 categories: 
   - "js"
 ---

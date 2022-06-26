@@ -1,6 +1,5 @@
 ---
 title: "ricardofiorani/php-legofy - пхп скрипт трансформации изображения в блоки лего"
-date: ""
 categories: 
   - "php"
 ---

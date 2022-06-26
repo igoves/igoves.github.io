@@ -1,6 +1,5 @@
 ---
 title: "Metro тема для twitter bootstrap"
-date: ""
 categories: 
   - "css"
 tags: 

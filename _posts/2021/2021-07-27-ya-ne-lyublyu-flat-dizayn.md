@@ -1,6 +1,5 @@
 ---
 title: "Я не люблю Flat дизайн!"
-date: ""
 categories: 
   - "note"
 ---

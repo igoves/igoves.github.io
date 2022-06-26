@@ -1,6 +1,5 @@
 ---
 title: "jspdf - js скрипт генерации pdf на стороне клиента"
-date: ""
 categories: 
   - "js"
 ---

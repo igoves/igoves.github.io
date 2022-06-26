@@ -1,6 +1,5 @@
 ---
 title: "queues.io - онлайн список ресурсов с обзором систем создания очередей"
-date: ""
 categories: 
   - "note"
 tags: 

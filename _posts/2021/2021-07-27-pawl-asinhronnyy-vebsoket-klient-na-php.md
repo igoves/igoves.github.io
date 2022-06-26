@@ -1,6 +1,5 @@
 ---
 title: "Pawl - асинхронный вебсокет клиент на PHP"
-date: ""
 categories: 
   - "php"
 ---

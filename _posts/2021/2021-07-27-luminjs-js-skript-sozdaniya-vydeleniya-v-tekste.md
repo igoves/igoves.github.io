@@ -1,6 +1,5 @@
 ---
 title: "LuminJS -js скрипт создания выделения в тексте"
-date: ""
 categories: 
   - "js"
 ---

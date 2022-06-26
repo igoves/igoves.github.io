@@ -1,6 +1,5 @@
 ---
 title: "Tabby - простой и легкий скрипт табов"
-date: ""
 categories: 
   - "js"
 ---

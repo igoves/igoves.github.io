@@ -1,6 +1,5 @@
 ---
 title: "imagesLoaded - js скрипт пост загрузки изображений"
-date: ""
 categories: 
   - "js"
 ---

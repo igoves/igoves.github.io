@@ -1,6 +1,5 @@
 ---
 title: "Делаем форму как на картинке jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

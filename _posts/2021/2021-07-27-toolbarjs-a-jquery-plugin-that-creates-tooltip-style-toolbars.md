@@ -1,6 +1,5 @@
 ---
 title: "Toolbar.Js - A jQuery plugin that creates tooltip style toolbars"
-date: ""
 categories: 
   - "js"
 tags: 

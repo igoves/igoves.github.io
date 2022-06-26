@@ -1,6 +1,5 @@
 ---
 title: "jQuery Email валидация, regexp паттерн"
-date: ""
 categories: 
   - "js"
 tags: 

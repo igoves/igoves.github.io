@@ -1,6 +1,5 @@
 ---
 title: "waSlideMenu - скрипт тач-меню на jQuery"
-date: ""
 categories: 
   - "js"
 ---

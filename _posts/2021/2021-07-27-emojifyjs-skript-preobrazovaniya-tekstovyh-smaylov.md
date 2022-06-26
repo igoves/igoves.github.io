@@ -1,6 +1,5 @@
 ---
 title: "emojify.js - скрипт преобразования текстовых смайлов"
-date: ""
 categories: 
   - "js"
 ---

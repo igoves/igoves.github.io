@@ -1,6 +1,5 @@
 ---
 title: "jClever Forms"
-date: ""
 categories: 
   - "js"
 tags: 

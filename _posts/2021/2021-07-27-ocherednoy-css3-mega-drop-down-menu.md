@@ -1,6 +1,5 @@
 ---
 title: "Очередной CSS3 Mega Drop-Down Menu"
-date: ""
 categories: 
   - "css"
 tags: 

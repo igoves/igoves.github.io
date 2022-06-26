@@ -1,6 +1,5 @@
 ---
 title: "Responsible.js - скрипт переключения отображения: телефон - десктоп"
-date: ""
 categories: 
   - "js"
 ---

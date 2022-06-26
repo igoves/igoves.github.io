@@ -1,6 +1,5 @@
 ---
 title: "Время vs Люди"
-date: ""
 categories: 
   - "note"
 tags: 

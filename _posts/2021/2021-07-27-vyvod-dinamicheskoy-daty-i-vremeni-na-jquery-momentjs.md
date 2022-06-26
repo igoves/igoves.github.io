@@ -1,6 +1,5 @@
 ---
 title: "Вывод динамической даты и времени на jQuery + momentjs"
-date: ""
 categories: 
   - "js"
 ---

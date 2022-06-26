@@ -1,6 +1,5 @@
 ---
 title: "jCalculator - скрипт калькулятора на js"
-date: ""
 categories: 
   - "js"
 ---

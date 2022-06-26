@@ -1,6 +1,5 @@
 ---
 title: "lorisleiva/laravel-search-string - создает запросы к базе данных на основе одной уникальной строки"
-date: ""
 categories: 
   - "php"
 tags: 

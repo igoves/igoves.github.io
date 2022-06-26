@@ -1,6 +1,5 @@
 ---
 title: "Meny - скрипт вылазящей панели с боку"
-date: ""
 categories: 
   - "js"
 tags: 

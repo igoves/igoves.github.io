@@ -1,6 +1,5 @@
 ---
 title: "shade - математический расчет градиента на js"
-date: ""
 categories: 
   - "css"
 ---

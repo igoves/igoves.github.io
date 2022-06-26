@@ -1,6 +1,5 @@
 ---
 title: "img2css - онлайн сервис генерирует из картинки css-ку"
-date: ""
 categories: 
   - "css"
 ---

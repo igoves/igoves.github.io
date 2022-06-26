@@ -1,6 +1,5 @@
 ---
 title: "preCode.js - скрипт делает правильный отступ в pre code"
-date: ""
 categories: 
   - "js"
 ---

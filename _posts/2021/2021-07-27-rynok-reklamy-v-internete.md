@@ -1,6 +1,5 @@
 ---
 title: "Рынок рекламы в Интернете"
-date: ""
 categories: 
   - "note"
 tags: 

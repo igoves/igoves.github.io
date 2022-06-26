@@ -1,6 +1,5 @@
 ---
 title: "Интересно сделанная клоака на JS"
-date: ""
 categories: 
   - "js"
 tags: 

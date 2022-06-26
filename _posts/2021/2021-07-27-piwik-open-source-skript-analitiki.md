@@ -1,6 +1,5 @@
 ---
 title: "piwik - open-source скрипт аналитики"
-date: ""
 categories: 
   - "php"
 ---

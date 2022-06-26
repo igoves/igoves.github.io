@@ -1,6 +1,5 @@
 ---
 title: "image-optimizer - php библиотека для сжатия и оптимизации изображений"
-date: ""
 categories: 
   - "php"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "PowerTip - скрипт подсказок всплывающих"
-date: ""
 categories: 
   - "js"
 tags: 

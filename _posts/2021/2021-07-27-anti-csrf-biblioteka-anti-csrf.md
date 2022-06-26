@@ -1,6 +1,5 @@
 ---
 title: "anti-csrf - библиотека анти-CSRF"
-date: ""
 categories: 
   - "php"
 ---

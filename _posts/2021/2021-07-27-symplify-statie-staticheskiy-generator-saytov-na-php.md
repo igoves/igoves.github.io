@@ -1,6 +1,5 @@
 ---
 title: "Symplify/Statie - статический генератор сайтов на PHP"
-date: ""
 categories: 
   - "php"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "bwip-js - генератор баркодов на js"
-date: ""
 categories: 
   - "js"
 ---

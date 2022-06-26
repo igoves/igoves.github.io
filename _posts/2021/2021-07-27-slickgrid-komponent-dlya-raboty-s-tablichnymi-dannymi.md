@@ -1,6 +1,5 @@
 ---
 title: "SlickGrid - компонент для работы с табличными данными"
-date: ""
 categories: 
   - "php"
 tags: 

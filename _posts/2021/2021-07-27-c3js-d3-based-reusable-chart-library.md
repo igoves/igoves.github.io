@@ -1,6 +1,5 @@
 ---
 title: "C3.js D3-based reusable chart library"
-date: ""
 categories: 
   - "js"
 tags: 

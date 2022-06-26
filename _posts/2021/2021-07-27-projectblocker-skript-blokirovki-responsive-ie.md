@@ -1,6 +1,5 @@
 ---
 title: "ProjectBlocker - скрипт блокировки responsive, IE"
-date: ""
 categories: 
   - "js"
 ---

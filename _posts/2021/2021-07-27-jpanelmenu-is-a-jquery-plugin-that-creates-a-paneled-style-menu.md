@@ -1,6 +1,5 @@
 ---
 title: "jPanelMenu is a jQuery plugin that creates a paneled-style menu"
-date: ""
 categories: 
   - "js"
 tags: 

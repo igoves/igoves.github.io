@@ -1,6 +1,5 @@
 ---
 title: "Horizontal Drop-Down Menu"
-date: ""
 categories: 
   - "css"
 tags: 

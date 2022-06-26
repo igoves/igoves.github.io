@@ -1,6 +1,5 @@
 ---
 title: "Progression.js - A jQuery plugin that gives users real time hints & progress updates as they complete forms"
-date: ""
 categories: 
   - "js"
 ---

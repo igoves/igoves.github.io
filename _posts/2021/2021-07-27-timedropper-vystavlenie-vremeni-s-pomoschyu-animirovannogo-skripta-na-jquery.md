@@ -1,6 +1,5 @@
 ---
 title: "timedropper - выставление времени с помощью анимированного скрипта на jQuery"
-date: ""
 categories: 
   - "js"
 ---

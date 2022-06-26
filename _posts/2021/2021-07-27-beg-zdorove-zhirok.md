@@ -1,6 +1,5 @@
 ---
 title: "Бег, здоровье, жирок"
-date: ""
 categories: 
   - "note"
 ---

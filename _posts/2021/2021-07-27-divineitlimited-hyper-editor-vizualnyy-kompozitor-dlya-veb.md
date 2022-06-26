@@ -1,6 +1,5 @@
 ---
 title: "DivineITLimited/hyper-editor -  визуальный композитор для веб"
-date: ""
 categories: 
   - "xhtml"
 ---

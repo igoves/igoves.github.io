@@ -1,6 +1,5 @@
 ---
 title: "Лендинг пейдж много не бывает"
-date: ""
 categories: 
   - "note"
 tags: 

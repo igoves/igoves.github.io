@@ -1,6 +1,5 @@
 ---
 title: "Animated Border Menus"
-date: ""
 categories: 
   - "js"
 ---

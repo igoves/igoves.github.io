@@ -1,6 +1,5 @@
 ---
 title: "Всплывающие подсказки на jQuery и CSS3"
-date: ""
 categories: 
   - "js"
 tags: 

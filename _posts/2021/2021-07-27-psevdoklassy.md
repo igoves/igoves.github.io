@@ -1,6 +1,5 @@
 ---
 title: "Псевдоклассы"
-date: ""
 categories: 
   - "css"
 ---

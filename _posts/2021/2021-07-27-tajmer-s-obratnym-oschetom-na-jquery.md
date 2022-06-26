@@ -1,6 +1,5 @@
 ---
 title: "Таймер с обратным отсчетом на jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

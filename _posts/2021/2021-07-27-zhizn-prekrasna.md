@@ -1,6 +1,5 @@
 ---
 title: "Жизнь прекрасна"
-date: ""
 categories: 
   - "note"
 tags: 

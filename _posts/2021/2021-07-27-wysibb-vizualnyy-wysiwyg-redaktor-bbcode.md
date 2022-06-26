@@ -1,6 +1,5 @@
 ---
 title: "WysiBB - Визуальный WYSIWYG редактор BBcode"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Spinner на jquery"
-date: ""
 categories: 
   - "js"
 tags: 

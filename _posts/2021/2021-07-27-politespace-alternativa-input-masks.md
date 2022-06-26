@@ -1,6 +1,5 @@
 ---
 title: "PoliteSpace альтернатива input masks"
-date: ""
 categories: 
   - "js"
 ---

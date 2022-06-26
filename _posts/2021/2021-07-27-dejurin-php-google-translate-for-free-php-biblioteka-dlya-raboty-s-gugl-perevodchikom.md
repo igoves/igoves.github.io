@@ -1,6 +1,5 @@
 ---
 title: "dejurin/php-google-translate-for-free - пхп библиотека для работы с гугл переводчиком"
-date: ""
 categories: 
   - "php"
 ---

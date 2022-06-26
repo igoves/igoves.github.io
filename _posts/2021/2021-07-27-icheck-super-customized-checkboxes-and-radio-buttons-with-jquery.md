@@ -1,6 +1,5 @@
 ---
 title: "iCheck - super customized checkboxes and radio buttons with jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

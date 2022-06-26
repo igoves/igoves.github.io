@@ -1,6 +1,5 @@
 ---
 title: "rikschennink/fitty - js скрипт вписывает текст в блок по размеру"
-date: ""
 categories: 
   - "js"
 ---

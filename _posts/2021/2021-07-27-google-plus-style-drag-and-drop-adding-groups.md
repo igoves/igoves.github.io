@@ -1,6 +1,5 @@
 ---
 title: "Google Plus Style Drag and Drop adding Groups"
-date: ""
 categories: 
   - "php"
 ---

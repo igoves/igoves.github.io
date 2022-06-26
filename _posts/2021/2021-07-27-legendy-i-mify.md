@@ -1,6 +1,5 @@
 ---
 title: "Легенды и мифы"
-date: ""
 categories: 
   - "note"
 tags: 

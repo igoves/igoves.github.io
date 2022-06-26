@@ -1,6 +1,5 @@
 ---
 title: "css map и jquery notes"
-date: ""
 categories: 
   - "css"
 tags: 

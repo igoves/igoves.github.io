@@ -1,6 +1,5 @@
 ---
 title: "PHP ORM для Redis"
-date: ""
 categories: 
   - "php"
 ---

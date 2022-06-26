@@ -1,6 +1,5 @@
 ---
 title: "jQuery.Pin - скрипт создания липких элементов на сайте"
-date: ""
 categories: 
   - "js"
 tags: 

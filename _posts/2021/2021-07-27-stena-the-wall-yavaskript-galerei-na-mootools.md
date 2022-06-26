@@ -1,6 +1,5 @@
 ---
 title: "Стена (The Wall) - яваскрипт галереи на Mootools"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Как не отвлекаться на работе?"
-date: ""
 categories: 
   - "note"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Awesome Laravel - список полезных ресурсов по laravel"
-date: ""
 categories: 
   - "note"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "php snippets"
-date: ""
 categories: 
   - "php"
 ---

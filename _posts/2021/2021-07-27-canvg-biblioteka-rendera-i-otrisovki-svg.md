@@ -1,6 +1,5 @@
 ---
 title: "canvg библиотека рендера и отрисовки svg"
-date: ""
 categories: 
   - "js"
 ---

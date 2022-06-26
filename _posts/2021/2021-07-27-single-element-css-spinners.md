@@ -1,6 +1,5 @@
 ---
 title: "Single Element CSS Spinners"
-date: ""
 categories: 
   - "css"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "Разъезжающийся textarea по фокусу на jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

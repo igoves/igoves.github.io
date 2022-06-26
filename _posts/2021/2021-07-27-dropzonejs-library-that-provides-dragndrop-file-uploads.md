@@ -1,6 +1,5 @@
 ---
 title: "dropzone.js - library that provides drag’n’drop file uploads"
-date: ""
 categories: 
   - "js"
 tags: 

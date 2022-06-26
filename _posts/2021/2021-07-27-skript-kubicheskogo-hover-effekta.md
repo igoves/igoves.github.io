@@ -1,6 +1,5 @@
 ---
 title: "Скрипт кубического hover эффекта"
-date: ""
 categories: 
   - "css"
 ---

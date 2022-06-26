@@ -1,6 +1,5 @@
 ---
 title: "Круговое анимированное меню"
-date: ""
 categories: 
   - "js"
 tags: 

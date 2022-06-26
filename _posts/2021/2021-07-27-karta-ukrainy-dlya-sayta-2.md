@@ -1,6 +1,5 @@
 ---
 title: "Карта Украины для сайта №2"
-date: ""
 categories: 
   - "css"
 tags: 

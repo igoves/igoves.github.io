@@ -1,6 +1,5 @@
 ---
 title: "pixLayout – is a jQuery plugin for per-pixel layout"
-date: ""
 categories: 
   - "js"
 tags: 

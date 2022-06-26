@@ -1,6 +1,5 @@
 ---
 title: "Goutte - простой PHP Web Scraper"
-date: ""
 categories: 
   - "php"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "phpfastcache - высокоэффективная система кэширования на php"
-date: ""
 categories: 
   - "js"
 ---

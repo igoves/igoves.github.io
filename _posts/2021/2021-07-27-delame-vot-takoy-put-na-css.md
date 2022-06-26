@@ -1,6 +1,5 @@
 ---
 title: "Деламе вот такой путь на CSS"
-date: ""
 categories: 
   - "css"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Choices.js - js скрипт стилизации селектов без зависимостей"
-date: ""
 categories: 
   - "js"
 ---

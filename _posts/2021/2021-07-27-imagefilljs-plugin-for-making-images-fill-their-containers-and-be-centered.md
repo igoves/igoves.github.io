@@ -1,6 +1,5 @@
 ---
 title: "imagefill.js - plugin for making images fill their containers (and be centered)"
-date: ""
 categories: 
   - "js"
 ---

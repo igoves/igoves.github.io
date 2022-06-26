@@ -1,6 +1,5 @@
 ---
 title: "EmailReplyParser - php библиотека для распарсивания простых текстовых писем"
-date: ""
 categories: 
   - "php"
 ---

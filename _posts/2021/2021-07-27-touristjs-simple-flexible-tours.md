@@ -1,6 +1,5 @@
 ---
 title: "Tourist.js - Simple, flexible tours"
-date: ""
 categories: 
   - "js"
 tags: 

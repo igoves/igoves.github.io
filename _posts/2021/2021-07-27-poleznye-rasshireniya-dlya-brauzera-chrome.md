@@ -1,6 +1,5 @@
 ---
 title: "Полезные расширения для браузера Chrome"
-date: ""
 categories: 
   - "note"
 ---

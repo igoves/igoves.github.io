@@ -1,6 +1,5 @@
 ---
 title: "metisMenu - простое раздвижное меню на jQuery под Twitter Bootstrap 3"
-date: ""
 categories: 
   - "js"
 ---

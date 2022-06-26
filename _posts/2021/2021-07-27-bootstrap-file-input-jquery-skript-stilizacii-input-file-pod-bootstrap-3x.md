@@ -1,6 +1,5 @@
 ---
 title: "Bootstrap File Input - jQuery скрипт стилизации input file под Bootstrap 3.x"
-date: ""
 categories: 
   - "js"
 ---

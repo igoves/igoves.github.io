@@ -1,6 +1,5 @@
 ---
 title: "Смешанные чувства"
-date: ""
 categories: 
   - "note"
 tags: 

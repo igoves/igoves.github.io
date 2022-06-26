@@ -1,6 +1,5 @@
 ---
 title: "Прокрутка фона на jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

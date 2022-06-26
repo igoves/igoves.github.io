@@ -1,6 +1,5 @@
 ---
 title: "Скрипты P2P (peer to peer) open-source чатов"
-date: ""
 categories: 
   - "note"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "prettier - скрипт форматирования js кода"
-date: ""
 categories: 
   - "js"
 ---

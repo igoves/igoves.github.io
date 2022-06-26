@@ -1,6 +1,5 @@
 ---
 title: "IsoCodes - валидатор стандартов ISO, GS1, телефонов и др."
-date: ""
 categories: 
   - "php"
 ---

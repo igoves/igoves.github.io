@@ -1,6 +1,5 @@
 ---
 title: "mysqltuner.pl - скрипт на perl проанализирует ваш mysql и предложит что можно улучшить в вашей настройке"
-date: ""
 categories: 
   - "note"
 ---

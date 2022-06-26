@@ -1,6 +1,5 @@
 ---
 title: "ImageHash - библиотека на php вычисляющая хеш изображения"
-date: ""
 categories: 
   - "php"
 ---

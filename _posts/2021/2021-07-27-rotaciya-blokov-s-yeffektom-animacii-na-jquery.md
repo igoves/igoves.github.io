@@ -1,6 +1,5 @@
 ---
 title: "Ротация блоков с эффектом анимации на jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

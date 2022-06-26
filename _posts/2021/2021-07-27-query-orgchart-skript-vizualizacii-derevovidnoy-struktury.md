@@ -1,6 +1,5 @@
 ---
 title: "Query OrgChart - скрипт визуализации деревовидной структуры"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "KineticJS"
-date: ""
 categories: 
   - "js"
 tags: 

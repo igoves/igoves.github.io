@@ -1,6 +1,5 @@
 ---
 title: "jQuery.fracs"
-date: ""
 categories: 
   - "js"
 ---

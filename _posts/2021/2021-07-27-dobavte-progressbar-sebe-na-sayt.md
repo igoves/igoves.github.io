@@ -1,6 +1,5 @@
 ---
 title: "Добавте прогрессбар себе на сайт"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "overhang.js - скрипт выпадающих сверху уведомлений"
-date: ""
 categories: 
   - "js"
 ---

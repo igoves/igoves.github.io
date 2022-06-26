@@ -1,6 +1,5 @@
 ---
 title: "4. Коротко ООП PHP - Магические методы (magic methods) __"
-date: ""
 categories: 
   - "php"
 ---

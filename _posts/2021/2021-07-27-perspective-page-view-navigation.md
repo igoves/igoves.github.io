@@ -1,6 +1,5 @@
 ---
 title: "Perspective Page View Navigation"
-date: ""
 categories: 
   - "css"
 ---

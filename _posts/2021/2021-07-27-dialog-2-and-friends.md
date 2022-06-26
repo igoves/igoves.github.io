@@ -1,6 +1,5 @@
 ---
 title: "Dialog 2 and friends"
-date: ""
 categories: 
   - "js"
 tags: 

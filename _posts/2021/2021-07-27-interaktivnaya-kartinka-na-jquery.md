@@ -1,6 +1,5 @@
 ---
 title: "Интерактивная картинка на jquery"
-date: ""
 categories: 
   - "js"
 tags: 

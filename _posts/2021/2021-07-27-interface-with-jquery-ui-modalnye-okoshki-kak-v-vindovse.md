@@ -1,6 +1,5 @@
 ---
 title: "Interface with jQuery UI - модальные окошки как в виндовсе"
-date: ""
 categories: 
   - "js"
 tags: 

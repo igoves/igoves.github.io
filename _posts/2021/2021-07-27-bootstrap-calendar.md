@@ -1,6 +1,5 @@
 ---
 title: "Bootstrap Calendar"
-date: ""
 categories: 
   - "js"
 ---

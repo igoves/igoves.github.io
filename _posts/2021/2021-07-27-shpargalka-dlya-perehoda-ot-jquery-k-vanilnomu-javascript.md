@@ -1,6 +1,5 @@
 ---
 title: "Шпаргалка для перехода от jQuery к ванильному JavaScript"
-date: ""
 categories: 
   - "js"
 ---

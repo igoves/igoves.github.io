@@ -1,6 +1,5 @@
 ---
 title: "mjaschen/phpgeo - простая гео библиотека на PHP"
-date: ""
 categories: 
   - "php"
 ---

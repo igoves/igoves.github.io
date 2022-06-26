@@ -1,6 +1,5 @@
 ---
 title: "jQuery File Upload"
-date: ""
 categories: 
   - "php"
 tags: 

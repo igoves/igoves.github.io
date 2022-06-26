@@ -1,6 +1,5 @@
 ---
 title: "ausi/slug-generator - slug генератор на PHP"
-date: ""
 categories: 
   - "php"
 ---

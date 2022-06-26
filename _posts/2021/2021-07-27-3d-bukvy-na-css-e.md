@@ -1,6 +1,5 @@
 ---
 title: "3д буквы на CSS-е"
-date: ""
 categories: 
   - "css"
 tags: 

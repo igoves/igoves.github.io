@@ -1,6 +1,5 @@
 ---
 title: "WP без MySQL"
-date: ""
 categories: 
   - "php"
 tags: 

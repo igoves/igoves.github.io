@@ -1,6 +1,5 @@
 ---
 title: "Fela - js скрипт для упралвения стилями"
-date: ""
 categories: 
   - "js"
 ---

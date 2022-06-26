@@ -1,6 +1,5 @@
 ---
 title: "Знания, интеллект, мудрость"
-date: ""
 categories: 
   - "note"
 tags: 

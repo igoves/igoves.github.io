@@ -1,6 +1,5 @@
 ---
 title: "Froala Design Blocks - более 170 блоков готовых к использованию на bootstrap"
-date: ""
 categories: 
   - "css"
 ---

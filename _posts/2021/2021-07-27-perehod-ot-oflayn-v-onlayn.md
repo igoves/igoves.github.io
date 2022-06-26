@@ -1,6 +1,5 @@
 ---
 title: "Переход от офлайн в онлайн!"
-date: ""
 categories: 
   - "note"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "5. Коротко ООП PHP - Абстрактные классы (abstract) и интерфейсы объектов (interface), их отличие"
-date: ""
 categories: 
   - "php"
 ---

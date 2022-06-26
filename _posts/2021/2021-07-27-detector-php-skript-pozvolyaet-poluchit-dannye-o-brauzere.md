@@ -1,6 +1,5 @@
 ---
 title: "Detector - php скрипт позволяет получить данные о браузере"
-date: ""
 categories: 
   - "php"
 ---

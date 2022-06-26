@@ -1,6 +1,5 @@
 ---
 title: "noty is a jQuery plugin"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "jQuery плагин До/После"
-date: ""
 categories: 
   - "js"
 tags: 

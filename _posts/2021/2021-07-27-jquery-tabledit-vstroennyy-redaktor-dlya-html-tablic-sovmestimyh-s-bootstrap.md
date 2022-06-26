@@ -1,6 +1,5 @@
 ---
 title: "jquery-tabledit - встроенный редактор для HTML таблиц, совместимых с Bootstrap"
-date: ""
 categories: 
   - "js"
 ---

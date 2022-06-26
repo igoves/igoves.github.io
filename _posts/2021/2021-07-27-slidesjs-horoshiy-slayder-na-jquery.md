@@ -1,6 +1,5 @@
 ---
 title: "slidesjs - хороший слайдер на jquery"
-date: ""
 categories: 
   - "js"
 ---

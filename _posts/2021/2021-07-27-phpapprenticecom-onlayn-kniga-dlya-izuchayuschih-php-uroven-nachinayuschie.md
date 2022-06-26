@@ -1,6 +1,5 @@
 ---
 title: "phpapprentice.com - онлайн книга для изучающих PHP (уровень начинающие)"
-date: ""
 categories: 
   - "note"
 ---

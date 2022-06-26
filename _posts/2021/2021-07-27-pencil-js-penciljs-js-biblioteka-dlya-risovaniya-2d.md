@@ -1,6 +1,5 @@
 ---
 title: "pencil-js/pencil.js - js библиотека для рисования 2D"
-date: ""
 categories: 
   - "js"
 tags: 

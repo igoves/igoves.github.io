@@ -1,6 +1,5 @@
 ---
 title: "HTML Purifier - php библиотека, очищает введенный текст в соответствии стандартам"
-date: ""
 categories: 
   - "php"
 ---

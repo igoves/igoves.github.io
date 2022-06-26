@@ -1,6 +1,5 @@
 ---
 title: "Смена favicon, эмуляция загрузки в favicon, счетчик в favicon"
-date: ""
 categories: 
   - "css"
 tags: 

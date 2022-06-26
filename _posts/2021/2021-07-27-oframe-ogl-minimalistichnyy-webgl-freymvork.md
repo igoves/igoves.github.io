@@ -1,6 +1,5 @@
 ---
 title: "oframe/ogl - минималистичный WebGL фреймворк"
-date: ""
 categories: 
   - "js"
 ---

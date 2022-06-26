@@ -1,6 +1,5 @@
 ---
 title: "SMS-сервисы"
-date: ""
 categories: 
   - "note"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Datepicker for Bootstrap"
-date: ""
 categories: 
   - "js"
 tags: 

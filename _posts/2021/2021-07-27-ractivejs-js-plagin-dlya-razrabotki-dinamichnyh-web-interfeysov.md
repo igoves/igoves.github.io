@@ -1,6 +1,5 @@
 ---
 title: "Ractive.js - js плагин для разработки динамичных web интерфейсов"
-date: ""
 categories: 
   - "js"
 ---

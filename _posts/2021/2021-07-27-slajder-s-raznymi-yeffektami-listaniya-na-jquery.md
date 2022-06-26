@@ -1,6 +1,5 @@
 ---
 title: "Слайдер с разными эффектами листания на jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

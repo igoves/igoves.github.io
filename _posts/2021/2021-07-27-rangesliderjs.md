@@ -1,6 +1,5 @@
 ---
 title: "rangeslider.js - регулятор диапазона"
-date: ""
 categories: 
   - "js"
 ---

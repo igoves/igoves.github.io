@@ -1,6 +1,5 @@
 ---
 title: "Еще один слайден на jquery"
-date: ""
 categories: 
   - "css"
 tags: 

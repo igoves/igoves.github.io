@@ -1,6 +1,5 @@
 ---
 title: "reCAPTCHA - на Twitter bootstrap"
-date: ""
 categories: 
   - "note"
 ---

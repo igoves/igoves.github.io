@@ -1,6 +1,5 @@
 ---
 title: "asynchronous-php - список ресурсов связанных с асинхронностью в php"
-date: ""
 categories: 
   - "php"
 ---

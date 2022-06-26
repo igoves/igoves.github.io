@@ -1,6 +1,5 @@
 ---
 title: "$.getImageData"
-date: ""
 categories: 
   - "js"
 tags: 

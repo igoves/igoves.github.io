@@ -1,6 +1,5 @@
 ---
 title: "ModalBox на prototype"
-date: ""
 categories: 
   - "js"
 tags: 

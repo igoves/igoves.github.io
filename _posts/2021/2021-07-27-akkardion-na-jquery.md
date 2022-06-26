@@ -1,6 +1,5 @@
 ---
 title: "Аккардион на jQuery"
-date: ""
 categories: 
   - "css"
 tags: 

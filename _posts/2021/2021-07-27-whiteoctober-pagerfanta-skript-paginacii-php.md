@@ -1,6 +1,5 @@
 ---
 title: "whiteoctober/Pagerfanta - скрипт пагинации php"
-date: ""
 categories: 
   - "php"
 ---

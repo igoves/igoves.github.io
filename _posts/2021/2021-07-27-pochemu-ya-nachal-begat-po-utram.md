@@ -1,6 +1,5 @@
 ---
 title: "Почему я начал бегать по утрам…"
-date: ""
 categories: 
   - "note"
 tags: 

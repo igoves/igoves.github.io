@@ -1,6 +1,5 @@
 ---
 title: "Avgrund Modal"
-date: ""
 categories: 
   - "js"
 tags: 

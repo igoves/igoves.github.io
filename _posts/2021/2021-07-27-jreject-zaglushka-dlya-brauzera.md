@@ -1,6 +1,5 @@
 ---
 title: "jReject - заглушка для браузера"
-date: ""
 categories: 
   - "js"
 tags: 

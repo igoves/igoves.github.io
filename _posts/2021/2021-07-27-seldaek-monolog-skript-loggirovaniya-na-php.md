@@ -1,6 +1,5 @@
 ---
 title: "Seldaek/monolog - скрипт логгирования на PHP"
-date: ""
 categories: 
   - "php"
 ---

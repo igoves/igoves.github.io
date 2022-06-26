@@ -1,6 +1,5 @@
 ---
 title: "Quill - простой визивиг редактор"
-date: ""
 categories: 
   - "js"
 ---

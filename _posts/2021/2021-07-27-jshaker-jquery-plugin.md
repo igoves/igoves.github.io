@@ -1,6 +1,5 @@
 ---
 title: "jShaker jQuery Plugin"
-date: ""
 categories: 
   - "js"
 tags: 

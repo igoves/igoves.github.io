@@ -1,6 +1,5 @@
 ---
 title: "Timeliny - jquery скрипт горизонтального таймлайна"
-date: ""
 categories: 
   - "js"
 ---

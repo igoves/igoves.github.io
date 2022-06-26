@@ -1,6 +1,5 @@
 ---
 title: "Photoset Grid - jQuery plugin to arrange images into a flexible grid"
-date: ""
 categories: 
   - "js"
 ---

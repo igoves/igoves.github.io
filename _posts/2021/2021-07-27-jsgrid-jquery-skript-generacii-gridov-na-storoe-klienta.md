@@ -1,6 +1,5 @@
 ---
 title: "jsGrid - jQuery скрипт генерации гридов на стороне клиента"
-date: ""
 categories: 
   - "js"
 ---

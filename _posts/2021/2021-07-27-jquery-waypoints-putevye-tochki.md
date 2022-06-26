@@ -1,6 +1,5 @@
 ---
 title: "jQuery Waypoints (Путевые точки)"
-date: ""
 categories: 
   - "js"
 ---

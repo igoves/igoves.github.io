@@ -1,6 +1,5 @@
 ---
 title: "muicss/loadjs - простой маленький загрузчик"
-date: ""
 categories: 
   - "js"
 ---

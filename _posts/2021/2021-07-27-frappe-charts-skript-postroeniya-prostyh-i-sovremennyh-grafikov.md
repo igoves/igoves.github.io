@@ -1,6 +1,5 @@
 ---
 title: "Frappe Charts - скрипт построения простых и современных графиков"
-date: ""
 categories: 
   - "js"
 ---

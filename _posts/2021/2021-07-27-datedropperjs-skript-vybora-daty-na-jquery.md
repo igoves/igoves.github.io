@@ -1,6 +1,5 @@
 ---
 title: "datedropper.js - скрипт выбора даты на jQuery"
-date: ""
 categories: 
   - "js"
 ---

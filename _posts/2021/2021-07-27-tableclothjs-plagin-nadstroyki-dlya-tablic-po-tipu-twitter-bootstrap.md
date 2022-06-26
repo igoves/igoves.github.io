@@ -1,6 +1,5 @@
 ---
 title: "tablecloth.js - плагин надстройки для таблиц по типу twitter bootstrap"
-date: ""
 categories: 
   - "js"
 tags: 

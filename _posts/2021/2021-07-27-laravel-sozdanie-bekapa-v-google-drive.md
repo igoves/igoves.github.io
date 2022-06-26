@@ -1,6 +1,5 @@
 ---
 title: "Laravel создание бекапа в Google Drive"
-date: ""
 categories: 
   - "php"
 ---

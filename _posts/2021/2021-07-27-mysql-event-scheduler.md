@@ -1,6 +1,5 @@
 ---
 title: "MySQL Event Scheduler"
-date: ""
 categories: 
   - "note"
 tags: 

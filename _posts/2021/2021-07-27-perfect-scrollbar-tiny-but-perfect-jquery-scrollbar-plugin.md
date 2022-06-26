@@ -1,6 +1,5 @@
 ---
 title: "perfect-scrollbar - Tiny but perfect jQuery scrollbar plugin"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "timeago - плагин отображени прошедшего времени"
-date: ""
 categories: 
   - "js"
 tags: 

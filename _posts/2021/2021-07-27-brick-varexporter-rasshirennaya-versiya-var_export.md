@@ -1,6 +1,5 @@
 ---
 title: "brick/varexporter - расширенная версия var_export()"
-date: ""
 categories: 
   - "php"
 ---

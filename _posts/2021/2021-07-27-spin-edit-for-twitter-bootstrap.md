@@ -1,6 +1,5 @@
 ---
 title: "Spin Edit for Twitter Bootstrap"
-date: ""
 categories: 
   - "js"
 tags: 

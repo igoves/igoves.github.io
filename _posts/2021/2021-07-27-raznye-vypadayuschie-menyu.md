@@ -1,6 +1,5 @@
 ---
 title: "Разные выпадающие меню"
-date: ""
 categories: 
   - "css"
 tags: 

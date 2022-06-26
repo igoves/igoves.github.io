@@ -1,6 +1,5 @@
 ---
 title: "Mobile Detect - lightweight PHP class for detecting mobile devices (including tablets)."
-date: ""
 categories: 
   - "php"
 tags: 

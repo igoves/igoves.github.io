@@ -1,6 +1,5 @@
 ---
 title: "hyperapp - js библиотека для создания фронтенда"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "before и content CSS"
-date: ""
 categories: 
   - "css"
 ---

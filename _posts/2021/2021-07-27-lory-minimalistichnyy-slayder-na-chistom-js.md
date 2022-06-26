@@ -1,6 +1,5 @@
 ---
 title: "lory - минималистичный слайдер на чистом js"
-date: ""
 categories: 
   - "js"
 ---

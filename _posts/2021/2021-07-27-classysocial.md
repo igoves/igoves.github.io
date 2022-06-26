@@ -1,6 +1,5 @@
 ---
 title: "ClassySocial"
-date: ""
 categories: 
   - "js"
 ---

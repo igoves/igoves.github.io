@@ -1,6 +1,5 @@
 ---
 title: "jGrowl - плагин уведомлений на сайте"
-date: ""
 categories: 
   - "js"
 tags: 

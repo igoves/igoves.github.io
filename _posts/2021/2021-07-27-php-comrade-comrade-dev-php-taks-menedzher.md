@@ -1,6 +1,5 @@
 ---
 title: "php-comrade/comrade-dev - php такс менеджер"
-date: ""
 categories: 
   - "php"
 ---

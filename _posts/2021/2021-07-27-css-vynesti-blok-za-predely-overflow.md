@@ -1,6 +1,5 @@
 ---
 title: "css вынести блок за пределы overflow"
-date: ""
 categories: 
   - "css"
 ---

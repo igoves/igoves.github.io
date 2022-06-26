@@ -1,6 +1,5 @@
 ---
 title: "Почему не стоит забывать о мета теге description"
-date: ""
 categories: 
   - "note"
 tags: 

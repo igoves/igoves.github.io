@@ -1,6 +1,5 @@
 ---
 title: "ziadoz/awesome-php - список полезных ресурсов по php"
-date: ""
 categories: 
   - "php"
 ---

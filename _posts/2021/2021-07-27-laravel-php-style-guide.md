@@ -1,6 +1,5 @@
 ---
 title: "Laravel & PHP Style Guide"
-date: ""
 categories: 
   - "note"
 ---

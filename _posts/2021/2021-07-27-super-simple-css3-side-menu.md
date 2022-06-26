@@ -1,6 +1,5 @@
 ---
 title: "super simple CSS3 side-menu"
-date: ""
 categories: 
   - "js"
 tags: 

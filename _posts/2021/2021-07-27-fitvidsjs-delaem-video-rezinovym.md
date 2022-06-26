@@ -1,6 +1,5 @@
 ---
 title: "fitvidsjs - Делаем видео резиновым"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Прячим почту от СПАМа"
-date: ""
 categories: 
   - "xhtml"
 ---

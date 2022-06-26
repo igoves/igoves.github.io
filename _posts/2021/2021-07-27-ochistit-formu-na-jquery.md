@@ -1,6 +1,5 @@
 ---
 title: "Очистить форму на jQuery"
-date: ""
 categories: 
   - "js"
 ---

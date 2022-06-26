@@ -1,6 +1,5 @@
 ---
 title: "laravel / airlock - легковесная система аутентификации для SPA и простых API"
-date: ""
 categories: 
   - "php"
 tags: 

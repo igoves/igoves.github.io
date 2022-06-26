@@ -1,6 +1,5 @@
 ---
 title: "Ajax зум + Галлерея + Jquery"
-date: ""
 categories: 
   - "xhtml"
 tags: 

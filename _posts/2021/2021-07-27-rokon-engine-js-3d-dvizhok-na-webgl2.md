@@ -1,6 +1,5 @@
 ---
 title: "rokon-engine - js 3д движок на WebGL2"
-date: ""
 categories: 
   - "js"
 ---

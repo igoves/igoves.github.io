@@ -1,6 +1,5 @@
 ---
 title: "В модальном окне карусель для twitter bootsrap 3"
-date: ""
 categories: 
   - "css"
 ---

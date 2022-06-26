@@ -1,6 +1,5 @@
 ---
 title: "Создаем окружение в Windows > VirtualBox > Ubuntu Server > общая папка (nginx + php5-fpm + mysql + mongo)"
-date: ""
 categories: 
   - "note"
 tags: 

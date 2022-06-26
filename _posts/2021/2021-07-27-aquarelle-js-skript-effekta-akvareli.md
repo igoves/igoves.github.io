@@ -1,6 +1,5 @@
 ---
 title: "Aquarelle - js скрипт эффекта акварели"
-date: ""
 categories: 
   - "js"
 ---

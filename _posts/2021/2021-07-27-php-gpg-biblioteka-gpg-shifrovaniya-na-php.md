@@ -1,6 +1,5 @@
 ---
 title: "php-gpg - библиотека gpg шифрования на php"
-date: ""
 categories: 
   - "php"
 ---

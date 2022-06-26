@@ -1,6 +1,5 @@
 ---
 title: "Табы на чистом CSS"
-date: ""
 categories: 
   - "css"
 ---

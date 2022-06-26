@@ -1,6 +1,5 @@
 ---
 title: "SheepIt - js скрипт клонирования форм"
-date: ""
 categories: 
   - "js"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Elastislide - резиновая карусель на jQuery"
-date: ""
 categories: 
   - "js"
 ---

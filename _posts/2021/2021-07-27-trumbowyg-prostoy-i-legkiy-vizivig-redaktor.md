@@ -1,6 +1,5 @@
 ---
 title: "Trumbowyg - простой и легкий визивиг редактор"
-date: ""
 categories: 
   - "js"
 ---

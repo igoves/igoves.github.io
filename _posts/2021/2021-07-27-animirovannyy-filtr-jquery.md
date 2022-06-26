@@ -1,6 +1,5 @@
 ---
 title: "Анимированный фильтр jQuery"
-date: ""
 categories: 
   - "css"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Отказ в приеме на работу"
-date: ""
 categories: 
   - "note"
 tags: 

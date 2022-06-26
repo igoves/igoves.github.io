@@ -1,6 +1,5 @@
 ---
 title: "Симпатичный вертикальный аккордеон на jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

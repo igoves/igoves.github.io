@@ -1,6 +1,5 @@
 ---
 title: "Скрипт модальных окошек leanModal jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

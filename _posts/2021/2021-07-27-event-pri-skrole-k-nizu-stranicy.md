@@ -1,6 +1,5 @@
 ---
 title: "Event при скроле к низу страницы на jquery"
-date: ""
 categories: 
   - "js"
 ---

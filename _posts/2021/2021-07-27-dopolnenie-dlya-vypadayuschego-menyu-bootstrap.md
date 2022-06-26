@@ -1,6 +1,5 @@
 ---
 title: "Дополнение для выпадающего меню bootstrap"
-date: ""
 categories: 
   - "js"
 tags: 

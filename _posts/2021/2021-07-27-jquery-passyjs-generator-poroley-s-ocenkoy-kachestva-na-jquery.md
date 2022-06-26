@@ -1,6 +1,5 @@
 ---
 title: "jquery-passy.js - генератор поролей с оценкой качества на jQuery"
-date: ""
 categories: 
   - "js"
 ---

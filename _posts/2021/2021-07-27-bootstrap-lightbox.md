@@ -1,6 +1,5 @@
 ---
 title: "Bootstrap Lightbox"
-date: ""
 categories: 
   - "js"
 tags: 

@@ -1,6 +1,5 @@
 ---
 title: "strip - jQuery лайтбокс поддерживает картинки и видео"
-date: ""
 categories: 
   - "js"
 ---

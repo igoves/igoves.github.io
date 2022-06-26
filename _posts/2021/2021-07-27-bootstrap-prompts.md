@@ -1,6 +1,5 @@
 ---
 title: "bootstrap-prompts"
-date: ""
 categories: 
   - "js"
 ---

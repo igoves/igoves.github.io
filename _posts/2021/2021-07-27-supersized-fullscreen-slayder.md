@@ -1,6 +1,5 @@
 ---
 title: "Supersized - FullScreen слайдер"
-date: ""
 categories: 
   - "js"
 tags: 

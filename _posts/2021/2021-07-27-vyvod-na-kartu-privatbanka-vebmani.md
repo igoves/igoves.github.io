@@ -1,6 +1,5 @@
 ---
 title: "Вывод на карту ПриватБанка вебмани"
-date: ""
 categories: 
   - "note"
 tags: 

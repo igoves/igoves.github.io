@@ -1,6 +1,5 @@
 ---
 title: "medium-style-confirm - скрипт модального подтверждения"
-date: ""
 categories: 
   - "js"
 ---

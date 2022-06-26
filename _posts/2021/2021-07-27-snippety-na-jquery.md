@@ -1,6 +1,5 @@
 ---
 title: "Сниппеты на jquery"
-date: ""
 categories: 
   - "js"
 tags: 

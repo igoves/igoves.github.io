@@ -1,6 +1,5 @@
 ---
 title: "codeception-progress-reporter - репортер codeception с индикатором прогресса"
-date: ""
 categories: 
   - "php"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Очередной слайдер на jQuery"
-date: ""
 categories: 
   - "js"
 tags: 

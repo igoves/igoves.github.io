@@ -1,6 +1,5 @@
 ---
 title: "appzcoder/30-seconds-of-php-code - коллекция php сниппетов"
-date: ""
 categories: 
   - "php"
 ---

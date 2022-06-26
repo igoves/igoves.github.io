@@ -1,6 +1,5 @@
 ---
 title: "Ошибка Call to undefined function json_decode() или json_encode()"
-date: ""
 categories: 
   - "php"
 ---

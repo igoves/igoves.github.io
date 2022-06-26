@@ -1,6 +1,5 @@
 ---
 title: "jquery.animateNumber - плагин анимации бегущих циферок"
-date: ""
 categories: 
   - "js"
 ---

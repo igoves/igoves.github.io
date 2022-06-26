@@ -1,6 +1,5 @@
 ---
 title: "Волновой эффект на jQuery"
-date: ""
 categories: 
   - "js"
 ---

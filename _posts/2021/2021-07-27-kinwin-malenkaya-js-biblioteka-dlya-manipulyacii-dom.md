@@ -1,6 +1,5 @@
 ---
 title: "KinWin - маленькая js библиотека для манипуляции DOM"
-date: ""
 categories: 
   - "js"
 ---

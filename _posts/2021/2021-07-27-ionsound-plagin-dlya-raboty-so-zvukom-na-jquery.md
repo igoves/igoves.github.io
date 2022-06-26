@@ -1,6 +1,5 @@
 ---
 title: "Ion.Sound - плагин для работы со звуком на jQuery"
-date: ""
 categories: 
   - "js"
 ---

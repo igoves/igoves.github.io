@@ -1,6 +1,5 @@
 ---
 title: "alhimik1986/php-excel-templator - модуль, позволяющий экспортировать excel-файлы из excel-шаблона"
-date: ""
 categories: 
   - "php"
 ---

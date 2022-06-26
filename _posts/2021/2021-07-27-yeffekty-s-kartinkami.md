@@ -1,6 +1,5 @@
 ---
 title: "Эффекты с картинками"
-date: ""
 categories: 
   - "js"
 tags: 

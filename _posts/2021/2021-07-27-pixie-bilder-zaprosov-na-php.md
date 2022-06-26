@@ -1,6 +1,5 @@
 ---
 title: "pixie - билдер запросов на php"
-date: ""
 categories: 
   - "php"
 ---

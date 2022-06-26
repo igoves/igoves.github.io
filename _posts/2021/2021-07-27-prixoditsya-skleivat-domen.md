@@ -1,6 +1,5 @@
 ---
 title: "Мы не боимся склеивать домен!"
-date: ""
 categories: 
   - "note"
 tags: 
