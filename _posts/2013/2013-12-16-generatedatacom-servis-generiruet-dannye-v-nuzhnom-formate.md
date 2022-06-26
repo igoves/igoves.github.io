@@ -9,4 +9,4 @@ categories:
 
   
 Генерирует в нужном порядке, в нужном количестве, в нужном формате. Куча разных полей: имя, гео, телефон, эмейл, свои поля и многое другое.  
-[http://www.generatedata.com/](https://dev.xfor.top/go/aHR0cDovL3d3dy5nZW5lcmF0ZWRhdGEuY29tLw%3D%3D)
+[http://www.generatedata.com/](http://www.generatedata.com/)
