@@ -1,5 +1,15 @@
 entries:
-  - title: Navigation
+  - title: Contacts
     entries:
       - title: "github: <a href='https://github.com/igoves'>igoves</a>"
       - title: "email: <a href='mailto:igoves.dev@gmail.com'>igoves.dev@gmail.com</a>"
+  - title: Software
+    entries:
+      - title: vvShop
+      - title: vvStore
+      - title: Lashop
+  - title: Services
+    entries:
+      - title: icart
+      - title: web
+      - title: dev
