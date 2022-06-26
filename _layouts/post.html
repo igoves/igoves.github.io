@@ -4,7 +4,7 @@ layout: default
 
 {%-include back_link.html-%}
 
-<article>
+<article class="card">
   <h1>{{ page.title }}</h1>
   <div>
 	  <span class="post-meta">
@@ -30,16 +30,17 @@ layout: default
 
   {{ content }}
   
+  {% include post_pagination.html %}
+
+
+	<script src="https://utteranc.es/client.js"
+		repo="igoves/igoves.github.io"
+		issue-term="pathname"
+		theme="github-light"
+		crossorigin="anonymous"
+		async>
+	</script>
+
 </article>
 
 
-{% include post_pagination.html %}
-
-
-<script src="https://utteranc.es/client.js"
-	repo="igoves/igoves.github.io"
-	issue-term="pathname"
-	theme="github-light"
-	crossorigin="anonymous"
-	async>
-</script>
