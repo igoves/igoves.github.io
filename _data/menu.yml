@@ -3,12 +3,12 @@ entries:
     entries:
       - title: "github: <a href='https://github.com/igoves'>https://github.com/igoves</a>"
       - title: "email: <a href='mailto:igoves.dev@gmail.com'>igoves.dev@gmail.com</a>"
-  - title: Services
-    entries:
-      - title: "<a href='/icart'>icart</a> - connect a shopping cart to any website"
-  - title: Software
-    entries:
-      - title: "<a href='/vvshop'>vvShop</a> - Online store management system on steroids"
-      - title: "<a href='/vvstore'>vvStore</a> - simple and fast shop based without dependencies"
-      - title: "<a href='https://github.com/igoves/lashop'>Lashop</a> - simple and fast shop based on laravel"
-      - title: "<a href='https://wordpress.org/plugins/hotel-booking-by-xfor/'>Hotel Booking</a> - booking Wordpress plugin"
+# - title: Services
+#    entries:
+#     - title: "<a href='/icart'>icart</a> - connect a shopping cart to any website"
+#  - title: Software
+#    entries:
+#      - title: "<a href='/vvshop'>vvShop</a> - Online store management system on steroids"
+#      - title: "<a href='/vvstore'>vvStore</a> - simple and fast shop based without dependencies"
+#      - title: "<a href='https://github.com/igoves/lashop'>Lashop</a> - simple and fast shop based on laravel"
+#      - title: "<a href='https://wordpress.org/plugins/hotel-booking-by-xfor/'>Hotel Booking</a> - booking Wordpress plugin"
