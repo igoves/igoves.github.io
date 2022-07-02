@@ -7,7 +7,8 @@ description: >
   Software and services for e-commerce
 
 permalink: /:slug
-paginate_path: /page:num
+paginate_path: /page:num/
+paginate: 5
 
 favicon: "favicon.ico"
 
@@ -41,8 +42,8 @@ jekyll-archives:
     category: archive
     tag: archive
   permalinks:
-    category: /categories/:name
-    tag: /tags/:name
+    category: /categories/:name/
+    tag: /tags/:name/
     
     
     
