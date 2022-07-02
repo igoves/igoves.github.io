@@ -6,10 +6,7 @@ baseurl: "/"
 description: > 
   Software and services for e-commerce
 
-
-
 favicon: "favicon.ico"
-
 remote_theme: riggraz/no-style-please 
 
 theme_config:
