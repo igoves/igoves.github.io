@@ -23,6 +23,7 @@ plugins:
   - jekyll-target-blank
   - jekyll-archives
   - jekyll-feed
+  - jekyll-tagging-related_posts
 
 target-blank:
     rel: nofollow
