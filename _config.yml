@@ -25,19 +25,25 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-target-blank
+  - jekyll-archives
 
 target-blank:
     rel: nofollow
     
     
     
+# https://github.com/jekyll/jekyll-archives
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive
+    tag: archive
+  permalinks:
+    category: /categories/:slug
+    tag: /tags/:slug
     
-category_archive:
-  type: liquid
-  path: /categories
-tag_archive:
-  type: liquid
-  path: /tags
     
     
 compress_html:
