@@ -11,4 +11,5 @@ group :jekyll_plugins do
   gem "jekyll-target-blank"
   gem "jekyll-seo-tag"
   gem 'jekyll-related-posts'
+  gem 'jekyll-archives'
 end
