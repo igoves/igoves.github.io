@@ -1,8 +1,7 @@
+
 entries:
-  - title: Contacts
-    entries:
-      - title: "github: <a href='https://github.com/igoves'>https://github.com/igoves</a>"
-      - title: "email: <a href='mailto:igoves.dev@gmail.com'>igoves.dev@gmail.com</a>"
+  - title: "github: <a href='https://github.com/igoves'>https://github.com/igoves</a>"
+  - title: "email: <a href='mailto:igoves.dev@gmail.com'>igoves.dev@gmail.com</a>"
 # - title: Services
 #    entries:
 #     - title: "<a href='/icart'>icart</a> - connect a shopping cart to any website"

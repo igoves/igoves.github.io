@@ -7,6 +7,7 @@ description: >
   Software and services for e-commerce
 
 permalink: /:slug
+paginate_path: /page:num
 
 favicon: "favicon.ico"
 
@@ -22,7 +23,23 @@ sass:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-paginate
   - jekyll-target-blank
 
 target-blank:
     rel: nofollow
+    
+    
+    
+    
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+    
+    
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
