@@ -23,22 +23,22 @@ plugins:
   - jekyll-target-blank
   - jekyll-archives
   - jekyll-feed
-  - jekyll-tagging-related_posts
+  - jekyll-related-posts
 
 target-blank:
     rel: nofollow
     
 # https://github.com/jekyll/jekyll-archives
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layouts:
-    category: archive
-    tag: archive
-  permalinks:
-    category: /categories/:slug
-    tag: /tags/:slug
+# jekyll-archives:
+  # enabled:
+    # - categories
+    # - tags
+  # layouts:
+    # category: archive
+    # tag: archive
+  # permalinks:
+    # category: /categories/:slug
+    # tag: /tags/:slug
     
     
 compress_html:

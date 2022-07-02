@@ -17,31 +17,19 @@ layout: default
 		{% assign categories = page.categories %}
 	  {% endif %}
 	  {% for category in categories %}
-	  <a href="{{site.baseurl}}/categories/{{category|slugize}}">{{category}}</a>
+	  <a href="{{site.baseurl}}/categories#{{category|slugize}}">{{category}}</a>
 	  {% unless forloop.last %}&nbsp;{% endunless %}
 	  {% endfor %}
 	
 	  {% for tag in page.tags %}
 		{% capture tag_name %}{{ tag }}{% endcapture %}
-		<a href="/tags/{{ tag_name }}">#{{ tag_name }}</a>
+		<a href="/tags#{{ tag_name }}">#{{ tag_name }}</a>
 	  {% endfor %}
   </div>
 
   {{ content }}
 
-  <div style="margin-top: 2rem;">
-    <strong>You may also enjoy</strong>
-	{% if site.related_posts.size >= 1 %}
-	<div>
-	  <h3>Related Posts</h3>
-	  <ul>
-	  {% for related_post in site.related_posts limit: 5 %}
-		<li><a href="{{ related_post.url }}">{{ related_post.title }}</a></li>
-	  {% endfor %}
-	  </ul>
-	</div>
-	{% endif %}
-  </div>
+  <related-posts />
 
 </article>
 

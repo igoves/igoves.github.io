@@ -10,5 +10,5 @@ group :jekyll_plugins do
   gem "kramdown-parser-gfm"
   gem "jekyll-target-blank"
   gem "jekyll-seo-tag"
-  gem 'jekyll-tagging-related_posts'
+  gem 'jekyll-related-posts'
 end
