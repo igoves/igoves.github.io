@@ -6,9 +6,7 @@ baseurl: "/"
 description: > 
   Software and services for e-commerce
 
-permalink: /:slug
-paginate_path: /page:num/
-paginate: 5
+
 
 favicon: "favicon.ico"
 
@@ -41,11 +39,16 @@ jekyll-archives:
     category: archive
     tag: archive
   permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
+    category: /categories/:slug
+    tag: /tags/:slug
     
     
 compress_html:
   clippings: all
   ignore:
     envs: development
+    
+    
+permalink: /:slug
+paginate_path: /page:num
+paginate: 5
