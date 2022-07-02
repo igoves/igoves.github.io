@@ -5,11 +5,8 @@ source "https://rubygems.org"
 gem 'jekyll'
 
 group :jekyll_plugins do
-  gem "jekyll-paginate"
   gem "jekyll-feed"
   gem "kramdown-parser-gfm"
   gem "jekyll-target-blank"
   gem "jekyll-seo-tag"
-  gem 'jekyll-related-posts'
-  gem 'jekyll-archives'
 end

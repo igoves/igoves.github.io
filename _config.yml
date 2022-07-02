@@ -19,48 +19,9 @@ sass:
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-paginate
   - jekyll-target-blank
-  - jekyll-archives
   - jekyll-feed
-  - jekyll-related-posts
 
 target-blank:
     rel: nofollow
-    
-# related_by: tags and categories
-# related_limit: 6
-# related_categories: 1
-# related_tags: 1
-    
-# Archives
-jekyll-archives:
-  enabled:
-    - categories
-  layout: archive
-  permalinks:
-    category: '/category/:name/'
-    
-    
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-  # enabled:
-    # - categories
-    # - tags
-  # layouts:
-    # category: archive
-    # tag: archive
-  # permalinks:
-    # category: /categories/:slug
-    # tag: /tags/:slug
-    
-    
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
-    
-    
-permalink: /:slug
-paginate_path: /page:num/
-paginate: 5
+
