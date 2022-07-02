@@ -2,7 +2,12 @@
 
 source "https://rubygems.org"
 
-gem "kramdown-parser-gfm"
-gem 'jekyll-target-blank'
+gem 'jekyll'
 
-gemspec
+group :jekyll_plugins do
+  gem "jekyll-paginate"
+  gem "jekyll-feed"
+  gem "kramdown-parser-gfm"
+  gem "jekyll-target-blank"
+  gem "jekyll-seo-tag"
+end
