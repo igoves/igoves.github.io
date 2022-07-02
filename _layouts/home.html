@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<header>
+  <h1 class="logo">{{ site.title }}</h1>
+  {%-if site.theme_config.show_description-%}
+    <p class="lead">{{ site.description }}</p>
+  {%-endif-%}
+</header>
+
+<!-- <p> -->
+	<!-- projects: icart, vvshop, vvstore, lashop, hotel booking, web -->
+<!-- </p> -->
+
+<!-- Categories: php, js, go, css, xhtml, noty -->
+
+{%-include menu_item.html collection=site.data.menu.entries-%}
+
+{%-include home_post_list.html collection=site.data.latest_posts.entries-%}
+
+{{ content }}
