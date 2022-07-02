@@ -15,7 +15,7 @@ favicon: "favicon.ico"
 remote_theme: riggraz/no-style-please 
 
 theme_config:
-  back_home_text: "< back"
+  back_home_text: "< to home"
   date_format: "%Y-%m-%d" 
   show_description: true 
 
