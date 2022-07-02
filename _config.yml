@@ -41,8 +41,8 @@ jekyll-archives:
     category: archive
     tag: archive
   permalinks:
-    category: /categories/:slug
-    tag: /tags/:slug
+    category: /categories/:name
+    tag: /tags/:name
     
     
     
