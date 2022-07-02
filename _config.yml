@@ -28,6 +28,11 @@ plugins:
 target-blank:
     rel: nofollow
     
+related_by: tags and categories
+related_limit: 6
+related_categories: 1
+related_tags: 1
+    
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
   # enabled:
