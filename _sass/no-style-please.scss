@@ -16,7 +16,7 @@ body {
 
 .card {
 	padding: 2.5rem 4rem;
-	background: #fff;
+	background: rgba(255,255,255, 0.6);
 	box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0 , 0.08) !important;
 }
 
@@ -25,6 +25,18 @@ body {
     font-weight: 300;
     line-height: 1;
 	margin-bottom: 0;
+}
+
+@media only screen and (min-width: 768px) {
+	.page-content {
+		padding: 0.5rem;
+	}
+	.card {
+		padding: 0.5rem;
+	}
+	ul {
+		padding-left: 1.3rem;
+	}
 }
 
 .lead {
@@ -48,7 +60,9 @@ li { margin: 0.4rem 0; }
   padding: 4rem 2rem;
 }
 
-
+a:link { color: #0000FF; }
+a:visited { color: #800080; }
+a:active { color: #FF0000; }
 
 table { width: 100%; }
 
